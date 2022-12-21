@@ -21,13 +21,13 @@ class Home extends StatelessWidget {
                 children: [
                   Expanded(
                     child: RawMaterialButton(
-                      onPressed: () {},
+                      onPressed: () { Navigator.pushNamed(context, '/tests', arguments: { 'option': 1 }); },
                       fillColor: Colors.brown[700],
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 32),
+                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
                             child: Row(
                               children: [
                                 Expanded(child: Image.asset('assets/english.png')),
@@ -36,7 +36,13 @@ class Home extends StatelessWidget {
                               ],
                             ),
                           ),
-                          Text('ENG -> ESP', style: TextStyle(color: Colors.brown[200], fontSize: 64))
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceAround,
+                            children: [
+                              Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
+                              Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
+                            ],
+                          )
                         ],
                       ),
                     ),
@@ -50,13 +56,13 @@ class Home extends StatelessWidget {
                 children: [
                   Expanded(
                     child: RawMaterialButton(
-                      onPressed: () {},
+                      onPressed: () { Navigator.pushNamed(context, '/tests', arguments: { 'option': 2 }); },
                       fillColor: Colors.brown[700],
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 32),
+                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
                             child: Row(
                               children: [
                                 Expanded(child: Image.asset('assets/spanish.png')),
@@ -65,11 +71,49 @@ class Home extends StatelessWidget {
                               ],
                             ),
                           ),
-                          Text('ESP -> ENG', style: TextStyle(color: Colors.brown[200], fontSize: 64))
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceAround,
+                            children: [
+                              Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
+                              Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
+                            ],
+                          )
                         ],
                       ),
                     ),
                   ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 20,),
+            Expanded(
+              child: Row(
+                children: [
+                  Expanded(
+                    child: RawMaterialButton(
+                      onPressed: () { Navigator.pushNamed(context, '/browser'); },
+                      fillColor: Colors.brown[700],
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Padding(
+                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
+                            child: Row(
+                              children: const [
+                                Expanded(child: Icon(Icons.book, size: 72,)),
+                              ],
+                            ),
+                          ),
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text('Learn', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
+                            ],
+                          )
+                        ],
+                      ),
+                    ),
+                  )
                 ],
               ),
             )

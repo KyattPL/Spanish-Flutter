@@ -1,1 +1,4118 @@
-[{"name": "The Essentials", "data": ["s\u00ed \u2014 yes\n", "no \u2014 no\n", "\u00bfentiende(s)? \u2014 do you understand?\n", "no entiendo \u2014 i don\u2019t understand\n", "no (lo) s\u00e9 \u2014 i don\u2019t know\n", "no tengo ni idea \u2014 i have no idea\n", "no hablo espa\u00f1ol \u2014 i don\u2019t speak spanish\n", "estoy perdido(a) \u2014 i\u2019m lost"]}, {"name": "Introduce Yourself", "data": ["me llamo \u2014 my name is\n", "mi nombre es \u2014 my name is\n", "soy\u2026  \u2014 i\u2019m\u2026\n", "\u00bfc\u00f3mo te llamas? \u2014 what is your name?\n", "(yo) soy de\u2026 \u2014 i am from\u2026"]}, {"name": "What\u2019s Up", "data": ["\u00bfc\u00f3mo est\u00e1 usted? \u2014 how are you? (formal)\n", "\u00bfc\u00f3mo est\u00e1s? \u2014 how are you? (informal)\n", "\u00bfqu\u00e9 tal? \u2014 how are you? (informal) / what\u2019s up?\n", "\u00bfc\u00f3mo te va? \u2014 how \u2018s it going?\n", "\u00bfqu\u00e9 haces? \u2014 what are you doing?\n", "\u00bfqu\u00e9 pasa? \u2014 what \u2018s happening?"]}, {"name": "Responses", "data": ["\u00bfy t\u00fa? \u2014 and you?\n", "muy bien \u2014 very well\n", "as\u00ed, as\u00ed \u2014 so, so\n", "mal \u2014 bad\n", "como siempre \u2014 as always"]}, {"name": "Etiquette Words", "data": ["\u00a1de nada! \u2014 you\u2019re welcome! / no problem!\n", "por favor \u2014 please\n", "\u00a1perdon! \u2014 excuse me!\n", "\u00a1disculpe! \u2014 excuse me!\n", "\u00a1lo siento! \u2014 sorry!\n", "gracias  \u2014 thank you\n", "salud \u2014 bless you"]}, {"name": "Question Words", "data": ["\u00bfqu\u00e9\u2026? \u2014 what?\n", "\u00bfqui\u00e9n\u2026? \u2014 who?\n", "\u00bfcu\u00e1ndo\u2026? \u2014 when?\n", "\u00bfd\u00f3nde\u2026? \u2014 where?\n", "\u00bfpor qu\u00e9\u2026? \u2014 why?\n", "\u00bfcu\u00e1l? \u2014 which?\n", "\u00bfc\u00f3mo\u2026? \u2014 how?"]}, {"name": "Spanish Pronouns", "data": ["Yo \u2014 I\n", "t\u00fa (informal) \u2014 you\n", "usted (formal) \u2014 you\n", "\u00e9l \u2014 he\n", "ella \u2014 she\n", "nosotros/nosotras \u2014 we\n", "ustedes \u2014 you all\n", "ellos \u2014 they\n", "ellas(females) \u2014 they"]}, {"name": "Greetings", "data": ["hola \u2014 hello\n", "buenos d\u00edas \u2014 good morning\n", "buenas tardes \u2014 good afternoon\n", "buenas noches \u2014 good evening / good night"]}, {"name": "Talking About Age", "data": ["(yo) tengo \u2026 a\u00f1os \u2014 i am \u2026 years old.\n", "old \u2014 viejo/a\n", "young \u2014 joven\n", "middle-aged \u2014 de mediana edad\n", "youthful \u2014 juvenil\n", "nuevo/a \u2013 new"]}, {"name": "Celebrate!", "data": ["\u00a1feliz cumplea\u00f1os! \u2014 happy birthday!\n", "\u00a1felicitaciones! \u2014 congratulations!\n", "\u00a1divi\u00e9rtete! \u2014 have fun!\n", "\u00a1buen provecho! \u2014 bon appetit!\n", "\u00a1bienvenidos! / \u00a1bienvenidas! \u2014 welcome!\n", "salud! \u2014 cheers!"]}, {"name": "Say Goodbye", "data": ["adi\u00f3s \u2014 goodbye\n", "chao \u2014 goodbye\n", "hasta luego \u2014 see you later (most likely today)\n", "hasta ma\u00f1ana \u2014 see you tomorrow\n", "nos vemos \u2014 see you (informal)\n", "\u00a1cu\u00eddate mucho! \u2014 take care!\n", "\u00a1tenga un buen d\u00eda! \u2014 have a nice day!\n", "\u00a1hasta luego! \u2014 see you soon!\n", "\u00a1buen viaje! \u2014 have a good trip!"]}, {"name": "Days of the Week", "data": ["Domingo \u2014 Sunday\n", "Lunes \u2014 Monday\n", "Martes \u2014 Tuesday\n", "Mi\u00e9rcoles \u2014 Wednesday\n", "Jueves \u2014 Thursday\n", "Viernes \u2014 Friday\n", "Sabado \u2014 Saturday"]}, {"name": "Months of the Year", "data": ["Enero \u2014 January\n", "Febrero \u2014 February\n", "Marzo \u2014 March\n", "Abril \u2014 April\n", "Mayo \u2014 May\n", "Junio \u2014 June\n", "Julio \u2014 July\n", "Agosto \u2014 August\n", "Septiembre \u2014 September\n", "Octubre \u2014 October\n", "Noviembre \u2014 November\n", "Diciembre \u2014 December"]}, {"name": "Other Time Words", "data": ["anteayer \u2014 day before yesterday\n", "ayer \u2014 yesterday\n", "el a\u00f1o \u2014 year\n", "el d\u00eda \u2014 day\n", "el mes \u2014 month\n", "el siglo \u2014 century\n", "la hora \u2014 hour\n", "hoy \u2014 today\n", "la semana \u2014 week\n", "madrugada \u2014 dawn, very early in the morning\n", "ma\u00f1ana \u2014 tomorrow\n", "ma\u00f1ana \u2014 morning\n", "medianoche \u2014 midnight\n", "mediodia \u2014 noon\n", "el minuto \u2014 minute\n", "la noche \u2014 night\n", "el pasado ma\u00f1ana \u2014 day after tomorrow\n", "los segundos \u2014 seconds\n", "la tarde \u2014 afternoon"]}, {"name": "Nuclear Family", "data": ["el padre \u2014 father\n", "el pap\u00e1 \u2014  dad\n", "la madre  \u2014 mother\n", "la mam\u00e1 \u2014 mom\n", "el hermano \u2014  brother\n", "la hermana \u2014 sister\n", "el hijo  \u2014 son\n", "la hija  \u2014 daughter\n", "la familia cercana \u2014  close family"]}, {"name": "Extended Family", "data": ["el abuelo  \u2014 grandfather\n", "la abuela  \u2014 grandmother\n", "el bisabuelo \u2014 great-grandfather\n", "la bisabuela \u2014 great-grandmother\n", "la nieta \u2014 granddaughter\n", "el nieto \u2014 grandson\n", "el t\u00edo \u2014 uncle\n", "la t\u00eda \u2014 aunt\n", "el t\u00edo abuelo \u2014 great-uncle\n", "la t\u00eda abuela \u2014 great-aunt\n", "el primo \u2014 cousin (male)\n", "la prima \u2014 cousin (female)\n", "mis parientes \u2014 my relatives"]}, {"name": "Family Verbs", "data": ["abrazar \u2014 to hug\n", "amar \u2014 to love\n", "re\u00edr \u2014 to laugh\n", "perdonar \u2014 to forgive"]}, {"name": "Action Verbs", "data": ["empezar \u2014  to start\n", "seguir \u2014 to follow\n", "abrir \u2014  to open\n", "buscar \u2014 to search\n", "cantar \u2014 to sing\n", "cerrar \u2014 to close\n", "destruir \u2014 to destroy\n", "dormir \u2014 to sleep\n", "encontrar \u2014 to find\n", "esconder \u2014 to hide\n", "esperar \u2014 to wait\n", "faltar \u2014 to miss\n", "hacer \u2014 to do\n", "intentar \u2014 to try\n", "llamar \u2014 to call\n", "llevar \u2014 to take\n", "llorar \u2014 to cry\n", "luchar \u2014 to fight\n", "mentir \u2014 to lie\n", "odiar \u2014 to hate\n", "recibir \u2014 to receive\n", "reconocer \u2014 to recognize\n", "robar \u2014 to steal\n", "salvar \u2014 to save\n", "sonre\u00edr \u2014 to smile\n", "so\u00f1ar \u2014 to dream\n", "tomar \u2014 to take\n", "Vivir \u2014 to live"]}, {"name": "Sound", "data": ["tranquilo/a \u2013 quiet\n", "ruidoso/a \u2013 loud\n", "gritar \u2014 to shout\n", "escuchar \u2014 to hear\n", "silencio \u2014 silence\n", "alto \u2014 loud\n", "bajo \u2014 soft\n", "ensordecedor \u2014 deafening\n", "agudo \u2014 sharp, high-pitched\n", "grave \u2014 low-pitched\n", "melodioso \u2014 melodious\n", "arm\u00f3nico \u2014 harmonic\n", "zumbido \u2014 buzz\n", "sordo \u2014 deaf\n", "duro de o\u00edd \u2014 hard of hearing\n", "o\u00eddo fino \u2014 acute hearing\n", "problemas de audici\u00f3n \u2014 hearing-impaired\n", "fuera de alcance \u2014  out of earshot"]}, {"name": "Sight", "data": ["ver \u2014 to see\n", "mirar \u2014 to look\n", "de colores\u2014 colorful\n", "blanco y negro \u2014 black and white\n", "brillante \u2014 bright\n", "apagado \u2014 dim\n", "claro \u2014 light\n", "oscuro \u2014 dark\n", "ciego \u2014 blind\n", "mirar fijamente \u2014 to stare\n", "echar un vistazo \u2014 to glance\n", "bizquear \u2014 to squint\n", "gui\u00f1ar \u2014 to wink\n", "parpadear \u2014 to blink"]}, {"name": "Touch", "data": ["tocar \u2014 to touch\n", "agarrar \u2014 to grab\n", "suave \u2014 soft\n", "\u00e1spero(a) \u2014 rough\n", "liso(a) \u2014 smooth\n", "rugoso(a) \u2014 wrinkled\n", "pegajoso(a) \u2014 sticky\n", "punzante \u2014 sharp\n", "sedoso(a) \u2014 silky\n", "esponjoso(a) \u2014 spongy\n", "mullido(a) \u2014 fluffy\n", "hormigueo \u2014 tingle\n", "entumecido(a) \u2014 numb\n", "rozar \u2014 to touch gently\n", "acariciar \u2014 to caress\n", "agarrar \u2014 to grab"]}, {"name": "Smell", "data": ["olor \u2014 smell\n", "el perfume \u2014 scent\n", "la fragancia \u2014 fragrance\n", "el hedor \u2014 stench\n", "apestoso(a) \u2014 smelly\n", "fresco(a)  \u2014 fresh\n", "acre \u2014 pungent\n", "h\u00famedo(a) \u2014 musty\n", "podrido(a) \u2014 rotten\n", "ahumado(a) \u2014 smoky\n", "apestar \u2014 to stink"]}, {"name": "Taste", "data": ["gusto \u2014 taste\n", "sabor \u2014 flavor\n", "probar \u2014 try\n", "sabroso  \u2014 est\u00e1 sabrosa\n", "delicioso \u2014  delicious\n", "perfecto  \u2014  perfect\n", "apetitoso  \u2014 appetizing\n", "dulce  \u2014 sweet\n", "dulz\u00f3n \u2014  sugary\n", "soso  \u2014 bland"]}, {"name": "Distance", "data": ["abierto/a \u2013 open\n", "ancho/a \u2013 wide\n", "estrecho/a \u2013 narrow\n", "lejano/a \u2013 far\n", "cercano/a \u2013 close"]}, {"name": "Personality and Emotions", "data": ["alegre \u2013 joyful\n", "gracioso/a \u2013 funny, amusing\n", "serio/a \u2013 serious\n", "t\u00edmido/a \u2013 shy\n", "valiente \u2013 brave\n", "loco/a \u2013 crazy\n", "contento(a) \u2014 content\n", "feliz \u2014 happy\n", "preocupado(a) \u2014 worried\n", "nervioso(a) \u2014 nervous\n", "tranquilo(a) \u2014 tranquil\n", "calmado(a) \u2014 calm\n", "emocionado(a) \u2014 excited"]}, {"name": "Hair", "data": ["largo/a \u2014 long\n", "corto/a \u2014 short\n", "liso/a \u2014 straight\n", "rizado/a \u2014 curly\n", "ondulado/a \u2014 wavy\n", "casta\u00f1o/a \u2014 brown\n", "rubio/a \u2014 blonde\n", "pelirrojo/a \u2014 red\n", "negro/a \u2014 black\n", "canoso/a \u2014 grey\n", "abundante \u2014 thick\n", "fino/a \u2014 thin\n", "escalado/a \u2014 layered\n", "te\u00f1ido/a \u2014 dyed\n", "saludable \u2014 healthy\n", "claro/a \u2014 light\n", "encrespado/a \u2014 frizzy\n", "brillante \u2014 shiny\n", "calvo/a \u2014 bald"]}, {"name": "Size", "data": ["grande \u2013 big\n", "peque\u00f1o/a \u2013 small\n", "enorme \u2013 huge\n", "delgado/a \u2014 lean\n", "esbelto/a \u2014 slender\n", "flaco/a \u2014 skinny\n", "menudo/a \u2014 petite\n", "alto/a \u2014 tall\n", "bajo/a \u2014 short"]}, {"name": "Looks", "data": ["hermoso/a \u2014 beautiful\n", "guapo/a \u2014 handsome\n", "feo/a \u2014 ugly\n", "adorable \u2014 cute\n", "bonita \u2014 pretty\n", "impresionante \u2014 stunning\n", "poco atractivo/a \u2014 plain\n", "promedio/a \u2014 average\n", "atractivo/a \u2014 attractive"]}, {"name": "Colors", "data": ["negro \u2014  black\n", "marr\u00f3n / caf\u00e9 \u2014  brown\n", "gris \u2014 grey\n", "blanco \u2014 white\n", "amarillo \u2014  yellow\n", "anaranjado \u2014 orange\n", "rojo \u2014 red\n", "rosado \u2014  pink\n", "morado / p\u00farpura \u2014 purple\n", "azul \u2014  blue\n", "verde \u2014 green"]}, {"name": "Arts and Crafts", "data": ["colorear \u2014 to color\n", "construir \u2014 to construct\n", "cortar \u2014 to cut\n", "coser \u2014 to sew\n", "dibujar \u2014 to draw\n", "pintar \u2014 to paint"]}, {"name": "Numbers", "data": ["cero \u2014 zero\n", "uno \u2014 one\n", "dos \u2014 two\n", "tres \u2014 three\n", "cuatro \u2014 four\n", "cinco \u2014  five\n", "seis \u2014 six\n", "siete \u2014 seven\n", "ocho \u2014  eight\n", "nueve \u2014 nine\n", "diez \u2014 ten"]}, {"name": "Animals", "data": ["el gato \u2014 cat\n", "el perro \u2014 dog\n", "el conejo \u2014 rabbit\n", "el pollo \u2014 chicken\n", "la gallina \u2014 hen\n", "el gallo \u2014  rooster\n", "la vaca \u2014  cow\n", "el toro \u2014  bull\n", "la oveja \u2014  sheep\n", "el caballo \u2014 horse\n", "el cerdo \u2014 pig\n", "la cabra \u2014  goat\n", "el burro \u2014  donkey\n", "el rat\u00f3n \u2014  mouse"]}, {"name": "Forest Animals", "data": ["el ciervo \u2014  deer\n", "el mapache \u2014  raccoon\n", "la ardilla -\u2014 squirrel\n", "el b\u00faho \u2014  owl\n", "el zorro \u2014  fox\n", "el lobo \u2014  wolf\n", "el oso \u2014  bear"]}, {"name": "Ocean Animals", "data": ["el cangrejo \u2014 crab\n", "la medusa \u2014 jellyfish\n", "el delf\u00edn \u2014  dolphin\n", "la ballena \u2014  whale\n", "el tibur\u00f3n \u2014  shark\n", "la foca \u2014  seal\n", "el lobo marino \u2014  sea lion\n", "la morsa \u2014  walrus\n", "el ping\u00fcino \u2014 penguin"]}, {"name": "Travel", "data": ["el viaje \u2014 trip\n", "el equipaje  \u2014 bags\n", "la salida \u2014 exit\n", "la llegada \u2014 arrival\n", "los documentos de identidad \u2014 id papers\n", "el billete de avi\u00f3n \u2014 boarding pass\n", "el hotel \u2014 hotel\n", "el permiso de conducir \u2014 driver\u2019s license\n", "echar gasolina \u2014 to get gas\n", "viajar \u2014 to travel\n", "volver \u2014 to return\n", "ir \u2014 to go\n", "salir \u2014 to leave\n", "parar \u2014 to stop\n", "partir \u2014 to depart\n", "porter(a) \u2014 doorman\n", "hostia \u2014 hostess\n", "botones \u2014 bellhop\n", "anfitriona \u2014 airline hostess"]}, {"name": "Transportation", "data": ["el avi\u00f3n \u2014  airplane\n", "el coche \u2014  car\n", "la bicicleta \u2014 bicycle\n", "la motocicleta \u2014 motorcycle\n", "el tren \u2014  train\n", "el metro/subte \u2014  subway\n", "el autob\u00fas \u2014 bus\n", "el barco \u2014 ship\n", "taxista \u2014 taxi driver\n", "revisor(a) \u2014 train conductor\n", "dependiente de gas \u2014 gas station attendant\n", "conductor(a) \u2014 driver, chauffeur\n", "camionero(a) \u2014 truck driver"]}, {"name": "Weather", "data": ["el sol \u2014  the sun\n", "las nubes \u2014  the clouds\n", "la niebla \u2014 the fog\n", "la neblina \u2014 the mist\n", "la lluvia \u2014  the rain\n", "la llovizna \u2014 the drizzle\n", "la tormenta \u2014  the storm\n", "el tornado \u2014  the tornado\n", "el trueno \u2014 the thunder\n", "el rel\u00e1mpago \u2014 the lightning strike\n", "el rayo \u2014 the lightning bolt\n", "el viento \u2014 the wind\n", "la brisa \u2014 the breeze\n", "el granizo \u2014 the hail\n", "el hielo \u2014 the ice\n", "la nieve \u2014  the snow\n", "el calor \u2014  the heat\n", "el fr\u00edo \u2014  the cold\n", "la humedad \u2014 the humidity\n", "la temperatura \u2014 the temperature\n", "el pron\u00f3stico \u2014 the forecast"]}, {"name": "Weather Verbs", "data": ["llover  \u2014  to rain\n", "lloviznar  \u2014  to drizzle\n", "diluviar  \u2014 to pour down\n", "granizar  \u2014 to hail\n", "nevar  \u2014  to snow"]}, {"name": "Seasons", "data": ["el invierno  \u2014  winter\n", "la primavera  \u2014  spring\n", "el verano \u2014  summer\n", "el oto\u00f1o  \u2014  fall"]}, {"name": "Business", "data": ["carta de motivaci\u00f3n  \u2014 cover letter\n", "el cv  \u2014 resume\n", "la firma  \u2014 firm\n", "el negocio  \u2014 business\n", "la compa\u00f1\u00eda  \u2014 company\n", "el jefe  \u2014 boss\n", "el empleado  \u2014 employee\n", "trabajar  \u2014 to work\n", "negociar \u2014 to negotiate\n", "consultor(a) \u2014  consultant\n", "due\u00f1o(a) \u2014 owner"]}, {"name": "Careers", "data": ["abogado(a) \u2014 lawyer\n", "arquitecto(a) \u2014 architect\n", "bombero(a) \u2014 fireman\n", "campesino(a) \u2014 farm worker\n", "carpintero(a) \u2014 carpenter\n", "cartero(a) \u2014 postal worker\n", "casero(a) \u2014 landlord\n", "cient\u00edfico(a) \u2014 scientist\n", "cocinero(a) \u2014 cook, chef\n", "consejero (a) \u2014 counselor\n", "constructor (a) \u2014 construction worker\n", "contador(a) \u2014 accountant/bookkeeper\n", "dom\u00e9stico(a) \u2014  maid\n", "detective \u2014 detective\n", "director, revisor, redactor(a) \u2014 editor\n", "electricista \u2014 electrician\n", "escritor / autor(a) \u2014 writer / author\n", "vaquero, tropero(a) \u2014 cowboy\n", "manejador(a) \u2014 manager\n", "granjero(a) \u2014 farmer\n", "ingeniero(a) \u2014 engineer\n", "jardinero(a) \u2014 gardener\n", "jefe \u2014 boss\n", "juez \u2014 judge\n", "lavandero(a) \u2014 laundry person\n", "marinero(a) \u2014  merchant marine\n", "mec\u00e1nico (a) \u2014 mechanic\n", "camarero(a) \u2014 waiter\n", "padre \u2014 priest\n", "panadero(a) \u2014 baker\n", "pastor(a) \u2014 pastor/minister\n", "periodista \u2014 reporter/journalist\n", "pescador(a) \u2014 fisherman\n", "pintor(a) \u2014 painter\n", "plomero(a) \u2014 plumber\n", "Polic\u00eda \u2014 policeman\n", "programador(a) \u2014 computer programmer\n", "due\u00f1o(a) \u2014 owner\n", "qu\u00edmico(a) \u2014 chemist\n", "ranchero(a) \u2014 rancher\n", "rebuscador(a) \u2014 researcher\n", "reparador(a) \u2014 repairman\n", "t\u00e9cnico(a) de laboratorio \u2014 lab technician\n", "trabajador(a) de f\u00e1brica \u2014 factory worker\n", "veterinario(a) \u2014 veterinarian"]}, {"name": "Sports", "data": ["ir al gimnasio \u2014 go to the gym\n", "ir de caminata \u2014 go hiking\n", "levantar pesas \u2014 lift weight\n", "mantenerse en forma \u2014 to stay in shape\n", "practicar \u2014 to practice\n", "nadar \u2014 to swim\n", "el yoga \u2014 yoga\n", "el f\u00fatbol \u2014 soccer\n", "el f\u00fatbol americano \u2014 football\n", "el b\u00e9isbol \u2014 baseball\n", "el baloncesto \u2014 basketball\n", "el golf \u2014 golf\n", "el hockey \u2014 hockey\n", "el tenis \u2014 tennis\n", "el voleibol \u2014 volleyball\n", "luchar \u2014 to wrestle/to fight\n", "correr \u2014 to run\n", "esquiar \u2014 to ski\n", "el partido \u2014 game/match\n", "la carrera \u2014 race\n", "el torneo \u2014 tournament\n", "Sports Verbs\n", "patear \u2014 to kick\n", "saltar \u2014 to jump\n", "parar \u2014 to stop/to block\n", "balancear \u2014 to swing\n", "servir \u2014 to serve\n", "rematar \u2014 to spike\n", "pegar \u2014 to hit\n", "driblar \u2014 to dribble\n", "tirar \u2014 to throw\n", "agarrar \u2014 to catch\n", "ganar \u2014 to win\n", "perder \u2014 to lose\n", "empatar \u2014 to tie\n", "caminar \u2014 to walk\n", "bailar \u2014 to dance\n", "jugar \u2014 to play\n", "competir \u2014 to compete"]}, {"name": "Food and Drink", "data": ["la comida \u2014 food\n", "las bebidas \u2014 drinks\n", "las verduras \u2014 vegetables\n", "las frutas \u2014 fruits\n", "cocinar \u2014 to cook\n", "tengo hambre \u2014 i\u2019m hungry\n", "tengo sed \u2014 i\u2019m thirsty"]}, {"name": "Meats", "data": ["la res \u2014  beef\n", "el pollo \u2014 chicken\n", "la gallina \u2014 chicken\n", "el cordero \u2014  lamb\n", "la barbacoa \u2014  grilled\n", "el cerdo \u2014 pork\n", "el perrito caliente \u2014 hot dog\n", "el jam\u00f3n \u2014 ham\n", "la hamburguesa \u2014 hamburger\n", "el tocino \u2014  bacon\n", "el pescado \u2014 fish"]}, {"name": "Vegetables", "data": ["la zanahoria \u2014  carrot\n", "la lechuga \u2014  lettuce\n", "el tomate \u2014 tomato\n", "la ma\u00edz \u2014 corn\n", "la papa \u2014 potato\n", "la patata  \u2014 potato\n", "las papas \u2014  french fries\n", "las patatas fritas \u2014  french fries\n", "el brocoli \u2014  broccoli\n", "la espinaca \u2014  spinach\n", "la cebolla \u2014  onion\n", "la col \u2014  cabbage\n", "la ensalada \u2014 salad\n", "la aceituna \u2014  olive\n", "las calabacitas \u2014  squash\n", "el hongo \u2014  mushroom\n", "el pepino \u2014  cucumber"]}, {"name": "Fruits", "data": ["la manzana \u2014  apple\n", "la pera \u2014  pear\n", "la fresa \u2014  strawberry\n", "la frambuesa \u2014  raspberry\n", "la zarzamora \u2014 blackberry\n", "el ar\u00e1ndano \u2014  blueberry\n", "el ar\u00e1ndano rojo \u2014 cranberry\n", "la naranja \u2014  orange\n", "la mandarina \u2014  tangerine\n", "la toronja \u2014  grapefruit\n", "el lim\u00f3n \u2014  lemon\n", "la lima \u2014  lime\n", "el pl\u00e1tano \u2014  banana\n", "la pi\u00f1a \u2014  pineapple\n", "el coco \u2014  coconut\n", "el mango \u2014  mango\n", "la papaya \u2014 papaya"]}, {"name": "Drinks", "data": ["la cerveza \u2014  beer\n", "el refresco \u2014  pop, soft drink\n", "el t\u00e9 \u2014  tea\n", "el t\u00e9 helado \u2014  iced tea\n", "el caf\u00e9 \u2014  coffee\n", "la leche \u2014  milk\n", "el agua \u2014  water\n", "el jugo \u2014 juice\n", "el batido \u2014  milkshake"]}, {"name": "Desserts", "data": ["el chocolate \u2014  chocolate\n", "los dulces \u2014  candy\n", "el pastel \u2014  cake\n", "las galletas \u2014  cookies\n", "el helado \u2014  ice cream\n", "el churros con chocolate \u2014  chocolate churros\n", "el basque cheesecake \u2014  cheesecake"]}, {"name": "Utensils", "data": ["el plato \u2014  plate\n", "el plato hondo \u2014  bowl\n", "el vaso \u2014  glass\n", "la copa \u2014  cup\n", "el tenedor \u2014  fork\n", "la cuchara \u2014  spoon\n", "el cuchillo \u2014  knife\n", "la servilleta \u2014  napkin"]}, {"name": "Taste", "data": ["dulce \u2014 sweet\n", "salado(a) \u2014 savory\n", "rico(a) \u2014 delicious"]}, {"name": "Meals", "data": ["el desayuno \u2014 breakfast\n", "el almuerzo \u2014 lunch\n", "la cena \u2014 dinner\n", "el tentempi\u00e9 \u2014 snack"]}, {"name": "Clothing", "data": ["la prenda, la ropa \u2014 clothes\n", "los zapatos \u2014 shoes\n", "el pantal\u00f3n \u2014 pants\n", "la camiseta / la camisa \u2014 shirt\n", "la chaqueta \u2014 jacket\n", "la falda \u2014 skirt\n", "el su\u00e9ter \u2014 sweater\n", "el vestido \u2014 dress"]}, {"name": "Holidays and Parties", "data": ["la navidad \u2014 christmas\n", "el a\u00f1o nuevo\u2014 new year\n", "la pascua \u2014  easter\n", "el d\u00eda de san valent\u00edn \u2014 valentine\u2019s day\n", "el d\u00eda de la madre \u2014 mother\u2019s day\n", "el d\u00eda del padre \u2014 father\u2019s day\n", "el d\u00eda de la independencia \u2014 independence day\n", "el d\u00eda de acci\u00f3n de gracias \u2014 thanksgiving\n", "el cumplea\u00f1os \u2014 birthday\n", "la fiesta \u2014 the party\n", "la boda \u2014 the wedding"]}, {"name": "Parts of the Body", "data": ["el cuerpo humano \u2014 the human body\n", "la cabeza \u2014 head\n", "el pecho \u2014 chest\n", "el o\u00eddo / la oreja \u2014 ear\n", "el ojo \u2014 eye\n", "la cara \u2014 face\n", "la mano \u2014 hand\n", "la boca \u2014 mouth\n", "el pie \u2014  foot\n", "la espalda \u2014  back\n", "el pelo  \u2014  hair\n", "el codo \u2014 elbow\n", "el dedo \u2014 finger\n", "la pantorrilla \u2014 calf\n", "la pierna \u2014 leg\n", "la mu\u00f1eca \u2014 wrist\n", "el tal\u00f3n \u2014 heel\n", "el brazo \u2014 arm\n", "el cuello \u2014 neck\n", "el tobillo \u2014 ankle\n", "la frente \u2014 forehead\n", "el muslo \u2014 thigh\n", "la barba \u2014 beard\n", "el bigote \u2014 mustache\n", "la lengua \u2014 tongue\n", "el dedo del pie \u2014 toe\n", "la cintura \u2014 waist\n", "la cadera \u2014 hip\n", "las nalgas \u2014 buttocks\n", "el pulgar \u2014 thumb\n", "la rodilla \u2014 knee\n", "la nariz \u2014 nose\n", "la mejilla, el cachete \u2014 cheek\n", "los labios \u2014 lips\n", "el hombro \u2014 shoulder\n", "la barbilla, el ment\u00f3n \u2014 chin\n", "las cejas \u2014 eyebrows\n", "las pesta\u00f1as \u2014 eyelashes\n", "el ombligo  \u2014 belly button\n", "la piel  \u2014 skin\n", "el vientre \u2014 stomach\n", "la garganta \u2014 throat\n", "los dientes/las muelas \u2014 teeth"]}, {"name": "Time and Place", "data": ["al principio \u2014 at the beginning\n", "en primer lugar \u2014 firstly\n", "para comenzar \u2014 to start\n", "antes \u2014 before\n", "despu\u00e9s \u2014 after\n", "a continuaci\u00f3n  \u2014 in continuation\n", "mientras tanto \u2014 meanwhile\n", "al final \u2014 at the end"]}, {"name": "Add an Idea", "data": ["adem\u00e1s \u2014 additionally\n", "aparte de \u2014 apart from\n", "asimismo \u2014 at the same time\n", "tambi\u00e9n \u2014 also\n", "de igual manera  \u2014 in the same way"]}, {"name": "Compare contrast", "data": ["pero  \u2014 but\n", "sin embargo  \u2014 however\n", "no obstante  \u2014 nevertheless\n", "por otro lado  \u2014 on the other hand\n", "aunque  \u2014 even though\n", "a pesar de  \u2014 despite"]}, {"name": "Prepositions", "data": ["dentro de \u2014 inside of\n", "encima de/sobre \u2014 on top of\n", "debajo de \u2014 underneath of\n", "delante de \u2014 in front of\n", "detr\u00e1s de \u2014 behind\n", "entre \u2014 between\n", "en \u2014 in/on/at\n", "dentro de \u2014 inside of\n", "fuera de \u2014 outside of\n", "arriba de \u2014 above\n", "en medio de \u2014 in the middle of\n", "cerca de \u2014 close to\n", "lejos de \u2014 far from\n", "al lado de \u2014 next to\n", "alrededor de \u2014 around\n", "a la izquierda de \u2014 to the left of\n", "a la derecha de \u2014 to the right of"]}, {"name": "Location Verbs", "data": ["estar \u2014 to be\n", "colocar \u2014 to place\n", "ubicar \u2014 to position\n", "poner \u2014 to put\n", "situar \u2014 to place"]}, {"name": "Here and There", "data": ["aqu\u00ed, ac\u00e1 \u2014 here\n", "ah\u00ed \u2014 there\n", "all\u00ed \u2014 there\n", "all\u00e1 \u2014 over there"]}, {"name": "Directions", "data": ["el este \u2014 east\n", "el norte \u2014 north\n", "el oeste \u2014 west\n", "el sur \u2014 south"]}, {"name": "Classroom Objects", "data": ["la clase \u2014 classroom\n", "el aula \u2014 classroom\n", "la pizarra \u2014 blackboard\n", "el pizarr\u00f3n \u2014 whiteboard\n", "la tiza \u2014 chalk\n", "el marcador \u2014 marker\n", "el borrador \u2014 eraser\n", "el escritorio \u2014 desk\n", "el pupitre \u2014 desk\n", "la silla \u2014 chair\n", "la mochila \u2014  backpack\n", "el libro \u2014 book\n", "el cuaderno \u2014 notebook\n", "el papel \u2014 paper\n", "el l\u00e1piz \u2014 pencil\n", "los l\u00e1pices de colores \u2014 coloring pencils\n", "el sacapuntas \u2014 pencil sharpener\n", "el bol\u00edgrafo \u2014 pen\n", "la goma \u2014 eraser\n", "las tijeras \u2014 scissors\n", "la cola/el pegamento \u2014 glue\n", "la regla \u2014 ruler\n", "la grapadora \u2014 stapler\n", "el estuche \u2014 pencil case"]}, {"name": "Classroom Activities", "data": ["estudiar \u2014 to study\n", "repasar \u2014 to revise\n", "aprender \u2014  to learn\n", "saber \u2014 to know\n", "hacer los deberes \u2014 to do homework\n", "hacer la tarea  \u2014 to do homework\n", "leer \u2014 to read\n", "escribir \u2014 to write\n", "hablar \u2014 to speak\n", "decir \u2014 to say\n", "preguntar \u2014 to ask\n", "charlar \u2014 to chat\n", "dictar \u2014 to dictate\n", "deletrear \u2014  to spell\n", "contar \u2014 to count\n", "faltar \u2014 to miss school\n", "aprobar \u2014  to pass a subject/a test\n", "reprobar\u2014 to fail a subject/a test\n", "prestar \u2014  to lend\n", "tomar prestado \u2014 to borrow\n", "traer \u2014 to bring\n", "ense\u00f1ar \u2014 to teach\n", "mostrar \u2014 to show\n", "nombrar \u2014 to name\n", "ayudar \u2014 to help"]}, {"name": "Places in a School", "data": ["la escuela \u2014 school\n", "el colegio \u2014 school\n", "el gimnasio \u2014 gym\n", "el patio \u2014 playground\n", "el ba\u00f1o \u2014 restroom\n", "el pasillo \u2014 hallway\n", "la biblioteca \u2014 library\n", "la oficina  \u2014  office\n", "la sala de profesores \u2014 staff room\n", "el comedor \u2014 cafeteria\n", "la cocina \u2014 kitchen\n", "la enfermer\u00eda \u2014 infirmary\n", "el laboratorio \u2014 lab"]}, {"name": "People in a School", "data": ["maestro/a \u2014 teacher (primary school)\n", "profesor/a \u2014 teacher (secondary school)\n", "entrenador/a \u2014 coach\n", "enfermero/a \u2014 nurse\n", "director/a \u2014  principal\n", "alumno/a \u2014 student\n", "estudiante \u2014  student"]}, {"name": "More School Words", "data": ["el almuerzo \u2014  lunch\n", "el recreo \u2014  recess\n", "las vacaciones \u2014  vacations\n", "la comida \u2014  food\n", "el casillero \u2014  locker\n", "la materia \u2014  subject\n", "la matem\u00e1tica \u2014  math\n", "la biolog\u00eda \u2014  biology\n", "la qu\u00edmica \u2014  chemistry\n", "la f\u00edsica \u2014  physics\n", "la educaci\u00f3n f\u00edsica \u2014  physical education\n", "la historia \u2014  history\n", "la literatura \u2014  literature\n", "la prueba \u2014 test\n", "el examen \u2014  exam\n", "la nota \u2014 grade\n", "la calificaci\u00f3n \u2014 grade"]}, {"name": "Technology", "data": ["un ordenador (Spain)  \u2014 a computer\n", "una computadora (Latin America) \u2014  a computer\n", "una tableta  \u2014  a tablet\n", "una impresora  \u2014   a printer\n", "el rat\u00f3n  \u2014   the mouse\n", "apagar  \u2014   to turn on\n", "encender  \u2014   to turn off\n", "el disco duro   \u2014  the hard drive\n", "el teclado   \u2014  the keyboard\n", "la tecla  \u2014   the key\n", "los auriculares   \u2014  headphones\n", "el micr\u00f3fono  \u2014   the mic\n", "la pantalla  \u2014   the screen\n", "la c\u00e1mara  \u2014   the camera\n", "los altavoces  \u2014  the speakers\n", "una aplicaci\u00f3n  \u2014   an app\n", "base de datos  \u2014   database\n", "las redes sociales  \u2014   social networks\n", "el enlace   \u2014  the link\n", "subir  \u2014   to upload\n", "guardar  \u2014   to save\n", "borrar  \u2014   to delete\n", "hacer click  \u2014   to click\n", "bajar/descargar   \u2014  to download\n", "buscar en Google   \u2014  search on Google\n", "pirata inform\u00e1tico \u2014   hacker\n", "contrase\u00f1a   \u2014  password"]}, {"name": "Home Sweet Home!", "data": ["la casa \u2014 house, home\n", "el hogar \u2014 home\n", "la habitaci\u00f3n  \u2014 bedroom\n", "el cuarto  \u2014 bedroom\n", "el dormitorio  \u2014 bedroom\n", "la sala  \u2014 living room\n", "el comedor  \u2014 dining room\n", "la cocina  \u2014 kitchen\n", "el ba\u00f1o  \u2014 bathroom\n", "el pasillo  \u2014 hallway\n", "el jard\u00edn  \u2014 yard, garden\n", "el garaje  \u2014 garage\n", "c\u00f3modo/a  \u2014 comfortable\n", "acogedor  \u2014 cozy\n", "desordenado/a  \u2014 messy\n", "limpio/a  \u2014 clean"]}, {"name": "Bathroom", "data": ["la pasta de dientes \u2014 toothpaste\n", "el cepillo de dientes \u2014 toothbrush\n", "el jab\u00f3n \u2014 soap\n", "el secador de pelo \u2014 hair dryer\n", "el champ\u00fa \u2014 shampoo\n", "el cepillo \u2014 brush\n", "el papel higi\u00e9nico \u2014 toilet paper\n", "la toalla \u2014 towel\n", "el agua jabonosa \u2014 soapy water\n", "la bolsa de basura \u2014 trash bag\n", "el cubo de basura \u2014 trash can\n", "el cesto de la ropa sucia \u2014 laundry basket\n", "la navaja de afeitar \u2014 razor\n", "la maquinilla de afeitar el\u00e9ctrica \u2014 electric razor\n", "la crema de afeitar \u2014 shaving cream\n", "el enjuague bucal \u2014 mouthwash\n", "el cepillo de pelo \u2014 hair brush\n", "el peine \u2014 comb\n", "el limpiador facial \u2014 facial cleanser\n", "la balanza\u2014 scale\n", "el pa\u00f1uelo de papel \u2014 tissue\n", "los juguetes de ba\u00f1o \u2014 bath toys\n", "la alfombra de ba\u00f1o \u2014 bath mat\n", "la ducha \u2014 shower\n", "la ba\u00f1era \u2014 bathtub\n", "el fregadero \u2014 sink\n", "el inodoro \u2014 toilet\n", "el grifo \u2014 faucet\n", "el espejo \u2014 mirror\n", "peinar \u2014 to comb"]}, {"name": "Kitchen Verbs", "data": ["cocinar \u2014  to cook\n", "comer \u2014 to eat\n", "adobar \u2014  to marinate\n", "sazonar \u2014  to season\n", "lavar \u2014 to wash\n", "cortar \u2014  to cut\n", "pelar \u2014  to peel\n", "picar \u2014  to chop\n", "moler \u2014  to grind\n", "incorporar \u2014 to add\n", "mezclar \u2014 to mix\n", "catir \u2014  to whisk\n", "licuar \u2014  to blend\n", "combinar \u2014  to combine\n", "fre\u00edr \u2014 to fry\n", "hervir \u2014  to boil\n", "colar \u2014 to strain\n", "cocer \u2014 to cook\n", "hornear \u2014 to bake\n", "asar \u2014  to grill / roast\n", "saltear \u2014 to saute\n", "preparar \u2014 to prepare\n", "descongelar \u2014 to defrost\n", "quemar \u2014  to burn\n", "tostar \u2014  to toast\n", "derretir \u2014 to melt\n", "rodajear \u2014  to slice\n", "calentar \u2014  to warm up / heat\n", "rellenar \u2014  to fill / stuff\n", "lavar \u2014  to wash\n", "limpiar \u2014  to clean\n", "desayunar \u2014 to have breakfast\n", "cenar \u2014 to have dinner"]}, {"name": "Bedroom", "data": ["la puerta \u2014  the door\n", "el armario \u2014 the wardrobe\n", "la estanter\u00eda \u2014 the shelf\n", "la ventana \u2014 the window\n", "las cortinas \u2014  the curtains\n", "el escritorio \u2014  the desk\n", "el ordenador \u2014  the computer\n", "la cama \u2014 the bed\n", "el coj\u00edn \u2014 the pillow\n", "el edred\u00f3n \u2014 the quilt\n", "las s\u00e1banas \u2014 the bedding\n", "la almohada \u2014 the pillowcase\n", "la l\u00e1mpara \u2014 the lamp\n", "la mesilla de noche \u2014 the night table or nightstand\n", "el espejo \u2014 the mirror\n", "el cuadro \u2014 the painting"]}, {"name": "Living Room", "data": ["la puerta \u2014 the door\n", "el armario \u2014  the wardrobe\n", "la estanter\u00eda \u2014  the shelf\n", "la ventana \u2014  the window\n", "las cortinas \u2014 the curtains\n", "la mesa \u2014  the table\n", "la silla \u2014 the chair\n", "el sill\u00f3n \u2014 armchair\n", "la alfombra \u2014 the carpet or rug\n", "la l\u00e1mpara \u2014 the lamp\n", "la planta \u2014 the plant\n", "las flores \u2014 the flowers\n", "la chimenea \u2014 the chimney\n", "el suelo \u2014 the ground\n", "el techo \u2014 the ceiling"]}, {"name": "Shopping", "data": ["dependiente/a \u2014 shop assistant\n", "caja \u2014 checkout\n", "rebajas \u2014 sales\n", "ocasi\u00f3n \u2014 bargain\n", "recibo \u2014 receipt\n", "probadores \u2014 dressing room\n", "tama\u00f1o \u2014 size\n", "tienda de ropa \u2014 clothing store\n", "zapater\u00eda \u2014 shoe store\n", "librer\u00eda \u2014 bookstore\n", "almac\u00e9n \u2014 department store\n", "supermercado \u2014 supermarket\n", "joyer\u00eda \u2014 jeweler\n", "jugueter\u00eda \u2014  toy store\n", "almacenero(a) \u2014 grocer\n", "comerciante (a) \u2014 merchant\n", "tendero(a) \u2014 shopkeeper\n", "dependiente \u2014 clerk\n", "cajero(a) \u2014 cashier"]}, {"name": "Healthcare Professionals", "data": ["los cuidados de la salud \u2014 healthcare\n", "el dentista \u2014 dentist\n", "el doctor/a \u2014 doctor\n", "el enfermero/a \u2014 nurse\n", "el m\u00e9dico general \u2014 general practitioner\n", "el m\u00e9dico de cabecera \u2014 general practitioner\n", "el m\u00e9dico especialista \u2014 specialist\n", "el/la nutricionista \u2014 nutritionist\n", "el/la paciente \u2014 patient\n", "el/la param\u00e9dico \u2014 paramedic\n", "quiropr\u00e1ctico(a) \u2014 chiropractor\n", "el/la pediatra \u2014 pediatrician\n", "el psic\u00f3logo/a \u2014 psychologist\n", "los primeros auxilios \u2014 first aid\n", "la salud \u2014 health"]}, {"name": "Healthcare Services", "data": ["la ambulancia \u2014 ambulance\n", "la aseguradora \u2014 insurance carrier\n", "el centro de salud \u2014 clinic\n", "la cl\u00ednica \u2014 clinic\n", "la farmacia \u2014 drug store\n", "droguer\u00eda \u2014 drug store\n", "el hospital \u2014 hospital\n", "el pabell\u00f3n \u2014 ward\n", "la sala de espera \u2014 waiting room\n", "la sala de operaciones \u2014 operating room\n", "el sanatorio \u2014 sanatorium"]}]
+{
+    "The Essentials": {
+        "data": [
+            {
+                "eng": "yes",
+                "esp": "s\u00ed"
+            },
+            {
+                "eng": "no",
+                "esp": "no"
+            },
+            {
+                "eng": "do you understand?",
+                "esp": "\u00bfentiende(s)?"
+            },
+            {
+                "eng": "i don't understand",
+                "esp": "no entiendo"
+            },
+            {
+                "eng": "i don't know",
+                "esp": "no (lo) s\u00e9"
+            },
+            {
+                "eng": "i have no idea",
+                "esp": "no tengo ni idea"
+            },
+            {
+                "eng": "i don't speak spanish",
+                "esp": "no hablo espa\u00f1ol"
+            },
+            {
+                "eng": "i'm lost",
+                "esp": "estoy perdido(a)"
+            }
+        ]
+    },
+    "Introduce Yourself": {
+        "data": [
+            {
+                "eng": "my name is",
+                "esp": "me llamo"
+            },
+            {
+                "eng": "my name is",
+                "esp": "mi nombre es"
+            },
+            {
+                "eng": "i'm...",
+                "esp": "soy..."
+            },
+            {
+                "eng": "what is your name?",
+                "esp": "\u00bfc\u00f3mo te llamas?"
+            },
+            {
+                "eng": "i am from...",
+                "esp": "(yo) soy de..."
+            }
+        ]
+    },
+    "What's Up": {
+        "data": [
+            {
+                "eng": "how are you? (formal)",
+                "esp": "\u00bfc\u00f3mo est\u00e1 usted?"
+            },
+            {
+                "eng": "how are you? (informal)",
+                "esp": "\u00bfc\u00f3mo est\u00e1s?"
+            },
+            {
+                "eng": "how are you? (informal) / what's up?",
+                "esp": "\u00bfqu\u00e9 tal?"
+            },
+            {
+                "eng": "how's it going?",
+                "esp": "\u00bfc\u00f3mo te va?"
+            },
+            {
+                "eng": "what are you doing?",
+                "esp": "\u00bfqu\u00e9 haces?"
+            },
+            {
+                "eng": "what's happening?",
+                "esp": "\u00bfqu\u00e9 pasa?"
+            }
+        ]
+    },
+    "Responses": {
+        "data": [
+            {
+                "eng": "and you?",
+                "esp": "\u00bfy t\u00fa?"
+            },
+            {
+                "eng": "very well",
+                "esp": "muy bien"
+            },
+            {
+                "eng": "so, so",
+                "esp": "as\u00ed, as\u00ed"
+            },
+            {
+                "eng": "bad",
+                "esp": "mal"
+            },
+            {
+                "eng": "as always",
+                "esp": "como siempre"
+            }
+        ]
+    },
+    "Etiquette Words": {
+        "data": [
+            {
+                "eng": "you're welcome! / no problem!",
+                "esp": "\u00a1de nada!"
+            },
+            {
+                "eng": "please",
+                "esp": "por favor"
+            },
+            {
+                "eng": "excuse me!",
+                "esp": "\u00a1perdon!"
+            },
+            {
+                "eng": "excuse me!",
+                "esp": "\u00a1disculpe!"
+            },
+            {
+                "eng": "sorry!",
+                "esp": "\u00a1lo siento!"
+            },
+            {
+                "eng": "thank you",
+                "esp": "gracias"
+            },
+            {
+                "eng": "bless you",
+                "esp": "salud"
+            }
+        ]
+    },
+    "Question Words": {
+        "data": [
+            {
+                "eng": "what?",
+                "esp": "\u00bfqu\u00e9...?"
+            },
+            {
+                "eng": "who?",
+                "esp": "\u00bfqui\u00e9n...?"
+            },
+            {
+                "eng": "when?",
+                "esp": "\u00bfcu\u00e1ndo...?"
+            },
+            {
+                "eng": "where?",
+                "esp": "\u00bfd\u00f3nde...?"
+            },
+            {
+                "eng": "why?",
+                "esp": "\u00bfpor qu\u00e9...?"
+            },
+            {
+                "eng": "which?",
+                "esp": "\u00bfcu\u00e1l?"
+            },
+            {
+                "eng": "how?",
+                "esp": "\u00bfc\u00f3mo...?"
+            }
+        ]
+    },
+    "Spanish Pronouns": {
+        "data": [
+            {
+                "eng": "I",
+                "esp": "Yo"
+            },
+            {
+                "eng": "you",
+                "esp": "t\u00fa (informal)"
+            },
+            {
+                "eng": "you",
+                "esp": "usted (formal)"
+            },
+            {
+                "eng": "he",
+                "esp": "\u00e9l"
+            },
+            {
+                "eng": "she",
+                "esp": "ella"
+            },
+            {
+                "eng": "we",
+                "esp": "nosotros/nosotras"
+            },
+            {
+                "eng": "you all",
+                "esp": "ustedes"
+            },
+            {
+                "eng": "they",
+                "esp": "ellos"
+            },
+            {
+                "eng": "they",
+                "esp": "ellas(females)"
+            }
+        ]
+    },
+    "Greetings": {
+        "data": [
+            {
+                "eng": "hello",
+                "esp": "hola"
+            },
+            {
+                "eng": "good morning",
+                "esp": "buenos d\u00edas"
+            },
+            {
+                "eng": "good afternoon",
+                "esp": "buenas tardes"
+            },
+            {
+                "eng": "good evening / good night",
+                "esp": "buenas noches"
+            }
+        ]
+    },
+    "Talking About Age": {
+        "data": [
+            {
+                "eng": "i am ... years old.",
+                "esp": "(yo) tengo ... a\u00f1os"
+            },
+            {
+                "eng": "viejo/a",
+                "esp": "old"
+            },
+            {
+                "eng": "joven",
+                "esp": "young"
+            },
+            {
+                "eng": "de mediana edad",
+                "esp": "middle_aged"
+            },
+            {
+                "eng": "juvenil",
+                "esp": "youthful"
+            },
+            {
+                "eng": "new",
+                "esp": "nuevo/a"
+            }
+        ]
+    },
+    "Celebrate!": {
+        "data": [
+            {
+                "eng": "happy birthday!",
+                "esp": "\u00a1feliz cumplea\u00f1os!"
+            },
+            {
+                "eng": "congratulations!",
+                "esp": "\u00a1felicitaciones!"
+            },
+            {
+                "eng": "have fun!",
+                "esp": "\u00a1divi\u00e9rtete!"
+            },
+            {
+                "eng": "bon appetit!",
+                "esp": "\u00a1buen provecho!"
+            },
+            {
+                "eng": "welcome!",
+                "esp": "\u00a1bienvenidos! / \u00a1bienvenidas!"
+            },
+            {
+                "eng": "cheers!",
+                "esp": "salud!"
+            }
+        ]
+    },
+    "Say Goodbye": {
+        "data": [
+            {
+                "eng": "goodbye",
+                "esp": "adi\u00f3s"
+            },
+            {
+                "eng": "goodbye",
+                "esp": "chao"
+            },
+            {
+                "eng": "see you later (most likely today)",
+                "esp": "hasta luego"
+            },
+            {
+                "eng": "see you tomorrow",
+                "esp": "hasta ma\u00f1ana"
+            },
+            {
+                "eng": "see you (informal)",
+                "esp": "nos vemos"
+            },
+            {
+                "eng": "take care!",
+                "esp": "\u00a1cu\u00eddate mucho!"
+            },
+            {
+                "eng": "have a nice day!",
+                "esp": "\u00a1tenga un buen d\u00eda!"
+            },
+            {
+                "eng": "see you soon!",
+                "esp": "\u00a1hasta luego!"
+            },
+            {
+                "eng": "have a good trip!",
+                "esp": "\u00a1buen viaje!"
+            }
+        ]
+    },
+    "Days of the Week": {
+        "data": [
+            {
+                "eng": "Sunday",
+                "esp": "Domingo"
+            },
+            {
+                "eng": "Monday",
+                "esp": "Lunes"
+            },
+            {
+                "eng": "Tuesday",
+                "esp": "Martes"
+            },
+            {
+                "eng": "Wednesday",
+                "esp": "Mi\u00e9rcoles"
+            },
+            {
+                "eng": "Thursday",
+                "esp": "Jueves"
+            },
+            {
+                "eng": "Friday",
+                "esp": "Viernes"
+            },
+            {
+                "eng": "Saturday",
+                "esp": "Sabado"
+            }
+        ]
+    },
+    "Months of the Year": {
+        "data": [
+            {
+                "eng": "January",
+                "esp": "Enero"
+            },
+            {
+                "eng": "February",
+                "esp": "Febrero"
+            },
+            {
+                "eng": "March",
+                "esp": "Marzo"
+            },
+            {
+                "eng": "April",
+                "esp": "Abril"
+            },
+            {
+                "eng": "May",
+                "esp": "Mayo"
+            },
+            {
+                "eng": "June",
+                "esp": "Junio"
+            },
+            {
+                "eng": "July",
+                "esp": "Julio"
+            },
+            {
+                "eng": "August",
+                "esp": "Agosto"
+            },
+            {
+                "eng": "September",
+                "esp": "Septiembre"
+            },
+            {
+                "eng": "October",
+                "esp": "Octubre"
+            },
+            {
+                "eng": "November",
+                "esp": "Noviembre"
+            },
+            {
+                "eng": "December",
+                "esp": "Diciembre"
+            }
+        ]
+    },
+    "Other Time Words": {
+        "data": [
+            {
+                "eng": "day before yesterday",
+                "esp": "anteayer"
+            },
+            {
+                "eng": "yesterday",
+                "esp": "ayer"
+            },
+            {
+                "eng": "year",
+                "esp": "el a\u00f1o"
+            },
+            {
+                "eng": "day",
+                "esp": "el d\u00eda"
+            },
+            {
+                "eng": "month",
+                "esp": "el mes"
+            },
+            {
+                "eng": "century",
+                "esp": "el siglo"
+            },
+            {
+                "eng": "hour",
+                "esp": "la hora"
+            },
+            {
+                "eng": "today",
+                "esp": "hoy"
+            },
+            {
+                "eng": "week",
+                "esp": "la semana"
+            },
+            {
+                "eng": "dawn, very early in the morning",
+                "esp": "madrugada"
+            },
+            {
+                "eng": "tomorrow",
+                "esp": "ma\u00f1ana"
+            },
+            {
+                "eng": "morning",
+                "esp": "ma\u00f1ana"
+            },
+            {
+                "eng": "midnight",
+                "esp": "medianoche"
+            },
+            {
+                "eng": "noon",
+                "esp": "mediodia"
+            },
+            {
+                "eng": "minute",
+                "esp": "el minuto"
+            },
+            {
+                "eng": "night",
+                "esp": "la noche"
+            },
+            {
+                "eng": "day after tomorrow",
+                "esp": "el pasado ma\u00f1ana"
+            },
+            {
+                "eng": "seconds",
+                "esp": "los segundos"
+            },
+            {
+                "eng": "afternoon",
+                "esp": "la tarde"
+            }
+        ]
+    },
+    "Nuclear Family": {
+        "data": [
+            {
+                "eng": "father",
+                "esp": "el padre"
+            },
+            {
+                "eng": "dad",
+                "esp": "el pap\u00e1"
+            },
+            {
+                "eng": "mother",
+                "esp": "la madre"
+            },
+            {
+                "eng": "mom",
+                "esp": "la mam\u00e1"
+            },
+            {
+                "eng": "brother",
+                "esp": "el hermano"
+            },
+            {
+                "eng": "sister",
+                "esp": "la hermana"
+            },
+            {
+                "eng": "son",
+                "esp": "el hijo"
+            },
+            {
+                "eng": "daughter",
+                "esp": "la hija"
+            },
+            {
+                "eng": "close family",
+                "esp": "la familia cercana"
+            }
+        ]
+    },
+    "Extended Family": {
+        "data": [
+            {
+                "eng": "grandfather",
+                "esp": "el abuelo"
+            },
+            {
+                "eng": "grandmother",
+                "esp": "la abuela"
+            },
+            {
+                "eng": "great_grandfather",
+                "esp": "el bisabuelo"
+            },
+            {
+                "eng": "great_grandmother",
+                "esp": "la bisabuela"
+            },
+            {
+                "eng": "granddaughter",
+                "esp": "la nieta"
+            },
+            {
+                "eng": "grandson",
+                "esp": "el nieto"
+            },
+            {
+                "eng": "uncle",
+                "esp": "el t\u00edo"
+            },
+            {
+                "eng": "aunt",
+                "esp": "la t\u00eda"
+            },
+            {
+                "eng": "great_uncle",
+                "esp": "el t\u00edo abuelo"
+            },
+            {
+                "eng": "great_aunt",
+                "esp": "la t\u00eda abuela"
+            },
+            {
+                "eng": "cousin (male)",
+                "esp": "el primo"
+            },
+            {
+                "eng": "cousin (female)",
+                "esp": "la prima"
+            },
+            {
+                "eng": "my relatives",
+                "esp": "mis parientes"
+            }
+        ]
+    },
+    "Family Verbs": {
+        "data": [
+            {
+                "eng": "to hug",
+                "esp": "abrazar"
+            },
+            {
+                "eng": "to love",
+                "esp": "amar"
+            },
+            {
+                "eng": "to laugh",
+                "esp": "re\u00edr"
+            },
+            {
+                "eng": "to forgive",
+                "esp": "perdonar"
+            }
+        ]
+    },
+    "Action Verbs": {
+        "data": [
+            {
+                "eng": "to start",
+                "esp": "empezar"
+            },
+            {
+                "eng": "to follow",
+                "esp": "seguir"
+            },
+            {
+                "eng": "to open",
+                "esp": "abrir"
+            },
+            {
+                "eng": "to search",
+                "esp": "buscar"
+            },
+            {
+                "eng": "to sing",
+                "esp": "cantar"
+            },
+            {
+                "eng": "to close",
+                "esp": "cerrar"
+            },
+            {
+                "eng": "to destroy",
+                "esp": "destruir"
+            },
+            {
+                "eng": "to sleep",
+                "esp": "dormir"
+            },
+            {
+                "eng": "to find",
+                "esp": "encontrar"
+            },
+            {
+                "eng": "to hide",
+                "esp": "esconder"
+            },
+            {
+                "eng": "to wait",
+                "esp": "esperar"
+            },
+            {
+                "eng": "to miss",
+                "esp": "faltar"
+            },
+            {
+                "eng": "to do",
+                "esp": "hacer"
+            },
+            {
+                "eng": "to try",
+                "esp": "intentar"
+            },
+            {
+                "eng": "to call",
+                "esp": "llamar"
+            },
+            {
+                "eng": "to take",
+                "esp": "llevar"
+            },
+            {
+                "eng": "to cry",
+                "esp": "llorar"
+            },
+            {
+                "eng": "to fight",
+                "esp": "luchar"
+            },
+            {
+                "eng": "to lie",
+                "esp": "mentir"
+            },
+            {
+                "eng": "to hate",
+                "esp": "odiar"
+            },
+            {
+                "eng": "to receive",
+                "esp": "recibir"
+            },
+            {
+                "eng": "to recognize",
+                "esp": "reconocer"
+            },
+            {
+                "eng": "to steal",
+                "esp": "robar"
+            },
+            {
+                "eng": "to save",
+                "esp": "salvar"
+            },
+            {
+                "eng": "to smile",
+                "esp": "sonre\u00edr"
+            },
+            {
+                "eng": "to dream",
+                "esp": "so\u00f1ar"
+            },
+            {
+                "eng": "to take",
+                "esp": "tomar"
+            },
+            {
+                "eng": "to live",
+                "esp": "Vivir"
+            }
+        ]
+    },
+    "Sound": {
+        "data": [
+            {
+                "eng": "quiet",
+                "esp": "tranquilo/a"
+            },
+            {
+                "eng": "loud",
+                "esp": "ruidoso/a"
+            },
+            {
+                "eng": "to shout",
+                "esp": "gritar"
+            },
+            {
+                "eng": "to hear",
+                "esp": "escuchar"
+            },
+            {
+                "eng": "silence",
+                "esp": "silencio"
+            },
+            {
+                "eng": "loud",
+                "esp": "alto"
+            },
+            {
+                "eng": "soft",
+                "esp": "bajo"
+            },
+            {
+                "eng": "deafening",
+                "esp": "ensordecedor"
+            },
+            {
+                "eng": "sharp, high_pitched",
+                "esp": "agudo"
+            },
+            {
+                "eng": "low_pitched",
+                "esp": "grave"
+            },
+            {
+                "eng": "melodious",
+                "esp": "melodioso"
+            },
+            {
+                "eng": "harmonic",
+                "esp": "arm\u00f3nico"
+            },
+            {
+                "eng": "buzz",
+                "esp": "zumbido"
+            },
+            {
+                "eng": "deaf",
+                "esp": "sordo"
+            },
+            {
+                "eng": "hard of hearing",
+                "esp": "duro de o\u00edd"
+            },
+            {
+                "eng": "acute hearing",
+                "esp": "o\u00eddo fino"
+            },
+            {
+                "eng": "hearing_impaired",
+                "esp": "problemas de audici\u00f3n"
+            },
+            {
+                "eng": "out of earshot",
+                "esp": "fuera de alcance"
+            }
+        ]
+    },
+    "Sight": {
+        "data": [
+            {
+                "eng": "to see",
+                "esp": "ver"
+            },
+            {
+                "eng": "to look",
+                "esp": "mirar"
+            },
+            {
+                "eng": "colorful",
+                "esp": "de colores"
+            },
+            {
+                "eng": "black and white",
+                "esp": "blanco y negro"
+            },
+            {
+                "eng": "bright",
+                "esp": "brillante"
+            },
+            {
+                "eng": "dim",
+                "esp": "apagado"
+            },
+            {
+                "eng": "light",
+                "esp": "claro"
+            },
+            {
+                "eng": "dark",
+                "esp": "oscuro"
+            },
+            {
+                "eng": "blind",
+                "esp": "ciego"
+            },
+            {
+                "eng": "to stare",
+                "esp": "mirar fijamente"
+            },
+            {
+                "eng": "to glance",
+                "esp": "echar un vistazo"
+            },
+            {
+                "eng": "to squint",
+                "esp": "bizquear"
+            },
+            {
+                "eng": "to wink",
+                "esp": "gui\u00f1ar"
+            },
+            {
+                "eng": "to blink",
+                "esp": "parpadear"
+            }
+        ]
+    },
+    "Touch": {
+        "data": [
+            {
+                "eng": "to touch",
+                "esp": "tocar"
+            },
+            {
+                "eng": "to grab",
+                "esp": "agarrar"
+            },
+            {
+                "eng": "soft",
+                "esp": "suave"
+            },
+            {
+                "eng": "rough",
+                "esp": "\u00e1spero(a)"
+            },
+            {
+                "eng": "smooth",
+                "esp": "liso(a)"
+            },
+            {
+                "eng": "wrinkled",
+                "esp": "rugoso(a)"
+            },
+            {
+                "eng": "sticky",
+                "esp": "pegajoso(a)"
+            },
+            {
+                "eng": "sharp",
+                "esp": "punzante"
+            },
+            {
+                "eng": "silky",
+                "esp": "sedoso(a)"
+            },
+            {
+                "eng": "spongy",
+                "esp": "esponjoso(a)"
+            },
+            {
+                "eng": "fluffy",
+                "esp": "mullido(a)"
+            },
+            {
+                "eng": "tingle",
+                "esp": "hormigueo"
+            },
+            {
+                "eng": "numb",
+                "esp": "entumecido(a)"
+            },
+            {
+                "eng": "to touch gently",
+                "esp": "rozar"
+            },
+            {
+                "eng": "to caress",
+                "esp": "acariciar"
+            },
+            {
+                "eng": "to grab",
+                "esp": "agarrar"
+            }
+        ]
+    },
+    "Smell": {
+        "data": [
+            {
+                "eng": "smell",
+                "esp": "olor"
+            },
+            {
+                "eng": "scent",
+                "esp": "el perfume"
+            },
+            {
+                "eng": "fragrance",
+                "esp": "la fragancia"
+            },
+            {
+                "eng": "stench",
+                "esp": "el hedor"
+            },
+            {
+                "eng": "smelly",
+                "esp": "apestoso(a)"
+            },
+            {
+                "eng": "fresh",
+                "esp": "fresco(a)"
+            },
+            {
+                "eng": "pungent",
+                "esp": "acre"
+            },
+            {
+                "eng": "musty",
+                "esp": "h\u00famedo(a)"
+            },
+            {
+                "eng": "rotten",
+                "esp": "podrido(a)"
+            },
+            {
+                "eng": "smoky",
+                "esp": "ahumado(a)"
+            },
+            {
+                "eng": "to stink",
+                "esp": "apestar"
+            }
+        ]
+    },
+    "Taste": {
+        "data": [
+            {
+                "eng": "sweet",
+                "esp": "dulce"
+            },
+            {
+                "eng": "savory",
+                "esp": "salado(a)"
+            },
+            {
+                "eng": "delicious",
+                "esp": "rico(a)"
+            }
+        ]
+    },
+    "Distance": {
+        "data": [
+            {
+                "eng": "open",
+                "esp": "abierto/a"
+            },
+            {
+                "eng": "wide",
+                "esp": "ancho/a"
+            },
+            {
+                "eng": "narrow",
+                "esp": "estrecho/a"
+            },
+            {
+                "eng": "far",
+                "esp": "lejano/a"
+            },
+            {
+                "eng": "close",
+                "esp": "cercano/a"
+            }
+        ]
+    },
+    "Personality and Emotions": {
+        "data": [
+            {
+                "eng": "joyful",
+                "esp": "alegre"
+            },
+            {
+                "eng": "funny, amusing",
+                "esp": "gracioso/a"
+            },
+            {
+                "eng": "serious",
+                "esp": "serio/a"
+            },
+            {
+                "eng": "shy",
+                "esp": "t\u00edmido/a"
+            },
+            {
+                "eng": "brave",
+                "esp": "valiente"
+            },
+            {
+                "eng": "crazy",
+                "esp": "loco/a"
+            },
+            {
+                "eng": "content",
+                "esp": "contento(a)"
+            },
+            {
+                "eng": "happy",
+                "esp": "feliz"
+            },
+            {
+                "eng": "worried",
+                "esp": "preocupado(a)"
+            },
+            {
+                "eng": "nervous",
+                "esp": "nervioso(a)"
+            },
+            {
+                "eng": "tranquil",
+                "esp": "tranquilo(a)"
+            },
+            {
+                "eng": "calm",
+                "esp": "calmado(a)"
+            },
+            {
+                "eng": "excited",
+                "esp": "emocionado(a)"
+            }
+        ]
+    },
+    "Hair": {
+        "data": [
+            {
+                "eng": "long",
+                "esp": "largo/a"
+            },
+            {
+                "eng": "short",
+                "esp": "corto/a"
+            },
+            {
+                "eng": "straight",
+                "esp": "liso/a"
+            },
+            {
+                "eng": "curly",
+                "esp": "rizado/a"
+            },
+            {
+                "eng": "wavy",
+                "esp": "ondulado/a"
+            },
+            {
+                "eng": "brown",
+                "esp": "casta\u00f1o/a"
+            },
+            {
+                "eng": "blonde",
+                "esp": "rubio/a"
+            },
+            {
+                "eng": "red",
+                "esp": "pelirrojo/a"
+            },
+            {
+                "eng": "black",
+                "esp": "negro/a"
+            },
+            {
+                "eng": "grey",
+                "esp": "canoso/a"
+            },
+            {
+                "eng": "thick",
+                "esp": "abundante"
+            },
+            {
+                "eng": "thin",
+                "esp": "fino/a"
+            },
+            {
+                "eng": "layered",
+                "esp": "escalado/a"
+            },
+            {
+                "eng": "dyed",
+                "esp": "te\u00f1ido/a"
+            },
+            {
+                "eng": "healthy",
+                "esp": "saludable"
+            },
+            {
+                "eng": "light",
+                "esp": "claro/a"
+            },
+            {
+                "eng": "frizzy",
+                "esp": "encrespado/a"
+            },
+            {
+                "eng": "shiny",
+                "esp": "brillante"
+            },
+            {
+                "eng": "bald",
+                "esp": "calvo/a"
+            }
+        ]
+    },
+    "Size": {
+        "data": [
+            {
+                "eng": "big",
+                "esp": "grande"
+            },
+            {
+                "eng": "small",
+                "esp": "peque\u00f1o/a"
+            },
+            {
+                "eng": "huge",
+                "esp": "enorme"
+            },
+            {
+                "eng": "lean",
+                "esp": "delgado/a"
+            },
+            {
+                "eng": "slender",
+                "esp": "esbelto/a"
+            },
+            {
+                "eng": "skinny",
+                "esp": "flaco/a"
+            },
+            {
+                "eng": "petite",
+                "esp": "menudo/a"
+            },
+            {
+                "eng": "tall",
+                "esp": "alto/a"
+            },
+            {
+                "eng": "short",
+                "esp": "bajo/a"
+            }
+        ]
+    },
+    "Looks": {
+        "data": [
+            {
+                "eng": "beautiful",
+                "esp": "hermoso/a"
+            },
+            {
+                "eng": "handsome",
+                "esp": "guapo/a"
+            },
+            {
+                "eng": "ugly",
+                "esp": "feo/a"
+            },
+            {
+                "eng": "cute",
+                "esp": "adorable"
+            },
+            {
+                "eng": "pretty",
+                "esp": "bonita"
+            },
+            {
+                "eng": "stunning",
+                "esp": "impresionante"
+            },
+            {
+                "eng": "plain",
+                "esp": "poco atractivo/a"
+            },
+            {
+                "eng": "average",
+                "esp": "promedio/a"
+            },
+            {
+                "eng": "attractive",
+                "esp": "atractivo/a"
+            }
+        ]
+    },
+    "Colors": {
+        "data": [
+            {
+                "eng": "black",
+                "esp": "negro"
+            },
+            {
+                "eng": "brown",
+                "esp": "marr\u00f3n / caf\u00e9"
+            },
+            {
+                "eng": "grey",
+                "esp": "gris"
+            },
+            {
+                "eng": "white",
+                "esp": "blanco"
+            },
+            {
+                "eng": "yellow",
+                "esp": "amarillo"
+            },
+            {
+                "eng": "orange",
+                "esp": "anaranjado"
+            },
+            {
+                "eng": "red",
+                "esp": "rojo"
+            },
+            {
+                "eng": "pink",
+                "esp": "rosado"
+            },
+            {
+                "eng": "purple",
+                "esp": "morado / p\u00farpura"
+            },
+            {
+                "eng": "blue",
+                "esp": "azul"
+            },
+            {
+                "eng": "green",
+                "esp": "verde"
+            }
+        ]
+    },
+    "Arts and Crafts": {
+        "data": [
+            {
+                "eng": "to color",
+                "esp": "colorear"
+            },
+            {
+                "eng": "to construct",
+                "esp": "construir"
+            },
+            {
+                "eng": "to cut",
+                "esp": "cortar"
+            },
+            {
+                "eng": "to sew",
+                "esp": "coser"
+            },
+            {
+                "eng": "to draw",
+                "esp": "dibujar"
+            },
+            {
+                "eng": "to paint",
+                "esp": "pintar"
+            }
+        ]
+    },
+    "Numbers": {
+        "data": [
+            {
+                "eng": "zero",
+                "esp": "cero"
+            },
+            {
+                "eng": "one",
+                "esp": "uno"
+            },
+            {
+                "eng": "two",
+                "esp": "dos"
+            },
+            {
+                "eng": "three",
+                "esp": "tres"
+            },
+            {
+                "eng": "four",
+                "esp": "cuatro"
+            },
+            {
+                "eng": "five",
+                "esp": "cinco"
+            },
+            {
+                "eng": "six",
+                "esp": "seis"
+            },
+            {
+                "eng": "seven",
+                "esp": "siete"
+            },
+            {
+                "eng": "eight",
+                "esp": "ocho"
+            },
+            {
+                "eng": "nine",
+                "esp": "nueve"
+            },
+            {
+                "eng": "ten",
+                "esp": "diez"
+            }
+        ]
+    },
+    "Animals": {
+        "data": [
+            {
+                "eng": "cat",
+                "esp": "el gato"
+            },
+            {
+                "eng": "dog",
+                "esp": "el perro"
+            },
+            {
+                "eng": "rabbit",
+                "esp": "el conejo"
+            },
+            {
+                "eng": "chicken",
+                "esp": "el pollo"
+            },
+            {
+                "eng": "hen",
+                "esp": "la gallina"
+            },
+            {
+                "eng": "rooster",
+                "esp": "el gallo"
+            },
+            {
+                "eng": "cow",
+                "esp": "la vaca"
+            },
+            {
+                "eng": "bull",
+                "esp": "el toro"
+            },
+            {
+                "eng": "sheep",
+                "esp": "la oveja"
+            },
+            {
+                "eng": "horse",
+                "esp": "el caballo"
+            },
+            {
+                "eng": "pig",
+                "esp": "el cerdo"
+            },
+            {
+                "eng": "goat",
+                "esp": "la cabra"
+            },
+            {
+                "eng": "donkey",
+                "esp": "el burro"
+            },
+            {
+                "eng": "mouse",
+                "esp": "el rat\u00f3n"
+            }
+        ]
+    },
+    "Forest Animals": {
+        "data": [
+            {
+                "eng": "deer",
+                "esp": "el ciervo"
+            },
+            {
+                "eng": "raccoon",
+                "esp": "el mapache"
+            },
+            {
+                "eng": "squirrel",
+                "esp": "la ardilla"
+            },
+            {
+                "eng": "owl",
+                "esp": "el b\u00faho"
+            },
+            {
+                "eng": "fox",
+                "esp": "el zorro"
+            },
+            {
+                "eng": "wolf",
+                "esp": "el lobo"
+            },
+            {
+                "eng": "bear",
+                "esp": "el oso"
+            }
+        ]
+    },
+    "Ocean Animals": {
+        "data": [
+            {
+                "eng": "crab",
+                "esp": "el cangrejo"
+            },
+            {
+                "eng": "jellyfish",
+                "esp": "la medusa"
+            },
+            {
+                "eng": "dolphin",
+                "esp": "el delf\u00edn"
+            },
+            {
+                "eng": "whale",
+                "esp": "la ballena"
+            },
+            {
+                "eng": "shark",
+                "esp": "el tibur\u00f3n"
+            },
+            {
+                "eng": "seal",
+                "esp": "la foca"
+            },
+            {
+                "eng": "sea lion",
+                "esp": "el lobo marino"
+            },
+            {
+                "eng": "walrus",
+                "esp": "la morsa"
+            },
+            {
+                "eng": "penguin",
+                "esp": "el ping\u00fcino"
+            }
+        ]
+    },
+    "Travel": {
+        "data": [
+            {
+                "eng": "trip",
+                "esp": "el viaje"
+            },
+            {
+                "eng": "bags",
+                "esp": "el equipaje"
+            },
+            {
+                "eng": "exit",
+                "esp": "la salida"
+            },
+            {
+                "eng": "arrival",
+                "esp": "la llegada"
+            },
+            {
+                "eng": "id papers",
+                "esp": "los documentos de identidad"
+            },
+            {
+                "eng": "boarding pass",
+                "esp": "el billete de avi\u00f3n"
+            },
+            {
+                "eng": "hotel",
+                "esp": "el hotel"
+            },
+            {
+                "eng": "driver's license",
+                "esp": "el permiso de conducir"
+            },
+            {
+                "eng": "to get gas",
+                "esp": "echar gasolina"
+            },
+            {
+                "eng": "to travel",
+                "esp": "viajar"
+            },
+            {
+                "eng": "to return",
+                "esp": "volver"
+            },
+            {
+                "eng": "to go",
+                "esp": "ir"
+            },
+            {
+                "eng": "to leave",
+                "esp": "salir"
+            },
+            {
+                "eng": "to stop",
+                "esp": "parar"
+            },
+            {
+                "eng": "to depart",
+                "esp": "partir"
+            },
+            {
+                "eng": "doorman",
+                "esp": "porter(a)"
+            },
+            {
+                "eng": "hostess",
+                "esp": "hostia"
+            },
+            {
+                "eng": "bellhop",
+                "esp": "botones"
+            },
+            {
+                "eng": "airline hostess",
+                "esp": "anfitriona"
+            }
+        ]
+    },
+    "Transportation": {
+        "data": [
+            {
+                "eng": "airplane",
+                "esp": "el avi\u00f3n"
+            },
+            {
+                "eng": "car",
+                "esp": "el coche"
+            },
+            {
+                "eng": "bicycle",
+                "esp": "la bicicleta"
+            },
+            {
+                "eng": "motorcycle",
+                "esp": "la motocicleta"
+            },
+            {
+                "eng": "train",
+                "esp": "el tren"
+            },
+            {
+                "eng": "subway",
+                "esp": "el metro/subte"
+            },
+            {
+                "eng": "bus",
+                "esp": "el autob\u00fas"
+            },
+            {
+                "eng": "ship",
+                "esp": "el barco"
+            },
+            {
+                "eng": "taxi driver",
+                "esp": "taxista"
+            },
+            {
+                "eng": "train conductor",
+                "esp": "revisor(a)"
+            },
+            {
+                "eng": "gas station attendant",
+                "esp": "dependiente de gas"
+            },
+            {
+                "eng": "driver, chauffeur",
+                "esp": "conductor(a)"
+            },
+            {
+                "eng": "truck driver",
+                "esp": "camionero(a)"
+            }
+        ]
+    },
+    "Weather": {
+        "data": [
+            {
+                "eng": "the sun",
+                "esp": "el sol"
+            },
+            {
+                "eng": "the clouds",
+                "esp": "las nubes"
+            },
+            {
+                "eng": "the fog",
+                "esp": "la niebla"
+            },
+            {
+                "eng": "the mist",
+                "esp": "la neblina"
+            },
+            {
+                "eng": "the rain",
+                "esp": "la lluvia"
+            },
+            {
+                "eng": "the drizzle",
+                "esp": "la llovizna"
+            },
+            {
+                "eng": "the storm",
+                "esp": "la tormenta"
+            },
+            {
+                "eng": "the tornado",
+                "esp": "el tornado"
+            },
+            {
+                "eng": "the thunder",
+                "esp": "el trueno"
+            },
+            {
+                "eng": "the lightning strike",
+                "esp": "el rel\u00e1mpago"
+            },
+            {
+                "eng": "the lightning bolt",
+                "esp": "el rayo"
+            },
+            {
+                "eng": "the wind",
+                "esp": "el viento"
+            },
+            {
+                "eng": "the breeze",
+                "esp": "la brisa"
+            },
+            {
+                "eng": "the hail",
+                "esp": "el granizo"
+            },
+            {
+                "eng": "the ice",
+                "esp": "el hielo"
+            },
+            {
+                "eng": "the snow",
+                "esp": "la nieve"
+            },
+            {
+                "eng": "the heat",
+                "esp": "el calor"
+            },
+            {
+                "eng": "the cold",
+                "esp": "el fr\u00edo"
+            },
+            {
+                "eng": "the humidity",
+                "esp": "la humedad"
+            },
+            {
+                "eng": "the temperature",
+                "esp": "la temperatura"
+            },
+            {
+                "eng": "the forecast",
+                "esp": "el pron\u00f3stico"
+            }
+        ]
+    },
+    "Weather Verbs": {
+        "data": [
+            {
+                "eng": "to rain",
+                "esp": "llover"
+            },
+            {
+                "eng": "to drizzle",
+                "esp": "lloviznar"
+            },
+            {
+                "eng": "to pour down",
+                "esp": "diluviar"
+            },
+            {
+                "eng": "to hail",
+                "esp": "granizar"
+            },
+            {
+                "eng": "to snow",
+                "esp": "nevar"
+            }
+        ]
+    },
+    "Seasons": {
+        "data": [
+            {
+                "eng": "winter",
+                "esp": "el invierno"
+            },
+            {
+                "eng": "spring",
+                "esp": "la primavera"
+            },
+            {
+                "eng": "summer",
+                "esp": "el verano"
+            },
+            {
+                "eng": "fall",
+                "esp": "el oto\u00f1o"
+            }
+        ]
+    },
+    "Business": {
+        "data": [
+            {
+                "eng": "cover letter",
+                "esp": "carta de motivaci\u00f3n"
+            },
+            {
+                "eng": "resume",
+                "esp": "el cv"
+            },
+            {
+                "eng": "firm",
+                "esp": "la firma"
+            },
+            {
+                "eng": "business",
+                "esp": "el negocio"
+            },
+            {
+                "eng": "company",
+                "esp": "la compa\u00f1\u00eda"
+            },
+            {
+                "eng": "boss",
+                "esp": "el jefe"
+            },
+            {
+                "eng": "employee",
+                "esp": "el empleado"
+            },
+            {
+                "eng": "to work",
+                "esp": "trabajar"
+            },
+            {
+                "eng": "to negotiate",
+                "esp": "negociar"
+            },
+            {
+                "eng": "consultant",
+                "esp": "consultor(a)"
+            },
+            {
+                "eng": "owner",
+                "esp": "due\u00f1o(a)"
+            }
+        ]
+    },
+    "Careers": {
+        "data": [
+            {
+                "eng": "lawyer",
+                "esp": "abogado(a)"
+            },
+            {
+                "eng": "architect",
+                "esp": "arquitecto(a)"
+            },
+            {
+                "eng": "fireman",
+                "esp": "bombero(a)"
+            },
+            {
+                "eng": "farm worker",
+                "esp": "campesino(a)"
+            },
+            {
+                "eng": "carpenter",
+                "esp": "carpintero(a)"
+            },
+            {
+                "eng": "postal worker",
+                "esp": "cartero(a)"
+            },
+            {
+                "eng": "landlord",
+                "esp": "casero(a)"
+            },
+            {
+                "eng": "scientist",
+                "esp": "cient\u00edfico(a)"
+            },
+            {
+                "eng": "cook, chef",
+                "esp": "cocinero(a)"
+            },
+            {
+                "eng": "counselor",
+                "esp": "consejero (a)"
+            },
+            {
+                "eng": "construction worker",
+                "esp": "constructor (a)"
+            },
+            {
+                "eng": "accountant/bookkeeper",
+                "esp": "contador(a)"
+            },
+            {
+                "eng": "maid",
+                "esp": "dom\u00e9stico(a)"
+            },
+            {
+                "eng": "detective",
+                "esp": "detective"
+            },
+            {
+                "eng": "editor",
+                "esp": "director, revisor, redactor(a)"
+            },
+            {
+                "eng": "electrician",
+                "esp": "electricista"
+            },
+            {
+                "eng": "writer / author",
+                "esp": "escritor / autor(a)"
+            },
+            {
+                "eng": "cowboy",
+                "esp": "vaquero, tropero(a)"
+            },
+            {
+                "eng": "manager",
+                "esp": "manejador(a)"
+            },
+            {
+                "eng": "farmer",
+                "esp": "granjero(a)"
+            },
+            {
+                "eng": "engineer",
+                "esp": "ingeniero(a)"
+            },
+            {
+                "eng": "gardener",
+                "esp": "jardinero(a)"
+            },
+            {
+                "eng": "boss",
+                "esp": "jefe"
+            },
+            {
+                "eng": "judge",
+                "esp": "juez"
+            },
+            {
+                "eng": "laundry person",
+                "esp": "lavandero(a)"
+            },
+            {
+                "eng": "merchant marine",
+                "esp": "marinero(a)"
+            },
+            {
+                "eng": "mechanic",
+                "esp": "mec\u00e1nico (a)"
+            },
+            {
+                "eng": "waiter",
+                "esp": "camarero(a)"
+            },
+            {
+                "eng": "priest",
+                "esp": "padre"
+            },
+            {
+                "eng": "baker",
+                "esp": "panadero(a)"
+            },
+            {
+                "eng": "pastor/minister",
+                "esp": "pastor(a)"
+            },
+            {
+                "eng": "reporter/journalist",
+                "esp": "periodista"
+            },
+            {
+                "eng": "fisherman",
+                "esp": "pescador(a)"
+            },
+            {
+                "eng": "painter",
+                "esp": "pintor(a)"
+            },
+            {
+                "eng": "plumber",
+                "esp": "plomero(a)"
+            },
+            {
+                "eng": "policeman",
+                "esp": "Polic\u00eda"
+            },
+            {
+                "eng": "computer programmer",
+                "esp": "programador(a)"
+            },
+            {
+                "eng": "owner",
+                "esp": "due\u00f1o(a)"
+            },
+            {
+                "eng": "chemist",
+                "esp": "qu\u00edmico(a)"
+            },
+            {
+                "eng": "rancher",
+                "esp": "ranchero(a)"
+            },
+            {
+                "eng": "researcher",
+                "esp": "rebuscador(a)"
+            },
+            {
+                "eng": "repairman",
+                "esp": "reparador(a)"
+            },
+            {
+                "eng": "lab technician",
+                "esp": "t\u00e9cnico(a) de laboratorio"
+            },
+            {
+                "eng": "factory worker",
+                "esp": "trabajador(a) de f\u00e1brica"
+            },
+            {
+                "eng": "veterinarian",
+                "esp": "veterinario(a)"
+            }
+        ]
+    },
+    "Sports": {
+        "data": [
+            {
+                "eng": "go to the gym",
+                "esp": "ir al gimnasio"
+            },
+            {
+                "eng": "go hiking",
+                "esp": "ir de caminata"
+            },
+            {
+                "eng": "lift weight",
+                "esp": "levantar pesas"
+            },
+            {
+                "eng": "to stay in shape",
+                "esp": "mantenerse en forma"
+            },
+            {
+                "eng": "to practice",
+                "esp": "practicar"
+            },
+            {
+                "eng": "to swim",
+                "esp": "nadar"
+            },
+            {
+                "eng": "yoga",
+                "esp": "el yoga"
+            },
+            {
+                "eng": "soccer",
+                "esp": "el f\u00fatbol"
+            },
+            {
+                "eng": "football",
+                "esp": "el f\u00fatbol americano"
+            },
+            {
+                "eng": "baseball",
+                "esp": "el b\u00e9isbol"
+            },
+            {
+                "eng": "basketball",
+                "esp": "el baloncesto"
+            },
+            {
+                "eng": "golf",
+                "esp": "el golf"
+            },
+            {
+                "eng": "hockey",
+                "esp": "el hockey"
+            },
+            {
+                "eng": "tennis",
+                "esp": "el tenis"
+            },
+            {
+                "eng": "volleyball",
+                "esp": "el voleibol"
+            },
+            {
+                "eng": "to wrestle/to fight",
+                "esp": "luchar"
+            },
+            {
+                "eng": "to run",
+                "esp": "correr"
+            },
+            {
+                "eng": "to ski",
+                "esp": "esquiar"
+            },
+            {
+                "eng": "game/match",
+                "esp": "el partido"
+            },
+            {
+                "eng": "race",
+                "esp": "la carrera"
+            },
+            {
+                "eng": "tournament",
+                "esp": "el torneo"
+            }
+        ]
+    },
+    "Sports Verbs": {
+        "data": [
+            {
+                "eng": "to kick",
+                "esp": "patear"
+            },
+            {
+                "eng": "to jump",
+                "esp": "saltar"
+            },
+            {
+                "eng": "to stop/to block",
+                "esp": "parar"
+            },
+            {
+                "eng": "to swing",
+                "esp": "balancear"
+            },
+            {
+                "eng": "to serve",
+                "esp": "servir"
+            },
+            {
+                "eng": "to spike",
+                "esp": "rematar"
+            },
+            {
+                "eng": "to hit",
+                "esp": "pegar"
+            },
+            {
+                "eng": "to dribble",
+                "esp": "driblar"
+            },
+            {
+                "eng": "to throw",
+                "esp": "tirar"
+            },
+            {
+                "eng": "to catch",
+                "esp": "agarrar"
+            },
+            {
+                "eng": "to win",
+                "esp": "ganar"
+            },
+            {
+                "eng": "to lose",
+                "esp": "perder"
+            },
+            {
+                "eng": "to tie",
+                "esp": "empatar"
+            },
+            {
+                "eng": "to walk",
+                "esp": "caminar"
+            },
+            {
+                "eng": "to dance",
+                "esp": "bailar"
+            },
+            {
+                "eng": "to play",
+                "esp": "jugar"
+            },
+            {
+                "eng": "to compete",
+                "esp": "competir"
+            }
+        ]
+    },
+    "Food and Drink": {
+        "data": [
+            {
+                "eng": "food",
+                "esp": "la comida"
+            },
+            {
+                "eng": "drinks",
+                "esp": "las bebidas"
+            },
+            {
+                "eng": "vegetables",
+                "esp": "las verduras"
+            },
+            {
+                "eng": "fruits",
+                "esp": "las frutas"
+            },
+            {
+                "eng": "to cook",
+                "esp": "cocinar"
+            },
+            {
+                "eng": "i'm hungry",
+                "esp": "tengo hambre"
+            },
+            {
+                "eng": "i'm thirsty",
+                "esp": "tengo sed"
+            }
+        ]
+    },
+    "Meats": {
+        "data": [
+            {
+                "eng": "beef",
+                "esp": "la res"
+            },
+            {
+                "eng": "chicken",
+                "esp": "el pollo"
+            },
+            {
+                "eng": "chicken",
+                "esp": "la gallina"
+            },
+            {
+                "eng": "lamb",
+                "esp": "el cordero"
+            },
+            {
+                "eng": "grilled",
+                "esp": "la barbacoa"
+            },
+            {
+                "eng": "pork",
+                "esp": "el cerdo"
+            },
+            {
+                "eng": "hot dog",
+                "esp": "el perrito caliente"
+            },
+            {
+                "eng": "ham",
+                "esp": "el jam\u00f3n"
+            },
+            {
+                "eng": "hamburger",
+                "esp": "la hamburguesa"
+            },
+            {
+                "eng": "bacon",
+                "esp": "el tocino"
+            },
+            {
+                "eng": "fish",
+                "esp": "el pescado"
+            }
+        ]
+    },
+    "Vegetables": {
+        "data": [
+            {
+                "eng": "carrot",
+                "esp": "la zanahoria"
+            },
+            {
+                "eng": "lettuce",
+                "esp": "la lechuga"
+            },
+            {
+                "eng": "tomato",
+                "esp": "el tomate"
+            },
+            {
+                "eng": "corn",
+                "esp": "la ma\u00edz"
+            },
+            {
+                "eng": "potato",
+                "esp": "la papa"
+            },
+            {
+                "eng": "potato",
+                "esp": "la patata"
+            },
+            {
+                "eng": "french fries",
+                "esp": "las papas"
+            },
+            {
+                "eng": "french fries",
+                "esp": "las patatas fritas"
+            },
+            {
+                "eng": "broccoli",
+                "esp": "el brocoli"
+            },
+            {
+                "eng": "spinach",
+                "esp": "la espinaca"
+            },
+            {
+                "eng": "onion",
+                "esp": "la cebolla"
+            },
+            {
+                "eng": "cabbage",
+                "esp": "la col"
+            },
+            {
+                "eng": "salad",
+                "esp": "la ensalada"
+            },
+            {
+                "eng": "olive",
+                "esp": "la aceituna"
+            },
+            {
+                "eng": "squash",
+                "esp": "las calabacitas"
+            },
+            {
+                "eng": "mushroom",
+                "esp": "el hongo"
+            },
+            {
+                "eng": "cucumber",
+                "esp": "el pepino"
+            }
+        ]
+    },
+    "Fruits": {
+        "data": [
+            {
+                "eng": "apple",
+                "esp": "la manzana"
+            },
+            {
+                "eng": "pear",
+                "esp": "la pera"
+            },
+            {
+                "eng": "strawberry",
+                "esp": "la fresa"
+            },
+            {
+                "eng": "raspberry",
+                "esp": "la frambuesa"
+            },
+            {
+                "eng": "blackberry",
+                "esp": "la zarzamora"
+            },
+            {
+                "eng": "blueberry",
+                "esp": "el ar\u00e1ndano"
+            },
+            {
+                "eng": "cranberry",
+                "esp": "el ar\u00e1ndano rojo"
+            },
+            {
+                "eng": "orange",
+                "esp": "la naranja"
+            },
+            {
+                "eng": "tangerine",
+                "esp": "la mandarina"
+            },
+            {
+                "eng": "grapefruit",
+                "esp": "la toronja"
+            },
+            {
+                "eng": "lemon",
+                "esp": "el lim\u00f3n"
+            },
+            {
+                "eng": "lime",
+                "esp": "la lima"
+            },
+            {
+                "eng": "banana",
+                "esp": "el pl\u00e1tano"
+            },
+            {
+                "eng": "pineapple",
+                "esp": "la pi\u00f1a"
+            },
+            {
+                "eng": "coconut",
+                "esp": "el coco"
+            },
+            {
+                "eng": "mango",
+                "esp": "el mango"
+            },
+            {
+                "eng": "papaya",
+                "esp": "la papaya"
+            }
+        ]
+    },
+    "Drinks": {
+        "data": [
+            {
+                "eng": "beer",
+                "esp": "la cerveza"
+            },
+            {
+                "eng": "pop, soft drink",
+                "esp": "el refresco"
+            },
+            {
+                "eng": "tea",
+                "esp": "el t\u00e9"
+            },
+            {
+                "eng": "iced tea",
+                "esp": "el t\u00e9 helado"
+            },
+            {
+                "eng": "coffee",
+                "esp": "el caf\u00e9"
+            },
+            {
+                "eng": "milk",
+                "esp": "la leche"
+            },
+            {
+                "eng": "water",
+                "esp": "el agua"
+            },
+            {
+                "eng": "juice",
+                "esp": "el jugo"
+            },
+            {
+                "eng": "milkshake",
+                "esp": "el batido"
+            }
+        ]
+    },
+    "Desserts": {
+        "data": [
+            {
+                "eng": "chocolate",
+                "esp": "el chocolate"
+            },
+            {
+                "eng": "candy",
+                "esp": "los dulces"
+            },
+            {
+                "eng": "cake",
+                "esp": "el pastel"
+            },
+            {
+                "eng": "cookies",
+                "esp": "las galletas"
+            },
+            {
+                "eng": "ice cream",
+                "esp": "el helado"
+            },
+            {
+                "eng": "chocolate churros",
+                "esp": "el churros con chocolate"
+            },
+            {
+                "eng": "cheesecake",
+                "esp": "el basque cheesecake"
+            }
+        ]
+    },
+    "Utensils": {
+        "data": [
+            {
+                "eng": "plate",
+                "esp": "el plato"
+            },
+            {
+                "eng": "bowl",
+                "esp": "el plato hondo"
+            },
+            {
+                "eng": "glass",
+                "esp": "el vaso"
+            },
+            {
+                "eng": "cup",
+                "esp": "la copa"
+            },
+            {
+                "eng": "fork",
+                "esp": "el tenedor"
+            },
+            {
+                "eng": "spoon",
+                "esp": "la cuchara"
+            },
+            {
+                "eng": "knife",
+                "esp": "el cuchillo"
+            },
+            {
+                "eng": "napkin",
+                "esp": "la servilleta"
+            }
+        ]
+    },
+    "Meals": {
+        "data": [
+            {
+                "eng": "breakfast",
+                "esp": "el desayuno"
+            },
+            {
+                "eng": "lunch",
+                "esp": "el almuerzo"
+            },
+            {
+                "eng": "dinner",
+                "esp": "la cena"
+            },
+            {
+                "eng": "snack",
+                "esp": "el tentempi\u00e9"
+            }
+        ]
+    },
+    "Clothing": {
+        "data": [
+            {
+                "eng": "clothes",
+                "esp": "la prenda, la ropa"
+            },
+            {
+                "eng": "shoes",
+                "esp": "los zapatos"
+            },
+            {
+                "eng": "pants",
+                "esp": "el pantal\u00f3n"
+            },
+            {
+                "eng": "shirt",
+                "esp": "la camiseta / la camisa"
+            },
+            {
+                "eng": "jacket",
+                "esp": "la chaqueta"
+            },
+            {
+                "eng": "skirt",
+                "esp": "la falda"
+            },
+            {
+                "eng": "sweater",
+                "esp": "el su\u00e9ter"
+            },
+            {
+                "eng": "dress",
+                "esp": "el vestido"
+            }
+        ]
+    },
+    "Holidays and Parties": {
+        "data": [
+            {
+                "eng": "christmas",
+                "esp": "la navidad"
+            },
+            {
+                "eng": "new year",
+                "esp": "el a\u00f1o nuevo"
+            },
+            {
+                "eng": "easter",
+                "esp": "la pascua"
+            },
+            {
+                "eng": "valentine's day",
+                "esp": "el d\u00eda de san valent\u00edn"
+            },
+            {
+                "eng": "mother's day",
+                "esp": "el d\u00eda de la madre"
+            },
+            {
+                "eng": "father's day",
+                "esp": "el d\u00eda del padre"
+            },
+            {
+                "eng": "independence day",
+                "esp": "el d\u00eda de la independencia"
+            },
+            {
+                "eng": "thanksgiving",
+                "esp": "el d\u00eda de acci\u00f3n de gracias"
+            },
+            {
+                "eng": "birthday",
+                "esp": "el cumplea\u00f1os"
+            },
+            {
+                "eng": "the party",
+                "esp": "la fiesta"
+            },
+            {
+                "eng": "the wedding",
+                "esp": "la boda"
+            }
+        ]
+    },
+    "Parts of the Body": {
+        "data": [
+            {
+                "eng": "the human body",
+                "esp": "el cuerpo humano"
+            },
+            {
+                "eng": "head",
+                "esp": "la cabeza"
+            },
+            {
+                "eng": "chest",
+                "esp": "el pecho"
+            },
+            {
+                "eng": "ear",
+                "esp": "el o\u00eddo / la oreja"
+            },
+            {
+                "eng": "eye",
+                "esp": "el ojo"
+            },
+            {
+                "eng": "face",
+                "esp": "la cara"
+            },
+            {
+                "eng": "hand",
+                "esp": "la mano"
+            },
+            {
+                "eng": "mouth",
+                "esp": "la boca"
+            },
+            {
+                "eng": "foot",
+                "esp": "el pie"
+            },
+            {
+                "eng": "back",
+                "esp": "la espalda"
+            },
+            {
+                "eng": "hair",
+                "esp": "el pelo"
+            },
+            {
+                "eng": "elbow",
+                "esp": "el codo"
+            },
+            {
+                "eng": "finger",
+                "esp": "el dedo"
+            },
+            {
+                "eng": "calf",
+                "esp": "la pantorrilla"
+            },
+            {
+                "eng": "leg",
+                "esp": "la pierna"
+            },
+            {
+                "eng": "wrist",
+                "esp": "la mu\u00f1eca"
+            },
+            {
+                "eng": "heel",
+                "esp": "el tal\u00f3n"
+            },
+            {
+                "eng": "arm",
+                "esp": "el brazo"
+            },
+            {
+                "eng": "neck",
+                "esp": "el cuello"
+            },
+            {
+                "eng": "ankle",
+                "esp": "el tobillo"
+            },
+            {
+                "eng": "forehead",
+                "esp": "la frente"
+            },
+            {
+                "eng": "thigh",
+                "esp": "el muslo"
+            },
+            {
+                "eng": "beard",
+                "esp": "la barba"
+            },
+            {
+                "eng": "mustache",
+                "esp": "el bigote"
+            },
+            {
+                "eng": "tongue",
+                "esp": "la lengua"
+            },
+            {
+                "eng": "toe",
+                "esp": "el dedo del pie"
+            },
+            {
+                "eng": "waist",
+                "esp": "la cintura"
+            },
+            {
+                "eng": "hip",
+                "esp": "la cadera"
+            },
+            {
+                "eng": "buttocks",
+                "esp": "las nalgas"
+            },
+            {
+                "eng": "thumb",
+                "esp": "el pulgar"
+            },
+            {
+                "eng": "knee",
+                "esp": "la rodilla"
+            },
+            {
+                "eng": "nose",
+                "esp": "la nariz"
+            },
+            {
+                "eng": "cheek",
+                "esp": "la mejilla, el cachete"
+            },
+            {
+                "eng": "lips",
+                "esp": "los labios"
+            },
+            {
+                "eng": "shoulder",
+                "esp": "el hombro"
+            },
+            {
+                "eng": "chin",
+                "esp": "la barbilla, el ment\u00f3n"
+            },
+            {
+                "eng": "eyebrows",
+                "esp": "las cejas"
+            },
+            {
+                "eng": "eyelashes",
+                "esp": "las pesta\u00f1as"
+            },
+            {
+                "eng": "belly button",
+                "esp": "el ombligo"
+            },
+            {
+                "eng": "skin",
+                "esp": "la piel"
+            },
+            {
+                "eng": "stomach",
+                "esp": "el vientre"
+            },
+            {
+                "eng": "throat",
+                "esp": "la garganta"
+            },
+            {
+                "eng": "teeth",
+                "esp": "los dientes/las muelas"
+            }
+        ]
+    },
+    "Time and Place": {
+        "data": [
+            {
+                "eng": "at the beginning",
+                "esp": "al principio"
+            },
+            {
+                "eng": "firstly",
+                "esp": "en primer lugar"
+            },
+            {
+                "eng": "to start",
+                "esp": "para comenzar"
+            },
+            {
+                "eng": "before",
+                "esp": "antes"
+            },
+            {
+                "eng": "after",
+                "esp": "despu\u00e9s"
+            },
+            {
+                "eng": "in continuation",
+                "esp": "a continuaci\u00f3n"
+            },
+            {
+                "eng": "meanwhile",
+                "esp": "mientras tanto"
+            },
+            {
+                "eng": "at the end",
+                "esp": "al final"
+            }
+        ]
+    },
+    "Add an Idea": {
+        "data": [
+            {
+                "eng": "additionally",
+                "esp": "adem\u00e1s"
+            },
+            {
+                "eng": "apart from",
+                "esp": "aparte de"
+            },
+            {
+                "eng": "at the same time",
+                "esp": "asimismo"
+            },
+            {
+                "eng": "also",
+                "esp": "tambi\u00e9n"
+            },
+            {
+                "eng": "in the same way",
+                "esp": "de igual manera"
+            }
+        ]
+    },
+    "Compare contrast": {
+        "data": [
+            {
+                "eng": "but",
+                "esp": "pero"
+            },
+            {
+                "eng": "however",
+                "esp": "sin embargo"
+            },
+            {
+                "eng": "nevertheless",
+                "esp": "no obstante"
+            },
+            {
+                "eng": "on the other hand",
+                "esp": "por otro lado"
+            },
+            {
+                "eng": "even though",
+                "esp": "aunque"
+            },
+            {
+                "eng": "despite",
+                "esp": "a pesar de"
+            }
+        ]
+    },
+    "Prepositions": {
+        "data": [
+            {
+                "eng": "inside of",
+                "esp": "dentro de"
+            },
+            {
+                "eng": "on top of",
+                "esp": "encima de/sobre"
+            },
+            {
+                "eng": "underneath of",
+                "esp": "debajo de"
+            },
+            {
+                "eng": "in front of",
+                "esp": "delante de"
+            },
+            {
+                "eng": "behind",
+                "esp": "detr\u00e1s de"
+            },
+            {
+                "eng": "between",
+                "esp": "entre"
+            },
+            {
+                "eng": "in/on/at",
+                "esp": "en"
+            },
+            {
+                "eng": "inside of",
+                "esp": "dentro de"
+            },
+            {
+                "eng": "outside of",
+                "esp": "fuera de"
+            },
+            {
+                "eng": "above",
+                "esp": "arriba de"
+            },
+            {
+                "eng": "in the middle of",
+                "esp": "en medio de"
+            },
+            {
+                "eng": "close to",
+                "esp": "cerca de"
+            },
+            {
+                "eng": "far from",
+                "esp": "lejos de"
+            },
+            {
+                "eng": "next to",
+                "esp": "al lado de"
+            },
+            {
+                "eng": "around",
+                "esp": "alrededor de"
+            },
+            {
+                "eng": "to the left of",
+                "esp": "a la izquierda de"
+            },
+            {
+                "eng": "to the right of",
+                "esp": "a la derecha de"
+            }
+        ]
+    },
+    "Location Verbs": {
+        "data": [
+            {
+                "eng": "to be",
+                "esp": "estar"
+            },
+            {
+                "eng": "to place",
+                "esp": "colocar"
+            },
+            {
+                "eng": "to position",
+                "esp": "ubicar"
+            },
+            {
+                "eng": "to put",
+                "esp": "poner"
+            },
+            {
+                "eng": "to place",
+                "esp": "situar"
+            }
+        ]
+    },
+    "Here and There": {
+        "data": [
+            {
+                "eng": "here",
+                "esp": "aqu\u00ed, ac\u00e1"
+            },
+            {
+                "eng": "there",
+                "esp": "ah\u00ed"
+            },
+            {
+                "eng": "there",
+                "esp": "all\u00ed"
+            },
+            {
+                "eng": "over there",
+                "esp": "all\u00e1"
+            }
+        ]
+    },
+    "Directions": {
+        "data": [
+            {
+                "eng": "east",
+                "esp": "el este"
+            },
+            {
+                "eng": "north",
+                "esp": "el norte"
+            },
+            {
+                "eng": "west",
+                "esp": "el oeste"
+            },
+            {
+                "eng": "south",
+                "esp": "el sur"
+            }
+        ]
+    },
+    "Classroom Objects": {
+        "data": [
+            {
+                "eng": "classroom",
+                "esp": "la clase"
+            },
+            {
+                "eng": "classroom",
+                "esp": "el aula"
+            },
+            {
+                "eng": "blackboard",
+                "esp": "la pizarra"
+            },
+            {
+                "eng": "whiteboard",
+                "esp": "el pizarr\u00f3n"
+            },
+            {
+                "eng": "chalk",
+                "esp": "la tiza"
+            },
+            {
+                "eng": "marker",
+                "esp": "el marcador"
+            },
+            {
+                "eng": "eraser",
+                "esp": "el borrador"
+            },
+            {
+                "eng": "desk",
+                "esp": "el escritorio"
+            },
+            {
+                "eng": "desk",
+                "esp": "el pupitre"
+            },
+            {
+                "eng": "chair",
+                "esp": "la silla"
+            },
+            {
+                "eng": "backpack",
+                "esp": "la mochila"
+            },
+            {
+                "eng": "book",
+                "esp": "el libro"
+            },
+            {
+                "eng": "notebook",
+                "esp": "el cuaderno"
+            },
+            {
+                "eng": "paper",
+                "esp": "el papel"
+            },
+            {
+                "eng": "pencil",
+                "esp": "el l\u00e1piz"
+            },
+            {
+                "eng": "coloring pencils",
+                "esp": "los l\u00e1pices de colores"
+            },
+            {
+                "eng": "pencil sharpener",
+                "esp": "el sacapuntas"
+            },
+            {
+                "eng": "pen",
+                "esp": "el bol\u00edgrafo"
+            },
+            {
+                "eng": "eraser",
+                "esp": "la goma"
+            },
+            {
+                "eng": "scissors",
+                "esp": "las tijeras"
+            },
+            {
+                "eng": "glue",
+                "esp": "la cola/el pegamento"
+            },
+            {
+                "eng": "ruler",
+                "esp": "la regla"
+            },
+            {
+                "eng": "stapler",
+                "esp": "la grapadora"
+            },
+            {
+                "eng": "pencil case",
+                "esp": "el estuche"
+            }
+        ]
+    },
+    "Classroom Activities": {
+        "data": [
+            {
+                "eng": "to study",
+                "esp": "estudiar"
+            },
+            {
+                "eng": "to revise",
+                "esp": "repasar"
+            },
+            {
+                "eng": "to learn",
+                "esp": "aprender"
+            },
+            {
+                "eng": "to know",
+                "esp": "saber"
+            },
+            {
+                "eng": "to do homework",
+                "esp": "hacer los deberes"
+            },
+            {
+                "eng": "to do homework",
+                "esp": "hacer la tarea"
+            },
+            {
+                "eng": "to read",
+                "esp": "leer"
+            },
+            {
+                "eng": "to write",
+                "esp": "escribir"
+            },
+            {
+                "eng": "to speak",
+                "esp": "hablar"
+            },
+            {
+                "eng": "to say",
+                "esp": "decir"
+            },
+            {
+                "eng": "to ask",
+                "esp": "preguntar"
+            },
+            {
+                "eng": "to chat",
+                "esp": "charlar"
+            },
+            {
+                "eng": "to dictate",
+                "esp": "dictar"
+            },
+            {
+                "eng": "to spell",
+                "esp": "deletrear"
+            },
+            {
+                "eng": "to count",
+                "esp": "contar"
+            },
+            {
+                "eng": "to miss school",
+                "esp": "faltar"
+            },
+            {
+                "eng": "to pass a subject/a test",
+                "esp": "aprobar"
+            },
+            {
+                "eng": "to fail a subject/a test",
+                "esp": "reprobar"
+            },
+            {
+                "eng": "to lend",
+                "esp": "prestar"
+            },
+            {
+                "eng": "to borrow",
+                "esp": "tomar prestado"
+            },
+            {
+                "eng": "to bring",
+                "esp": "traer"
+            },
+            {
+                "eng": "to teach",
+                "esp": "ense\u00f1ar"
+            },
+            {
+                "eng": "to show",
+                "esp": "mostrar"
+            },
+            {
+                "eng": "to name",
+                "esp": "nombrar"
+            },
+            {
+                "eng": "to help",
+                "esp": "ayudar"
+            }
+        ]
+    },
+    "Places in a School": {
+        "data": [
+            {
+                "eng": "school",
+                "esp": "la escuela"
+            },
+            {
+                "eng": "school",
+                "esp": "el colegio"
+            },
+            {
+                "eng": "gym",
+                "esp": "el gimnasio"
+            },
+            {
+                "eng": "playground",
+                "esp": "el patio"
+            },
+            {
+                "eng": "restroom",
+                "esp": "el ba\u00f1o"
+            },
+            {
+                "eng": "hallway",
+                "esp": "el pasillo"
+            },
+            {
+                "eng": "library",
+                "esp": "la biblioteca"
+            },
+            {
+                "eng": "office",
+                "esp": "la oficina"
+            },
+            {
+                "eng": "staff room",
+                "esp": "la sala de profesores"
+            },
+            {
+                "eng": "cafeteria",
+                "esp": "el comedor"
+            },
+            {
+                "eng": "kitchen",
+                "esp": "la cocina"
+            },
+            {
+                "eng": "infirmary",
+                "esp": "la enfermer\u00eda"
+            },
+            {
+                "eng": "lab",
+                "esp": "el laboratorio"
+            }
+        ]
+    },
+    "People in a School": {
+        "data": [
+            {
+                "eng": "teacher (primary school)",
+                "esp": "maestro/a"
+            },
+            {
+                "eng": "teacher (secondary school)",
+                "esp": "profesor/a"
+            },
+            {
+                "eng": "coach",
+                "esp": "entrenador/a"
+            },
+            {
+                "eng": "nurse",
+                "esp": "enfermero/a"
+            },
+            {
+                "eng": "principal",
+                "esp": "director/a"
+            },
+            {
+                "eng": "student",
+                "esp": "alumno/a"
+            },
+            {
+                "eng": "student",
+                "esp": "estudiante"
+            }
+        ]
+    },
+    "More School Words": {
+        "data": [
+            {
+                "eng": "lunch",
+                "esp": "el almuerzo"
+            },
+            {
+                "eng": "recess",
+                "esp": "el recreo"
+            },
+            {
+                "eng": "vacations",
+                "esp": "las vacaciones"
+            },
+            {
+                "eng": "food",
+                "esp": "la comida"
+            },
+            {
+                "eng": "locker",
+                "esp": "el casillero"
+            },
+            {
+                "eng": "subject",
+                "esp": "la materia"
+            },
+            {
+                "eng": "math",
+                "esp": "la matem\u00e1tica"
+            },
+            {
+                "eng": "biology",
+                "esp": "la biolog\u00eda"
+            },
+            {
+                "eng": "chemistry",
+                "esp": "la qu\u00edmica"
+            },
+            {
+                "eng": "physics",
+                "esp": "la f\u00edsica"
+            },
+            {
+                "eng": "physical education",
+                "esp": "la educaci\u00f3n f\u00edsica"
+            },
+            {
+                "eng": "history",
+                "esp": "la historia"
+            },
+            {
+                "eng": "literature",
+                "esp": "la literatura"
+            },
+            {
+                "eng": "test",
+                "esp": "la prueba"
+            },
+            {
+                "eng": "exam",
+                "esp": "el examen"
+            },
+            {
+                "eng": "grade",
+                "esp": "la nota"
+            },
+            {
+                "eng": "grade",
+                "esp": "la calificaci\u00f3n"
+            }
+        ]
+    },
+    "Technology": {
+        "data": [
+            {
+                "eng": "a computer",
+                "esp": "un ordenador (Spain)"
+            },
+            {
+                "eng": "a computer",
+                "esp": "una computadora (Latin America)"
+            },
+            {
+                "eng": "a tablet",
+                "esp": "una tableta"
+            },
+            {
+                "eng": "a printer",
+                "esp": "una impresora"
+            },
+            {
+                "eng": "the mouse",
+                "esp": "el rat\u00f3n"
+            },
+            {
+                "eng": "to turn on",
+                "esp": "apagar"
+            },
+            {
+                "eng": "to turn off",
+                "esp": "encender"
+            },
+            {
+                "eng": "the hard drive",
+                "esp": "el disco duro"
+            },
+            {
+                "eng": "the keyboard",
+                "esp": "el teclado"
+            },
+            {
+                "eng": "the key",
+                "esp": "la tecla"
+            },
+            {
+                "eng": "headphones",
+                "esp": "los auriculares"
+            },
+            {
+                "eng": "the mic",
+                "esp": "el micr\u00f3fono"
+            },
+            {
+                "eng": "the screen",
+                "esp": "la pantalla"
+            },
+            {
+                "eng": "the camera",
+                "esp": "la c\u00e1mara"
+            },
+            {
+                "eng": "the speakers",
+                "esp": "los altavoces"
+            },
+            {
+                "eng": "an app",
+                "esp": "una aplicaci\u00f3n"
+            },
+            {
+                "eng": "database",
+                "esp": "base de datos"
+            },
+            {
+                "eng": "social networks",
+                "esp": "las redes sociales"
+            },
+            {
+                "eng": "the link",
+                "esp": "el enlace"
+            },
+            {
+                "eng": "to upload",
+                "esp": "subir"
+            },
+            {
+                "eng": "to save",
+                "esp": "guardar"
+            },
+            {
+                "eng": "to delete",
+                "esp": "borrar"
+            },
+            {
+                "eng": "to click",
+                "esp": "hacer click"
+            },
+            {
+                "eng": "to download",
+                "esp": "bajar/descargar"
+            },
+            {
+                "eng": "search on Google",
+                "esp": "buscar en Google"
+            },
+            {
+                "eng": "hacker",
+                "esp": "pirata inform\u00e1tico"
+            },
+            {
+                "eng": "password",
+                "esp": "contrase\u00f1a"
+            }
+        ]
+    },
+    "Home Sweet Home!": {
+        "data": [
+            {
+                "eng": "house, home",
+                "esp": "la casa"
+            },
+            {
+                "eng": "home",
+                "esp": "el hogar"
+            },
+            {
+                "eng": "bedroom",
+                "esp": "la habitaci\u00f3n"
+            },
+            {
+                "eng": "bedroom",
+                "esp": "el cuarto"
+            },
+            {
+                "eng": "bedroom",
+                "esp": "el dormitorio"
+            },
+            {
+                "eng": "living room",
+                "esp": "la sala"
+            },
+            {
+                "eng": "dining room",
+                "esp": "el comedor"
+            },
+            {
+                "eng": "kitchen",
+                "esp": "la cocina"
+            },
+            {
+                "eng": "bathroom",
+                "esp": "el ba\u00f1o"
+            },
+            {
+                "eng": "hallway",
+                "esp": "el pasillo"
+            },
+            {
+                "eng": "yard, garden",
+                "esp": "el jard\u00edn"
+            },
+            {
+                "eng": "garage",
+                "esp": "el garaje"
+            },
+            {
+                "eng": "comfortable",
+                "esp": "c\u00f3modo/a"
+            },
+            {
+                "eng": "cozy",
+                "esp": "acogedor"
+            },
+            {
+                "eng": "messy",
+                "esp": "desordenado/a"
+            },
+            {
+                "eng": "clean",
+                "esp": "limpio/a"
+            }
+        ]
+    },
+    "Bathroom": {
+        "data": [
+            {
+                "eng": "toothpaste",
+                "esp": "la pasta de dientes"
+            },
+            {
+                "eng": "toothbrush",
+                "esp": "el cepillo de dientes"
+            },
+            {
+                "eng": "soap",
+                "esp": "el jab\u00f3n"
+            },
+            {
+                "eng": "hair dryer",
+                "esp": "el secador de pelo"
+            },
+            {
+                "eng": "shampoo",
+                "esp": "el champ\u00fa"
+            },
+            {
+                "eng": "brush",
+                "esp": "el cepillo"
+            },
+            {
+                "eng": "toilet paper",
+                "esp": "el papel higi\u00e9nico"
+            },
+            {
+                "eng": "towel",
+                "esp": "la toalla"
+            },
+            {
+                "eng": "soapy water",
+                "esp": "el agua jabonosa"
+            },
+            {
+                "eng": "trash bag",
+                "esp": "la bolsa de basura"
+            },
+            {
+                "eng": "trash can",
+                "esp": "el cubo de basura"
+            },
+            {
+                "eng": "laundry basket",
+                "esp": "el cesto de la ropa sucia"
+            },
+            {
+                "eng": "razor",
+                "esp": "la navaja de afeitar"
+            },
+            {
+                "eng": "electric razor",
+                "esp": "la maquinilla de afeitar el\u00e9ctrica"
+            },
+            {
+                "eng": "shaving cream",
+                "esp": "la crema de afeitar"
+            },
+            {
+                "eng": "mouthwash",
+                "esp": "el enjuague bucal"
+            },
+            {
+                "eng": "hair brush",
+                "esp": "el cepillo de pelo"
+            },
+            {
+                "eng": "comb",
+                "esp": "el peine"
+            },
+            {
+                "eng": "facial cleanser",
+                "esp": "el limpiador facial"
+            },
+            {
+                "eng": "scale",
+                "esp": "la balanza"
+            },
+            {
+                "eng": "tissue",
+                "esp": "el pa\u00f1uelo de papel"
+            },
+            {
+                "eng": "bath toys",
+                "esp": "los juguetes de ba\u00f1o"
+            },
+            {
+                "eng": "bath mat",
+                "esp": "la alfombra de ba\u00f1o"
+            },
+            {
+                "eng": "shower",
+                "esp": "la ducha"
+            },
+            {
+                "eng": "bathtub",
+                "esp": "la ba\u00f1era"
+            },
+            {
+                "eng": "sink",
+                "esp": "el fregadero"
+            },
+            {
+                "eng": "toilet",
+                "esp": "el inodoro"
+            },
+            {
+                "eng": "faucet",
+                "esp": "el grifo"
+            },
+            {
+                "eng": "mirror",
+                "esp": "el espejo"
+            },
+            {
+                "eng": "to comb",
+                "esp": "peinar"
+            }
+        ]
+    },
+    "Kitchen Verbs": {
+        "data": [
+            {
+                "eng": "to cook",
+                "esp": "cocinar"
+            },
+            {
+                "eng": "to eat",
+                "esp": "comer"
+            },
+            {
+                "eng": "to marinate",
+                "esp": "adobar"
+            },
+            {
+                "eng": "to season",
+                "esp": "sazonar"
+            },
+            {
+                "eng": "to wash",
+                "esp": "lavar"
+            },
+            {
+                "eng": "to cut",
+                "esp": "cortar"
+            },
+            {
+                "eng": "to peel",
+                "esp": "pelar"
+            },
+            {
+                "eng": "to chop",
+                "esp": "picar"
+            },
+            {
+                "eng": "to grind",
+                "esp": "moler"
+            },
+            {
+                "eng": "to add",
+                "esp": "incorporar"
+            },
+            {
+                "eng": "to mix",
+                "esp": "mezclar"
+            },
+            {
+                "eng": "to whisk",
+                "esp": "catir"
+            },
+            {
+                "eng": "to blend",
+                "esp": "licuar"
+            },
+            {
+                "eng": "to combine",
+                "esp": "combinar"
+            },
+            {
+                "eng": "to fry",
+                "esp": "fre\u00edr"
+            },
+            {
+                "eng": "to boil",
+                "esp": "hervir"
+            },
+            {
+                "eng": "to strain",
+                "esp": "colar"
+            },
+            {
+                "eng": "to cook",
+                "esp": "cocer"
+            },
+            {
+                "eng": "to bake",
+                "esp": "hornear"
+            },
+            {
+                "eng": "to grill / roast",
+                "esp": "asar"
+            },
+            {
+                "eng": "to saute",
+                "esp": "saltear"
+            },
+            {
+                "eng": "to prepare",
+                "esp": "preparar"
+            },
+            {
+                "eng": "to defrost",
+                "esp": "descongelar"
+            },
+            {
+                "eng": "to burn",
+                "esp": "quemar"
+            },
+            {
+                "eng": "to toast",
+                "esp": "tostar"
+            },
+            {
+                "eng": "to melt",
+                "esp": "derretir"
+            },
+            {
+                "eng": "to slice",
+                "esp": "rodajear"
+            },
+            {
+                "eng": "to warm up / heat",
+                "esp": "calentar"
+            },
+            {
+                "eng": "to fill / stuff",
+                "esp": "rellenar"
+            },
+            {
+                "eng": "to wash",
+                "esp": "lavar"
+            },
+            {
+                "eng": "to clean",
+                "esp": "limpiar"
+            },
+            {
+                "eng": "to have breakfast",
+                "esp": "desayunar"
+            },
+            {
+                "eng": "to have dinner",
+                "esp": "cenar"
+            }
+        ]
+    },
+    "Bedroom": {
+        "data": [
+            {
+                "eng": "the door",
+                "esp": "la puerta"
+            },
+            {
+                "eng": "the wardrobe",
+                "esp": "el armario"
+            },
+            {
+                "eng": "the shelf",
+                "esp": "la estanter\u00eda"
+            },
+            {
+                "eng": "the window",
+                "esp": "la ventana"
+            },
+            {
+                "eng": "the curtains",
+                "esp": "las cortinas"
+            },
+            {
+                "eng": "the desk",
+                "esp": "el escritorio"
+            },
+            {
+                "eng": "the computer",
+                "esp": "el ordenador"
+            },
+            {
+                "eng": "the bed",
+                "esp": "la cama"
+            },
+            {
+                "eng": "the pillow",
+                "esp": "el coj\u00edn"
+            },
+            {
+                "eng": "the quilt",
+                "esp": "el edred\u00f3n"
+            },
+            {
+                "eng": "the bedding",
+                "esp": "las s\u00e1banas"
+            },
+            {
+                "eng": "the pillowcase",
+                "esp": "la almohada"
+            },
+            {
+                "eng": "the lamp",
+                "esp": "la l\u00e1mpara"
+            },
+            {
+                "eng": "the night table or nightstand",
+                "esp": "la mesilla de noche"
+            },
+            {
+                "eng": "the mirror",
+                "esp": "el espejo"
+            },
+            {
+                "eng": "the painting",
+                "esp": "el cuadro"
+            }
+        ]
+    },
+    "Living Room": {
+        "data": [
+            {
+                "eng": "the door",
+                "esp": "la puerta"
+            },
+            {
+                "eng": "the wardrobe",
+                "esp": "el armario"
+            },
+            {
+                "eng": "the shelf",
+                "esp": "la estanter\u00eda"
+            },
+            {
+                "eng": "the window",
+                "esp": "la ventana"
+            },
+            {
+                "eng": "the curtains",
+                "esp": "las cortinas"
+            },
+            {
+                "eng": "the table",
+                "esp": "la mesa"
+            },
+            {
+                "eng": "the chair",
+                "esp": "la silla"
+            },
+            {
+                "eng": "armchair",
+                "esp": "el sill\u00f3n"
+            },
+            {
+                "eng": "the carpet or rug",
+                "esp": "la alfombra"
+            },
+            {
+                "eng": "the lamp",
+                "esp": "la l\u00e1mpara"
+            },
+            {
+                "eng": "the plant",
+                "esp": "la planta"
+            },
+            {
+                "eng": "the flowers",
+                "esp": "las flores"
+            },
+            {
+                "eng": "the chimney",
+                "esp": "la chimenea"
+            },
+            {
+                "eng": "the ground",
+                "esp": "el suelo"
+            },
+            {
+                "eng": "the ceiling",
+                "esp": "el techo"
+            }
+        ]
+    },
+    "Shopping": {
+        "data": [
+            {
+                "eng": "shop assistant",
+                "esp": "dependiente/a"
+            },
+            {
+                "eng": "checkout",
+                "esp": "caja"
+            },
+            {
+                "eng": "sales",
+                "esp": "rebajas"
+            },
+            {
+                "eng": "bargain",
+                "esp": "ocasi\u00f3n"
+            },
+            {
+                "eng": "receipt",
+                "esp": "recibo"
+            },
+            {
+                "eng": "dressing room",
+                "esp": "probadores"
+            },
+            {
+                "eng": "size",
+                "esp": "tama\u00f1o"
+            },
+            {
+                "eng": "clothing store",
+                "esp": "tienda de ropa"
+            },
+            {
+                "eng": "shoe store",
+                "esp": "zapater\u00eda"
+            },
+            {
+                "eng": "bookstore",
+                "esp": "librer\u00eda"
+            },
+            {
+                "eng": "department store",
+                "esp": "almac\u00e9n"
+            },
+            {
+                "eng": "supermarket",
+                "esp": "supermercado"
+            },
+            {
+                "eng": "jeweler",
+                "esp": "joyer\u00eda"
+            },
+            {
+                "eng": "toy store",
+                "esp": "jugueter\u00eda"
+            },
+            {
+                "eng": "grocer",
+                "esp": "almacenero(a)"
+            },
+            {
+                "eng": "merchant",
+                "esp": "comerciante (a)"
+            },
+            {
+                "eng": "shopkeeper",
+                "esp": "tendero(a)"
+            },
+            {
+                "eng": "clerk",
+                "esp": "dependiente"
+            },
+            {
+                "eng": "cashier",
+                "esp": "cajero(a)"
+            }
+        ]
+    },
+    "Healthcare Professionals": {
+        "data": [
+            {
+                "eng": "healthcare",
+                "esp": "los cuidados de la salud"
+            },
+            {
+                "eng": "dentist",
+                "esp": "el dentista"
+            },
+            {
+                "eng": "doctor",
+                "esp": "el doctor/a"
+            },
+            {
+                "eng": "nurse",
+                "esp": "el enfermero/a"
+            },
+            {
+                "eng": "general practitioner",
+                "esp": "el m\u00e9dico general"
+            },
+            {
+                "eng": "general practitioner",
+                "esp": "el m\u00e9dico de cabecera"
+            },
+            {
+                "eng": "specialist",
+                "esp": "el m\u00e9dico especialista"
+            },
+            {
+                "eng": "nutritionist",
+                "esp": "el/la nutricionista"
+            },
+            {
+                "eng": "patient",
+                "esp": "el/la paciente"
+            },
+            {
+                "eng": "paramedic",
+                "esp": "el/la param\u00e9dico"
+            },
+            {
+                "eng": "chiropractor",
+                "esp": "quiropr\u00e1ctico(a)"
+            },
+            {
+                "eng": "pediatrician",
+                "esp": "el/la pediatra"
+            },
+            {
+                "eng": "psychologist",
+                "esp": "el psic\u00f3logo/a"
+            },
+            {
+                "eng": "first aid",
+                "esp": "los primeros auxilios"
+            },
+            {
+                "eng": "health",
+                "esp": "la salud"
+            }
+        ]
+    },
+    "Healthcare Services": {
+        "data": [
+            {
+                "eng": "ambulance",
+                "esp": "la ambulancia"
+            },
+            {
+                "eng": "insurance carrier",
+                "esp": "la aseguradora"
+            },
+            {
+                "eng": "clinic",
+                "esp": "el centro de salud"
+            },
+            {
+                "eng": "clinic",
+                "esp": "la cl\u00ednica"
+            },
+            {
+                "eng": "drug store",
+                "esp": "la farmacia"
+            },
+            {
+                "eng": "drug store",
+                "esp": "droguer\u00eda"
+            },
+            {
+                "eng": "hospital",
+                "esp": "el hospital"
+            },
+            {
+                "eng": "ward",
+                "esp": "el pabell\u00f3n"
+            },
+            {
+                "eng": "waiting room",
+                "esp": "la sala de espera"
+            },
+            {
+                "eng": "operating room",
+                "esp": "la sala de operaciones"
+            },
+            {
+                "eng": "sanatorium",
+                "esp": "el sanatorio"
+            }
+        ]
+    }
+}
