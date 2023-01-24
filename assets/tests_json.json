@@ -335,31 +335,31 @@
         "data": [
             {
                 "eng": "Sunday",
-                "esp": "Domingo"
+                "esp": "el Domingo"
             },
             {
                 "eng": "Monday",
-                "esp": "Lunes"
+                "esp": "el Lunes"
             },
             {
                 "eng": "Tuesday",
-                "esp": "Martes"
+                "esp": "el Martes"
             },
             {
                 "eng": "Wednesday",
-                "esp": "Mi\u00e9rcoles"
+                "esp": "el Mi\u00e9rcoles"
             },
             {
                 "eng": "Thursday",
-                "esp": "Jueves"
+                "esp": "el Jueves"
             },
             {
                 "eng": "Friday",
-                "esp": "Viernes"
+                "esp": "el Viernes"
             },
             {
                 "eng": "Saturday",
-                "esp": "Sabado"
+                "esp": "el Sabado"
             }
         ]
     },
@@ -367,51 +367,51 @@
         "data": [
             {
                 "eng": "January",
-                "esp": "Enero"
+                "esp": "el Enero"
             },
             {
                 "eng": "February",
-                "esp": "Febrero"
+                "esp": "el Febrero"
             },
             {
                 "eng": "March",
-                "esp": "Marzo"
+                "esp": "el Marzo"
             },
             {
                 "eng": "April",
-                "esp": "Abril"
+                "esp": "el Abril"
             },
             {
                 "eng": "May",
-                "esp": "Mayo"
+                "esp": "el Mayo"
             },
             {
                 "eng": "June",
-                "esp": "Junio"
+                "esp": "el Junio"
             },
             {
                 "eng": "July",
-                "esp": "Julio"
+                "esp": "el Julio"
             },
             {
                 "eng": "August",
-                "esp": "Agosto"
+                "esp": "el Agosto"
             },
             {
                 "eng": "September",
-                "esp": "Septiembre"
+                "esp": "el Septiembre"
             },
             {
                 "eng": "October",
-                "esp": "Octubre"
+                "esp": "el Octubre"
             },
             {
                 "eng": "November",
-                "esp": "Noviembre"
+                "esp": "el Noviembre"
             },
             {
                 "eng": "December",
-                "esp": "Diciembre"
+                "esp": "el Diciembre"
             }
         ]
     },
@@ -455,23 +455,23 @@
             },
             {
                 "eng": "dawn, very early in the morning",
-                "esp": "madrugada"
+                "esp": "la madrugada"
             },
             {
                 "eng": "tomorrow",
-                "esp": "ma\u00f1ana"
+                "esp": "el ma\u00f1ana"
             },
             {
                 "eng": "morning",
-                "esp": "ma\u00f1ana"
+                "esp": "la ma\u00f1ana"
             },
             {
                 "eng": "midnight",
-                "esp": "medianoche"
+                "esp": "la medianoche"
             },
             {
                 "eng": "noon",
-                "esp": "mediodia"
+                "esp": "el mediodia"
             },
             {
                 "eng": "minute",
