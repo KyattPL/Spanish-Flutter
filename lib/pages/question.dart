@@ -45,6 +45,8 @@ class _QuestionState extends State<Question> {
     }
   }
 
+
+
   @override
   Widget build(BuildContext context) {
     Map arguments = ModalRoute.of(context)?.settings.arguments as Map;
@@ -55,6 +57,28 @@ class _QuestionState extends State<Question> {
     List wrong = arguments['wrong'];
 
     List testData = tests.isNotEmpty ? tests[testName]["data"] : [];
+
+    void submitAnswer() {
+      bool isCorrect = isCorrectAnswer(testData[questionNo - 1], whichToShow);
+      isCorrect ? null : wrong.add(testData[questionNo - 1]);
+      int scoreIncrement = isCorrect ? 1 : 0;
+      if (questionNo == testData.length) {
+        Navigator.pushReplacementNamed(context, '/results', arguments: {
+          'testName': testName,
+          'score': score + scoreIncrement,
+          'maxScore': testData.length,
+          'wrong': wrong
+        });
+      } else {
+        Navigator.pushReplacementNamed(context, '/question', arguments: {
+          'option': arguments['option'],
+          'testName': testName,
+          'score': score + scoreIncrement,
+          'questionNo': questionNo + 1,
+          'wrong': wrong
+        });
+      }
+    }
 
     return Scaffold(
       appBar: AppBar(
@@ -72,42 +96,26 @@ class _QuestionState extends State<Question> {
               fontSize: 24
             )),
             TextField(
+              autofocus: true,
               controller: inputController,
               cursorColor: Colors.brown[400],
               decoration: InputDecoration(
                 enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[500] as Color)),
                 focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[400] as Color))
               ),
+              textInputAction: TextInputAction.go,
+              onSubmitted: (String _) => submitAnswer(),
               style: TextStyle(color: Colors.brown[200], fontSize: 24),
             ),
             Container(
               margin: const EdgeInsets.symmetric(vertical: 20.0),
-              child: TextButton(onPressed: () {
-                bool isCorrect = isCorrectAnswer(testData[questionNo - 1], whichToShow);
-                isCorrect ? null : wrong.add(testData[questionNo - 1]);
-                int scoreIncrement = isCorrect ? 1 : 0;
-                if (questionNo == testData.length) {
-                  Navigator.pushReplacementNamed(context, '/results', arguments: {
-                    'testName': testName,
-                    'score': score + scoreIncrement,
-                    'maxScore': testData.length,
-                    'wrong': wrong
-                  });
-                } else {
-                  Navigator.pushReplacementNamed(context, '/question', arguments: {
-                    'option': arguments['option'],
-                    'testName': testName,
-                    'score': score + scoreIncrement,
-                    'questionNo': questionNo + 1,
-                    'wrong': wrong
-                  });
-                }
-              }, style: TextButton.styleFrom(
-                minimumSize: const Size(160, 40),
-                foregroundColor: Colors.brown[200],
-                backgroundColor: Colors.brown[400],
-                textStyle: const TextStyle(fontSize: 24)
-              ), child: const Text('Next')),
+              child: TextButton(onPressed: submitAnswer,
+                  style: TextButton.styleFrom(
+                    minimumSize: const Size(160, 40),
+                    foregroundColor: Colors.brown[200],
+                    backgroundColor: Colors.brown[400],
+                    textStyle: const TextStyle(fontSize: 24)
+                  ), child: const Text('Next')),
             )
           ],
         ) : Container(),
