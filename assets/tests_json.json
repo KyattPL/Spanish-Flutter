@@ -147,23 +147,23 @@
         "data": [
             {
                 "eng": "what?",
-                "esp": "\u00bfqu\u00e9...?"
+                "esp": "\u00bfqu\u00e9?"
             },
             {
                 "eng": "who?",
-                "esp": "\u00bfqui\u00e9n...?"
+                "esp": "\u00bfqui\u00e9n?"
             },
             {
                 "eng": "when?",
-                "esp": "\u00bfcu\u00e1ndo...?"
+                "esp": "\u00bfcu\u00e1ndo?"
             },
             {
                 "eng": "where?",
-                "esp": "\u00bfd\u00f3nde...?"
+                "esp": "\u00bfd\u00f3nde?"
             },
             {
                 "eng": "why?",
-                "esp": "\u00bfpor qu\u00e9...?"
+                "esp": "\u00bfpor qu\u00e9?"
             },
             {
                 "eng": "which?",
@@ -171,7 +171,7 @@
             },
             {
                 "eng": "how?",
-                "esp": "\u00bfc\u00f3mo...?"
+                "esp": "\u00bfc\u00f3mo?"
             }
         ]
     },
@@ -183,11 +183,11 @@
             },
             {
                 "eng": "you",
-                "esp": "t\u00fa (informal)"
+                "esp": "t\u00fa"
             },
             {
                 "eng": "you",
-                "esp": "usted (formal)"
+                "esp": "usted"
             },
             {
                 "eng": "he",
@@ -207,11 +207,7 @@
             },
             {
                 "eng": "they",
-                "esp": "ellos"
-            },
-            {
-                "eng": "they",
-                "esp": "ellas(females)"
+                "esp": "ellos/ellas"
             }
         ]
     },
@@ -238,7 +234,7 @@
     "Talking About Age": {
         "data": [
             {
-                "eng": "i am ... years old.",
+                "eng": "i am ... years old",
                 "esp": "(yo) tengo ... a\u00f1os"
             },
             {
