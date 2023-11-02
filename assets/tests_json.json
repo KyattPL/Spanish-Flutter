@@ -783,7 +783,7 @@
             },
             {
                 "eng": "hard of hearing",
-                "esp": "duro de o\u00edd"
+                "esp": "duro de o\u00eddo"
             },
             {
                 "eng": "acute hearing",
@@ -792,10 +792,6 @@
             {
                 "eng": "hearing_impaired",
                 "esp": "problemas de audici\u00f3n"
-            },
-            {
-                "eng": "out of earshot",
-                "esp": "fuera de alcance"
             }
         ]
     },
