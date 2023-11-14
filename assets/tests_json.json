@@ -780,18 +780,6 @@
             {
                 "eng": "deaf",
                 "esp": "sordo"
-            },
-            {
-                "eng": "hard of hearing",
-                "esp": "duro de o\u00eddo"
-            },
-            {
-                "eng": "acute hearing",
-                "esp": "o\u00eddo fino"
-            },
-            {
-                "eng": "hearing_impaired",
-                "esp": "problemas de audici\u00f3n"
             }
         ]
     },
@@ -836,10 +824,6 @@
             {
                 "eng": "to stare",
                 "esp": "mirar fijamente"
-            },
-            {
-                "eng": "to glance",
-                "esp": "echar un vistazo"
             },
             {
                 "eng": "to squint",
@@ -890,20 +874,8 @@
                 "esp": "punzante"
             },
             {
-                "eng": "silky",
-                "esp": "sedoso(a)"
-            },
-            {
-                "eng": "spongy",
-                "esp": "esponjoso(a)"
-            },
-            {
                 "eng": "fluffy",
                 "esp": "mullido(a)"
-            },
-            {
-                "eng": "tingle",
-                "esp": "hormigueo"
             },
             {
                 "eng": "numb",
@@ -912,10 +884,6 @@
             {
                 "eng": "to touch gently",
                 "esp": "rozar"
-            },
-            {
-                "eng": "to caress",
-                "esp": "acariciar"
             },
             {
                 "eng": "to grab",
@@ -948,14 +916,6 @@
             {
                 "eng": "fresh",
                 "esp": "fresco(a)"
-            },
-            {
-                "eng": "pungent",
-                "esp": "acre"
-            },
-            {
-                "eng": "musty",
-                "esp": "h\u00famedo(a)"
             },
             {
                 "eng": "rotten",
@@ -1118,24 +1078,12 @@
                 "esp": "fino/a"
             },
             {
-                "eng": "layered",
-                "esp": "escalado/a"
-            },
-            {
-                "eng": "dyed",
-                "esp": "te\u00f1ido/a"
-            },
-            {
                 "eng": "healthy",
                 "esp": "saludable"
             },
             {
                 "eng": "light",
                 "esp": "claro/a"
-            },
-            {
-                "eng": "frizzy",
-                "esp": "encrespado/a"
             },
             {
                 "eng": "shiny",
@@ -1164,10 +1112,6 @@
             {
                 "eng": "lean",
                 "esp": "delgado/a"
-            },
-            {
-                "eng": "slender",
-                "esp": "esbelto/a"
             },
             {
                 "eng": "skinny",
