@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -45,12 +46,22 @@ class _TestsState extends State<Tests> {
               itemBuilder: (BuildContext context, int index) {
                 return TextButton(
                     onPressed: () {
+                      String testName = tests.keys.elementAt(index);
+                      int randQuestion = Random.secure().nextInt(tests[testName]['data'].length) + 1;
+                      List<int> allQuestionIndices = [];
+                      for (var i = 1; i <= tests[testName]['data'].length; i++) {
+                        allQuestionIndices.add(i);
+                      }
+                      allQuestionIndices.remove(randQuestion);
+
                       Navigator.pushNamed(context, '/question', arguments: {
                         'option': arguments['option'],
-                        'testName': tests.keys.elementAt(index),
-                        'questionNo': 1,
+                        'testName': testName,
+                        'questionNo': randQuestion,
+                        'answered': 0,
                         'score': 0,
-                        'wrong': []
+                        'wrong': [],
+                        'questionsRemaining': allQuestionIndices
                       });
                     },
                     style: TextButton.styleFrom(foregroundColor: Colors.brown[200]),

@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -55,6 +56,8 @@ class _QuestionState extends State<Question> {
     int questionNo = arguments['questionNo'];
     int score = arguments['score'];
     List wrong = arguments['wrong'];
+    int answered = arguments['answered'];
+    List questionsRemaining = arguments['questionsRemaining'];
 
     List testData = tests.isNotEmpty ? tests[testName]["data"] : [];
 
@@ -62,7 +65,10 @@ class _QuestionState extends State<Question> {
       bool isCorrect = isCorrectAnswer(testData[questionNo - 1], whichToShow);
       isCorrect ? null : wrong.add(testData[questionNo - 1]);
       int scoreIncrement = isCorrect ? 1 : 0;
-      if (questionNo == testData.length) {
+
+      answered += 1;
+
+      if (answered == testData.length) {
         Navigator.pushReplacementNamed(context, '/results', arguments: {
           'testName': testName,
           'score': score + scoreIncrement,
@@ -70,12 +76,18 @@ class _QuestionState extends State<Question> {
           'wrong': wrong
         });
       } else {
+        int randQuestion = Random.secure().nextInt(questionsRemaining.length);
+        int nextQuestion = questionsRemaining[randQuestion];
+        questionsRemaining.removeAt(randQuestion);
+
         Navigator.pushReplacementNamed(context, '/question', arguments: {
           'option': arguments['option'],
           'testName': testName,
           'score': score + scoreIncrement,
-          'questionNo': questionNo + 1,
-          'wrong': wrong
+          'questionNo': nextQuestion,
+          'answered': answered,
+          'wrong': wrong,
+          'questionsRemaining': questionsRemaining
         });
       }
     }
