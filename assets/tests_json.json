@@ -31,7 +31,7 @@
             },
             {
                 "eng": "i'm lost",
-                "esp": "estoy perdido(a)"
+                "esp": "estoy perdido/a"
             }
         ]
     },
@@ -795,7 +795,7 @@
             },
             {
                 "eng": "colorful",
-                "esp": "de colores"
+                "esp": "vistoso/a"
             },
             {
                 "eng": "black and white",
@@ -804,10 +804,6 @@
             {
                 "eng": "bright",
                 "esp": "brillante"
-            },
-            {
-                "eng": "dim",
-                "esp": "apagado"
             },
             {
                 "eng": "light",
@@ -855,39 +851,35 @@
             },
             {
                 "eng": "rough",
-                "esp": "\u00e1spero(a)"
+                "esp": "\u00e1spero/a"
             },
             {
                 "eng": "smooth",
-                "esp": "liso(a)"
+                "esp": "liso/a"
             },
             {
                 "eng": "wrinkled",
-                "esp": "rugoso(a)"
+                "esp": "rugoso/a"
             },
             {
                 "eng": "sticky",
-                "esp": "pegajoso(a)"
+                "esp": "pegajoso/a/"
             },
             {
                 "eng": "sharp",
-                "esp": "punzante"
+                "esp": "afilador"
             },
             {
                 "eng": "fluffy",
-                "esp": "mullido(a)"
+                "esp": "mullido/a"
             },
             {
                 "eng": "numb",
-                "esp": "entumecido(a)"
+                "esp": "entumecido/a"
             },
             {
-                "eng": "to touch gently",
+                "eng": "to touch gently / rub",
                 "esp": "rozar"
-            },
-            {
-                "eng": "to grab",
-                "esp": "agarrar"
             }
         ]
     },
@@ -895,11 +887,11 @@
         "data": [
             {
                 "eng": "smell",
-                "esp": "olor"
+                "esp": "oler"
             },
             {
                 "eng": "scent",
-                "esp": "el perfume"
+                "esp": "el olor"
             },
             {
                 "eng": "fragrance",
@@ -911,19 +903,19 @@
             },
             {
                 "eng": "smelly",
-                "esp": "apestoso(a)"
+                "esp": "apestoso/a"
             },
             {
                 "eng": "fresh",
-                "esp": "fresco(a)"
+                "esp": "fresco/a"
             },
             {
                 "eng": "rotten",
-                "esp": "podrido(a)"
+                "esp": "podrido/a"
             },
             {
                 "eng": "smoky",
-                "esp": "ahumado(a)"
+                "esp": "ahumado/a"
             },
             {
                 "eng": "to stink",
@@ -939,11 +931,11 @@
             },
             {
                 "eng": "savory",
-                "esp": "salado(a)"
+                "esp": "salado/a"
             },
             {
                 "eng": "delicious",
-                "esp": "rico(a)"
+                "esp": "rico/a"
             }
         ]
     },
@@ -999,7 +991,7 @@
             },
             {
                 "eng": "content",
-                "esp": "contento(a)"
+                "esp": "contento/a"
             },
             {
                 "eng": "happy",
@@ -1007,23 +999,19 @@
             },
             {
                 "eng": "worried",
-                "esp": "preocupado(a)"
+                "esp": "preocupado/a"
             },
             {
                 "eng": "nervous",
-                "esp": "nervioso(a)"
-            },
-            {
-                "eng": "tranquil",
-                "esp": "tranquilo(a)"
+                "esp": "nervioso/a"
             },
             {
                 "eng": "calm",
-                "esp": "calmado(a)"
+                "esp": "calmo/a"
             },
             {
                 "eng": "excited",
-                "esp": "emocionado(a)"
+                "esp": "emocionado/a"
             }
         ]
     },
@@ -1491,7 +1479,7 @@
             },
             {
                 "eng": "doorman",
-                "esp": "porter(a)"
+                "esp": "porter/a"
             },
             {
                 "eng": "hostess",
@@ -1547,7 +1535,7 @@
             },
             {
                 "eng": "train conductor",
-                "esp": "revisor(a)"
+                "esp": "revisor/a"
             },
             {
                 "eng": "gas station attendant",
@@ -1555,11 +1543,11 @@
             },
             {
                 "eng": "driver, chauffeur",
-                "esp": "conductor(a)"
+                "esp": "conductor/a"
             },
             {
                 "eng": "truck driver",
-                "esp": "camionero(a)"
+                "esp": "camionero/a"
             }
         ]
     },
@@ -1735,11 +1723,11 @@
             },
             {
                 "eng": "consultant",
-                "esp": "consultor(a)"
+                "esp": "consultor/a"
             },
             {
                 "eng": "owner",
-                "esp": "due\u00f1o(a)"
+                "esp": "due\u00f1o/a"
             }
         ]
     },
@@ -1747,55 +1735,55 @@
         "data": [
             {
                 "eng": "lawyer",
-                "esp": "abogado(a)"
+                "esp": "abogado/a"
             },
             {
                 "eng": "architect",
-                "esp": "arquitecto(a)"
+                "esp": "arquitecto/a"
             },
             {
                 "eng": "fireman",
-                "esp": "bombero(a)"
+                "esp": "bombero/a"
             },
             {
                 "eng": "farm worker",
-                "esp": "campesino(a)"
+                "esp": "campesino/a"
             },
             {
                 "eng": "carpenter",
-                "esp": "carpintero(a)"
+                "esp": "carpintero/a"
             },
             {
                 "eng": "postal worker",
-                "esp": "cartero(a)"
+                "esp": "cartero/a"
             },
             {
                 "eng": "landlord",
-                "esp": "casero(a)"
+                "esp": "casero/a"
             },
             {
                 "eng": "scientist",
-                "esp": "cient\u00edfico(a)"
+                "esp": "cient\u00edfico/a"
             },
             {
                 "eng": "cook, chef",
-                "esp": "cocinero(a)"
+                "esp": "cocinero/a"
             },
             {
                 "eng": "counselor",
-                "esp": "consejero (a)"
+                "esp": "consejero /a"
             },
             {
                 "eng": "construction worker",
-                "esp": "constructor (a)"
+                "esp": "constructor /a"
             },
             {
                 "eng": "accountant/bookkeeper",
-                "esp": "contador(a)"
+                "esp": "contador/a"
             },
             {
                 "eng": "maid",
-                "esp": "dom\u00e9stico(a)"
+                "esp": "dom\u00e9stico/a"
             },
             {
                 "eng": "detective",
@@ -1803,7 +1791,7 @@
             },
             {
                 "eng": "editor",
-                "esp": "director, revisor, redactor(a)"
+                "esp": "director, revisor, redactor/a"
             },
             {
                 "eng": "electrician",
@@ -1811,27 +1799,27 @@
             },
             {
                 "eng": "writer / author",
-                "esp": "escritor / autor(a)"
+                "esp": "escritor / autor/a"
             },
             {
                 "eng": "cowboy",
-                "esp": "vaquero, tropero(a)"
+                "esp": "vaquero, tropero/a"
             },
             {
                 "eng": "manager",
-                "esp": "manejador(a)"
+                "esp": "manejador/a"
             },
             {
                 "eng": "farmer",
-                "esp": "granjero(a)"
+                "esp": "granjero/a"
             },
             {
                 "eng": "engineer",
-                "esp": "ingeniero(a)"
+                "esp": "ingeniero/a"
             },
             {
                 "eng": "gardener",
-                "esp": "jardinero(a)"
+                "esp": "jardinero/a"
             },
             {
                 "eng": "boss",
@@ -1843,19 +1831,19 @@
             },
             {
                 "eng": "laundry person",
-                "esp": "lavandero(a)"
+                "esp": "lavandero/a"
             },
             {
                 "eng": "merchant marine",
-                "esp": "marinero(a)"
+                "esp": "marinero/a"
             },
             {
                 "eng": "mechanic",
-                "esp": "mec\u00e1nico (a)"
+                "esp": "mec\u00e1nico /a"
             },
             {
                 "eng": "waiter",
-                "esp": "camarero(a)"
+                "esp": "camarero/a"
             },
             {
                 "eng": "priest",
@@ -1863,11 +1851,11 @@
             },
             {
                 "eng": "baker",
-                "esp": "panadero(a)"
+                "esp": "panadero/a"
             },
             {
                 "eng": "pastor/minister",
-                "esp": "pastor(a)"
+                "esp": "pastor/a"
             },
             {
                 "eng": "reporter/journalist",
@@ -1875,15 +1863,15 @@
             },
             {
                 "eng": "fisherman",
-                "esp": "pescador(a)"
+                "esp": "pescador/a"
             },
             {
                 "eng": "painter",
-                "esp": "pintor(a)"
+                "esp": "pintor/a"
             },
             {
                 "eng": "plumber",
-                "esp": "plomero(a)"
+                "esp": "plomero/a"
             },
             {
                 "eng": "policeman",
@@ -1891,39 +1879,39 @@
             },
             {
                 "eng": "computer programmer",
-                "esp": "programador(a)"
+                "esp": "programador/a"
             },
             {
                 "eng": "owner",
-                "esp": "due\u00f1o(a)"
+                "esp": "due\u00f1o/a"
             },
             {
                 "eng": "chemist",
-                "esp": "qu\u00edmico(a)"
+                "esp": "qu\u00edmico/a"
             },
             {
                 "eng": "rancher",
-                "esp": "ranchero(a)"
+                "esp": "ranchero/a"
             },
             {
                 "eng": "researcher",
-                "esp": "rebuscador(a)"
+                "esp": "rebuscador/a"
             },
             {
                 "eng": "repairman",
-                "esp": "reparador(a)"
+                "esp": "reparador/a"
             },
             {
                 "eng": "lab technician",
-                "esp": "t\u00e9cnico(a) de laboratorio"
+                "esp": "t\u00e9cnico/a de laboratorio"
             },
             {
                 "eng": "factory worker",
-                "esp": "trabajador(a) de f\u00e1brica"
+                "esp": "trabajador/a de f\u00e1brica"
             },
             {
                 "eng": "veterinarian",
-                "esp": "veterinario(a)"
+                "esp": "veterinario/a"
             }
         ]
     },
@@ -3919,15 +3907,15 @@
             },
             {
                 "eng": "grocer",
-                "esp": "almacenero(a)"
+                "esp": "almacenero/a"
             },
             {
                 "eng": "merchant",
-                "esp": "comerciante (a)"
+                "esp": "comerciante /a"
             },
             {
                 "eng": "shopkeeper",
-                "esp": "tendero(a)"
+                "esp": "tendero/a"
             },
             {
                 "eng": "clerk",
@@ -3935,7 +3923,7 @@
             },
             {
                 "eng": "cashier",
-                "esp": "cajero(a)"
+                "esp": "cajero/a"
             }
         ]
     },
@@ -3983,7 +3971,7 @@
             },
             {
                 "eng": "chiropractor",
-                "esp": "quiropr\u00e1ctico(a)"
+                "esp": "quiropr\u00e1ctico/a"
             },
             {
                 "eng": "pediatrician",
