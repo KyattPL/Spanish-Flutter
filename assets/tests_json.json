@@ -902,7 +902,7 @@
                 "esp": "el hedor"
             },
             {
-                "eng": "smelly",
+                "eng": "stinky",
                 "esp": "apestoso/a"
             },
             {
@@ -930,12 +930,12 @@
                 "esp": "dulce"
             },
             {
-                "eng": "savory",
+                "eng": "salty",
                 "esp": "salado/a"
             },
             {
                 "eng": "delicious",
-                "esp": "rico/a"
+                "esp": "delicioso/a"
             }
         ]
     },
