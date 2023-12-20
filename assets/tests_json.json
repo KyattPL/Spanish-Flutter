@@ -747,11 +747,11 @@
             },
             {
                 "eng": "loud",
-                "esp": "alto"
+                "esp": "alto/a"
             },
             {
                 "eng": "soft",
-                "esp": "bajo"
+                "esp": "bajo/a"
             },
             {
                 "eng": "deafening",
@@ -759,7 +759,7 @@
             },
             {
                 "eng": "sharp, high_pitched",
-                "esp": "agudo"
+                "esp": "agudo/a"
             },
             {
                 "eng": "low_pitched",
@@ -767,19 +767,19 @@
             },
             {
                 "eng": "melodious",
-                "esp": "melodioso"
+                "esp": "melodioso/a"
             },
             {
                 "eng": "harmonic",
-                "esp": "arm\u00f3nico"
+                "esp": "arm\u00f3nico/a"
             },
             {
                 "eng": "buzz",
-                "esp": "zumbido"
+                "esp": "zumbido/a"
             },
             {
                 "eng": "deaf",
-                "esp": "sordo"
+                "esp": "sordo/a"
             }
         ]
     },
@@ -807,15 +807,15 @@
             },
             {
                 "eng": "light",
-                "esp": "claro"
+                "esp": "claro/a"
             },
             {
                 "eng": "dark",
-                "esp": "oscuro"
+                "esp": "oscuro/a"
             },
             {
                 "eng": "blind",
-                "esp": "ciego"
+                "esp": "ciego/a"
             },
             {
                 "eng": "to stare",
