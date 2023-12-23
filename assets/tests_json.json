@@ -960,7 +960,11 @@
             {
                 "eng": "close",
                 "esp": "cercano/a"
-            }
+            },
+			{
+				"eng": "closed",
+				"esp": "cerrado/a"
+			}
         ]
     },
     "Personality and Emotions": {
