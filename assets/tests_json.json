@@ -974,9 +974,13 @@
                 "esp": "alegre"
             },
             {
-                "eng": "funny, amusing",
+                "eng": "funny (śmieszny)",
                 "esp": "gracioso/a"
             },
+			{
+				"eng": "funny (zabawny)",
+				"esp": "divertido/a"
+			},
             {
                 "eng": "serious",
                 "esp": "serio/a"
@@ -1038,10 +1042,6 @@
                 "esp": "rizado/a"
             },
             {
-                "eng": "wavy",
-                "esp": "ondulado/a"
-            },
-            {
                 "eng": "brown",
                 "esp": "casta\u00f1o/a"
             },
@@ -1058,28 +1058,12 @@
                 "esp": "negro/a"
             },
             {
-                "eng": "grey",
-                "esp": "canoso/a"
-            },
-            {
-                "eng": "thick",
-                "esp": "abundante"
-            },
-            {
-                "eng": "thin",
-                "esp": "fino/a"
-            },
-            {
                 "eng": "healthy",
                 "esp": "saludable"
             },
             {
                 "eng": "light",
                 "esp": "claro/a"
-            },
-            {
-                "eng": "shiny",
-                "esp": "brillante"
             },
             {
                 "eng": "bald",
@@ -1102,16 +1086,12 @@
                 "esp": "enorme"
             },
             {
-                "eng": "lean",
-                "esp": "delgado/a"
-            },
-            {
                 "eng": "skinny",
                 "esp": "flaco/a"
             },
             {
                 "eng": "petite",
-                "esp": "menudo/a"
+                "esp": "chiquito/a"
             },
             {
                 "eng": "tall",
