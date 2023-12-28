@@ -1119,19 +1119,15 @@
             },
             {
                 "eng": "cute",
-                "esp": "adorable"
+                "esp": "lindo/a"
             },
             {
                 "eng": "pretty",
-                "esp": "bonita"
+                "esp": "bonito/a"
             },
             {
                 "eng": "stunning",
                 "esp": "impresionante"
-            },
-            {
-                "eng": "plain",
-                "esp": "poco atractivo/a"
             },
             {
                 "eng": "average",
@@ -1147,47 +1143,47 @@
         "data": [
             {
                 "eng": "black",
-                "esp": "negro"
+                "esp": "el negro"
             },
             {
                 "eng": "brown",
-                "esp": "marr\u00f3n / caf\u00e9"
+                "esp": "el marr\u00f3n / caf\u00e9"
             },
             {
                 "eng": "grey",
-                "esp": "gris"
+                "esp": "el gris"
             },
             {
                 "eng": "white",
-                "esp": "blanco"
+                "esp": "el blanco"
             },
             {
                 "eng": "yellow",
-                "esp": "amarillo"
+                "esp": "el amarillo"
             },
             {
                 "eng": "orange",
-                "esp": "anaranjado"
+                "esp": "el anaranjado"
             },
             {
                 "eng": "red",
-                "esp": "rojo"
+                "esp": "el rojo"
             },
             {
                 "eng": "pink",
-                "esp": "rosado"
+                "esp": "el rosado"
             },
             {
                 "eng": "purple",
-                "esp": "morado / p\u00farpura"
+                "esp": "el morado / p\u00farpura"
             },
             {
                 "eng": "blue",
-                "esp": "azul"
+                "esp": "el azul"
             },
             {
                 "eng": "green",
-                "esp": "verde"
+                "esp": "el verde"
             }
         ]
     },
