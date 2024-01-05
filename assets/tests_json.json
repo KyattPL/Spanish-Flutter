@@ -1320,7 +1320,11 @@
             {
                 "eng": "mouse",
                 "esp": "el rat\u00f3n"
-            }
+            },
+			{
+				"eng": "rat",
+				"esp": "la rata"
+			}
         ]
     },
     "Forest Animals": {
