@@ -1,7 +1,9 @@
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
 
 class Browser extends StatefulWidget {
   const Browser({Key? key}) : super(key: key);
@@ -14,25 +16,38 @@ class _BrowserState extends State<Browser> {
 
   Map tests = {};
 
-  void readJson() async {
-    String data = await rootBundle.loadString('assets/tests_json.json');
-    final decoded = await json.decode(data);
-    setState(() {
-      tests = decoded;
-    });
+  Future<void> _loadOrCopyJson() async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    if (await file.exists()) {
+      // Load the JSON file if it exists
+      String jsonData = await file.readAsString();
+      setState(() {
+        tests = json.decode(jsonData);
+      });
+    } else {
+      // Copy the JSON from assets to the writable directory if it doesn't exist
+      String assetData = await rootBundle.loadString('assets/tests_json.json');
+      await file.writeAsString(assetData);
+      setState(() {
+        tests = json.decode(assetData);
+      });
+    }
   }
 
   @override
   void initState() {
     super.initState();
-    readJson();
+    _loadOrCopyJson();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Spanish-Flutter'),
+        title: const Text('Spanish-Book-Flutter'),
         centerTitle: true,
         backgroundColor: Colors.brown[800],
       ),

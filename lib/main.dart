@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:spanish_app/pages/browser.dart';
-import 'package:spanish_app/pages/home.dart';
-import 'package:spanish_app/pages/learning.dart';
-import 'package:spanish_app/pages/results.dart';
-import 'package:spanish_app/pages/tests.dart';
-import 'package:spanish_app/pages/question.dart';
+import 'package:spanish_book_app/pages/browser.dart';
+import 'package:spanish_book_app/pages/home.dart';
+import 'package:spanish_book_app/pages/learning.dart';
+import 'package:spanish_book_app/pages/results.dart';
+import 'package:spanish_book_app/pages/tests.dart';
+import 'package:spanish_book_app/pages/question.dart';
 
 void main() {
   runApp(MaterialApp(

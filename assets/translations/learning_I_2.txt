@@ -1,0 +1,78 @@
+restaurant|el restaurante
+fish (out of water)|el pescado
+soup|la sopa
+how?|¿cómo?
+where?|¿dónde?
+who?|¿quién?
+here|aquí
+there|allí
+happy (merry)|alegre
+angry|enojado
+pretty|bonito
+happy|feliz
+good|bueno
+beautiful, handsome|guapo
+tired|cansado
+beautiful, handsome|hermoso
+happy (contented)|contento
+pretty|lindo
+delicious|delicioso
+delicious|rico
+sick|enfermo
+
+architect|el arquitecto
+teacher|el maestro
+lawyer|el abogado
+engineer|el ingeniero
+the United States|los Estados Unidos
+Catholic|católico
+wood|la madera
+plastic|el plástico
+leather|el cuero
+glass|el vidrio
+stone|la piedra
+doll|la muñeca
+party|la fiesta
+concert|el concierto
+protest|la protesta
+club|el club
+capital|la capital
+
+Nouns:
+the bedroom|el dormitorio / la habitación
+the cabinet|el gabinete
+the rug|la alfombra
+the oven|el horno
+the pencil|el lápiz
+the kitchen|la cocina
+the wood|la madera
+the collection|la colección
+the refrigerator|el refrigerador
+the dining room|el comedor
+the wall|la pared
+the curtain|la cortina
+the yard|el patio
+the notebook|el cuaderno
+the living room|la sala
+the mirror|el espejo
+the study|el estudio
+the stove|la estufa
+the video|el video
+
+Adjectives:
+antique|antiguo
+navy blue|azul marino
+comfortable|cómodo
+fine/delicate|fino
+thick|grueso
+clean|limpio
+my (sing., pl.)|mi / mis
+private|privado
+simple|sencillo
+all|todo
+
+Adverbs:
+enough|bastante
+still|todavía
+
+question|la pregunta

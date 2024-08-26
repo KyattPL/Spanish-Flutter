@@ -1,7 +1,9 @@
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
 
 class Learning extends StatefulWidget {
   const Learning({Key? key}) : super(key: key);
@@ -14,18 +16,41 @@ class _LearningState extends State<Learning> {
 
   Map tests = {};
 
-  void readJson() async {
-    String data = await rootBundle.loadString('assets/tests_json.json');
-    final decoded = await json.decode(data);
-    setState(() {
-      tests = decoded;
-    });
+  Future<void> _loadOrCopyJson() async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    if (await file.exists()) {
+      // Load the JSON file if it exists
+      String jsonData = await file.readAsString();
+      setState(() {
+        tests = json.decode(jsonData);
+      });
+    } else {
+      // Copy the JSON from assets to the writable directory if it doesn't exist
+      String assetData = await rootBundle.loadString('assets/tests_json.json');
+      await file.writeAsString(assetData);
+      setState(() {
+        tests = json.decode(assetData);
+      });
+    }
+  }
+
+  Future<void> saveJson() async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    // Convert the modified data back to JSON and save it
+    String jsonData = json.encode(tests);
+    await file.writeAsString(jsonData);
   }
 
   @override
   void initState() {
     super.initState();
-    readJson();
+    _loadOrCopyJson();
   }
 
   @override
@@ -36,7 +61,7 @@ class _LearningState extends State<Learning> {
 
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Spanish-Flutter'),
+          title: const Text('Spanish-Book-Flutter'),
           centerTitle: true,
           backgroundColor: Colors.brown[800],
         ),
@@ -45,6 +70,9 @@ class _LearningState extends State<Learning> {
           color: Colors.brown[900],
           child: learnData.isNotEmpty ? ListView.separated(
               itemBuilder: (BuildContext context, int index) {
+                Map item = learnData[index];
+                bool inLearning = item['in_learning'];
+
                 return Card(
                   color: Colors.brown[600],
                   child: Padding(
@@ -75,7 +103,32 @@ class _LearningState extends State<Learning> {
                               ),
                             ),
                           ],
-                        )
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Text(
+                              inLearning
+                                  ? 'In Learning: Yes'
+                                  : 'In Learning: No',
+                              style: TextStyle(
+                                color: inLearning
+                                    ? Colors.green
+                                    : Colors.red,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                            Switch(
+                              value: inLearning,
+                              onChanged: (bool newValue) {
+                                setState(() {
+                                  item['in_learning'] = newValue;
+                                  saveJson();
+                                });
+                              },
+                            ),
+                          ],
+                        ),
                       ],
                     ),
                   ),

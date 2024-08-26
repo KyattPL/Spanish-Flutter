@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kyatt.spanish_app">
+    package="com.kyatt.spanish_book_app">
    <application
-        android:label="spanish_app"
+        android:label="spanish_book_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

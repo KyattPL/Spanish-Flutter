@@ -1,0 +1,19 @@
+targets:
+  $default:
+    builders:
+      compile_translations:
+        enabled: true
+        generate_for:
+          - lib/**
+    sources:
+      - assets/**
+      - lib/**
+      - compile_translations.dart
+
+builders:
+  compile_translations:
+    import: "compile_translations.dart"
+    builder_factories: ["compileTranslations"]
+    build_extensions: {".dart": [".compiled_translations.json"]}
+    auto_apply: root_package
+    build_to: source

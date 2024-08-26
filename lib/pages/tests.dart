@@ -1,8 +1,10 @@
 import 'dart:convert';
 import 'dart:math';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
 
 class Tests extends StatefulWidget {
   const Tests({Key? key}) : super(key: key);
@@ -15,18 +17,31 @@ class _TestsState extends State<Tests> {
 
   Map tests = {};
 
-  void readJson() async {
-    String data = await rootBundle.loadString('assets/tests_json.json');
-    final decoded = await json.decode(data);
-    setState(() {
-      tests = decoded;
-    });
+  Future<void> _loadOrCopyJson() async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    if (await file.exists()) {
+      // Load the JSON file if it exists
+      String jsonData = await file.readAsString();
+      setState(() {
+        tests = json.decode(jsonData);
+      });
+    } else {
+      // Copy the JSON from assets to the writable directory if it doesn't exist
+      String assetData = await rootBundle.loadString('assets/tests_json.json');
+      await file.writeAsString(assetData);
+      setState(() {
+        tests = json.decode(assetData);
+      });
+    }
   }
 
   @override
   void initState() {
     super.initState();
-    readJson();
+    _loadOrCopyJson();
   }
 
   @override
@@ -35,7 +50,7 @@ class _TestsState extends State<Tests> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Spanish-Flutter'),
+        title: const Text('Spanish-Book-Flutter'),
         centerTitle: true,
         backgroundColor: Colors.brown[800],
       ),
@@ -47,22 +62,35 @@ class _TestsState extends State<Tests> {
                 return TextButton(
                     onPressed: () {
                       String testName = tests.keys.elementAt(index);
-                      int randQuestion = Random.secure().nextInt(tests[testName]['data'].length) + 1;
-                      List<int> allQuestionIndices = [];
-                      for (var i = 1; i <= tests[testName]['data'].length; i++) {
-                        allQuestionIndices.add(i);
-                      }
-                      allQuestionIndices.remove(randQuestion);
+                      List<int> learningQuestionIndices = [];
 
-                      Navigator.pushNamed(context, '/question', arguments: {
-                        'option': arguments['option'],
-                        'testName': testName,
-                        'questionNo': randQuestion,
-                        'answered': 0,
-                        'score': 0,
-                        'wrong': [],
-                        'questionsRemaining': allQuestionIndices
-                      });
+                      for (int i = 0; i < tests[testName]['data'].length; i++) {
+                        if (tests[testName]['data'][i]['in_learning'] == true) {
+                          learningQuestionIndices.add(i);
+                        }
+                      }
+
+                      if (learningQuestionIndices.isNotEmpty) {
+                        int maxQuestions = learningQuestionIndices.length;
+                        int randIndex = Random.secure().nextInt(learningQuestionIndices.length);
+                        int randQuestion = learningQuestionIndices[randIndex];
+                        learningQuestionIndices.remove(randQuestion);
+
+                        Navigator.pushNamed(context, '/question', arguments: {
+                          'option': arguments['option'],
+                          'testName': testName,
+                          'questionNo': randQuestion,
+                          'answered': 0,
+                          'score': 0,
+                          'wrong': [],
+                          'questionsRemaining': learningQuestionIndices,
+                          'maxQuestions': maxQuestions
+                        });
+                      } else {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(content: Text('No questions available in the learning pool.'))
+                        );
+                      }
                     },
                     style: TextButton.styleFrom(foregroundColor: Colors.brown[200]),
                     child: Text(tests.keys.elementAt(index), style: const TextStyle(fontSize: 24))

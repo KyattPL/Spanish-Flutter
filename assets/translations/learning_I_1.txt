@@ -1,0 +1,136 @@
+the cat|el gato
+the friend|el amigo / la amiga
+the photograph|la foto
+the map|el mapa
+the bag|la bolsa
+the illusion|la ilusión
+the program|el programa
+the day|el día
+the meal|la comida
+the little boy, the child|el niño
+the system|el sistema
+the car|el carro
+the person|la persona
+the house|la casa
+the friendship|la amistad
+the coffee|el café
+the bathroom|el baño
+the light|la luz
+the lamp|la lámpara
+the radio|la radio
+the conversation|la conversación
+the lesson|la lección
+the window|la ventana
+the invitation|la invitación
+the plant|la planta
+the climate|el clima
+the table|la mesa
+the animal|el animal
+the beer|la cerveza
+the bed|la cama
+the boy|el chico / el muchacho
+the television|la televisión
+the hotel|el hotel
+the class|la clase
+the man|el hombre
+the attitude|la actitud
+the girl|la chica / la muchacha
+the planet|el planeta
+the sister|la hermana
+the language|el idioma
+the song|la canción
+the doctor|el doctor / la doctora
+the telephone|el teléfono
+the truth|la verdad
+the city|la ciudad
+the woman|la mujer
+the store|la tienda
+the bank|el banco
+the skin|la piel
+the train|el tren
+the hospital|el hospital
+the chair|la silla
+the hand|la mano
+the little girl|la niña
+the book|el libro
+the drama|el drama
+the flower|la flor
+the wine|el vino
+the poem|el poema
+the church|la iglesia
+the problem|el problema
+the luck|la suerte
+the tomato|el tomate
+the dog|el perro
+the blouse|la blusa
+the brother|el hermano
+
+artist|el artista / la artista
+pianist|el pianista / la pianista
+dentist|el dentista / la dentista
+cabdriver|el taxista / la taxista
+singer|el cantante / la cantante
+student|el estudiante / la estudiante
+manager|el gerente / la gerente
+president|el presidente / la presidenta
+
+the mirror|el espejo
+the garden|el jardín
+the library|la biblioteca
+the bookstore|la librería
+the idea|la idea
+the museum|el museo
+the suitcase|la maleta
+the armchair|el sillón
+the page|la página
+the ticket|el billete
+the pen|la pluma
+the boat|el barco
+
+yellow|amarillo
+purple|morado / púrpura
+orange|anaranjado
+brown-skinned|moreno
+blue|azul
+black|negro
+white|blanco
+red|rojo
+gray|gris
+pink|rosa
+brown|marrón / café / pardo
+green|verde
+
+agreeable/pleasant|agradable
+slender|delgado
+happy|feliz
+difficult|difícil
+inexpensive|barato
+great/terrific|estupendo
+expensive|caro
+excellent|excelente
+weak|débil
+easy|fácil
+fantastic|fantástico
+interesting|interesante
+happy|alegre
+young|joven
+ugly|feo
+marvelous/wonderful|maravilloso
+thin|delgado
+little/small|pequeño
+fragile|frágil
+poor|pobre
+strong|fuerte
+rich|rico
+fat|gordo
+nice|simpático
+big|grande
+sincere|sincero
+handsome/beautiful|guapo
+stingy|tacaño
+typical|típico
+beautiful|hermoso
+sad|triste
+horrible|horrible
+old|viejo
+intelligent|inteligente

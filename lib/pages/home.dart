@@ -1,13 +1,43 @@
-import 'package:flutter/material.dart';
+import 'dart:io';
 
-class Home extends StatelessWidget {
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
+
+class Home extends StatefulWidget {
   const Home({super.key});
+
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
+  Future<void> _resetJsonFile(BuildContext context) async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    // Delete the existing file
+    if (await file.exists()) {
+      await file.delete();
+    }
+
+    // Copy the original JSON from assets
+    String assetData = await rootBundle.loadString('assets/tests_json.json');
+    await file.writeAsString(assetData);
+
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Data has been reset to the original version.'))
+      );
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Spanish-Flutter'),
+        title: const Text('Spanish-Book-Flutter'),
         centerTitle: true,
         backgroundColor: Colors.brown[800],
       ),
@@ -116,7 +146,16 @@ class Home extends StatelessWidget {
                   )
                 ],
               ),
-            )
+            ),
+            ElevatedButton(
+              onPressed: () async {
+                await _resetJsonFile(context);
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.red, // Button color
+              ),
+              child: const Text('Reset Data'),
+            ),
           ],
         ),
       ),

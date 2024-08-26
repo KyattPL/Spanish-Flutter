@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.kyatt" "\0"
-            VALUE "FileDescription", "spanish_app" "\0"
+            VALUE "FileDescription", "spanish_book_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "spanish_app" "\0"
+            VALUE "InternalName", "spanish_book_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.kyatt. All rights reserved." "\0"
-            VALUE "OriginalFilename", "spanish_app.exe" "\0"
-            VALUE "ProductName", "spanish_app" "\0"
+            VALUE "OriginalFilename", "spanish_book_app.exe" "\0"
+            VALUE "ProductName", "spanish_book_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

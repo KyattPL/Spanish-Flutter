@@ -1,0 +1,121 @@
+el verano|the summer
+el otoño|the autumn/the fall
+el invierno|the winter
+la primavera|the spring(time)
+la mañana|the morning
+
+el vaso|the glass(szklanka)
+el tigre|tiger
+el zoo|zoo
+la estrella|star
+el cielo|sky
+el mercado|market
+la revista|magazine
+la cucaracha|cockroach
+el balcón|balcony
+el apartamento|apartment
+el escritorio|desk
+el alcalde/la alcaldesa|mayor
+el menú|menu
+la filosofía|philosophy
+el parque|park
+
+el año|the year
+el árbol|the tree
+el mensaje|the message
+el ascensor|the elevator
+el avión|the airplane
+el bolígrafo|the ballpoint pen
+el país|the country(kraj)
+el bus|the bus
+el papel|the paper
+el campo|the countryside
+el parque|the park
+el coche|the car
+el periódico|the newspaper
+el cuarto|the room
+el piso|the floor
+el cumpleaños|the birthday
+el precio|the price
+el ruido|the noise
+el dinero|the money
+el salón|the living room
+el edificio|the building
+el sitio|the place
+el equipaje|the baggage
+el sueño|the dream
+el hogar|the home
+el teatro|the theater
+el tema|the theme
+el viaje|the trip
+el medicamento|the medicine(lek)
+el recibo|receipt(paragon)
+
+la avenida|the avenue
+la hoja|the leaf
+la calle|the street
+la llave|the key
+la camisa|the shirt
+la medicina|the medicine(medycyna)
+la carta|the letter
+la música|the music
+la obra|the play(utwór, dzieło)
+la factura|the bill(faktura)
+la cuenta|account
+la palabra|the word
+la ducha|the shower
+la pared|the wall
+la entrada|the entrance
+la playa|the beach
+la escalera|the stairs
+la pregunta|the question
+la escuela|the school
+la puerta|the door
+la fiesta|the party
+la salida|the exit
+la frase|the phrase
+la salud|the health
+la gente|the people
+la guerra|the war
+la tarea|the homework
+la tarjeta postal|the postcard
+
+alto|tall 
+amable|kind 
+gracioso|amusing
+amistoso|friendly 
+profundo|deep
+ancho|wide 
+largo|long
+bajo|low, short (in height) 
+lento|slow
+libre|free(wolny)
+gratis|free(darmowy)
+cariñoso|affectionate 
+nuevo|new
+ciego|blind 
+orgulloso|proud
+corto|short (in length) 
+peligroso|dangerous
+dulce|sweet 
+pesado|heavy, dull
+duro|hard 
+rápido|rapid, fast
+elegante|elegant 
+raro|rare/strange
+emocionante|exciting 
+sencillo|simple
+especial|special 
+sordo|deaf
+estrecho|narrow 
+suave|soft
+fiel|faithful 
+tranquilo|tranquil
+
+la estación|the season
+mientras|while
+o|or
+pero|but
+porque|because
+si|if
+y|and

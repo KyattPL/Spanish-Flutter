@@ -18,7 +18,7 @@ class _ResultsState extends State<Results> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Spanish-Flutter'),
+        title: const Text('Spanish-Book-Flutter'),
         centerTitle: true,
         backgroundColor: Colors.brown[800],
       ),

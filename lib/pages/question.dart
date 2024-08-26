@@ -1,8 +1,10 @@
 import 'dart:convert';
 import 'dart:math';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
 
 class Question extends StatefulWidget {
   const Question({Key? key}) : super(key: key);
@@ -16,18 +18,31 @@ class _QuestionState extends State<Question> {
   Map tests = {};
   TextEditingController inputController = TextEditingController();
 
-  void readJson() async {
-    String data = await rootBundle.loadString('assets/tests_json.json');
-    final decoded = await json.decode(data);
-    setState(() {
-      tests = decoded;
-    });
+  Future<void> _loadOrCopyJson() async {
+    final directory = await getApplicationDocumentsDirectory();
+    final filePath = '${directory.path}/tests_json.json';
+    final file = File(filePath);
+
+    if (await file.exists()) {
+      // Load the JSON file if it exists
+      String jsonData = await file.readAsString();
+      setState(() {
+        tests = json.decode(jsonData);
+      });
+    } else {
+      // Copy the JSON from assets to the writable directory if it doesn't exist
+      String assetData = await rootBundle.loadString('assets/tests_json.json');
+      await file.writeAsString(assetData);
+      setState(() {
+        tests = json.decode(assetData);
+      });
+    }
   }
 
   @override
   void initState() {
     super.initState();
-    readJson();
+    _loadOrCopyJson();
   }
 
   @override
@@ -58,21 +73,22 @@ class _QuestionState extends State<Question> {
     List wrong = arguments['wrong'];
     int answered = arguments['answered'];
     List questionsRemaining = arguments['questionsRemaining'];
+    int maxQuestions = arguments['maxQuestions'];
 
     List testData = tests.isNotEmpty ? tests[testName]["data"] : [];
 
     void submitAnswer() {
-      bool isCorrect = isCorrectAnswer(testData[questionNo - 1], whichToShow);
-      isCorrect ? null : wrong.add(testData[questionNo - 1]);
+      bool isCorrect = isCorrectAnswer(testData[questionNo], whichToShow);
+      isCorrect ? null : wrong.add(testData[questionNo]);
       int scoreIncrement = isCorrect ? 1 : 0;
 
       answered += 1;
 
-      if (answered == testData.length) {
+      if (answered == maxQuestions) {
         Navigator.pushReplacementNamed(context, '/results', arguments: {
           'testName': testName,
           'score': score + scoreIncrement,
-          'maxScore': testData.length,
+          'maxScore': maxQuestions,
           'wrong': wrong
         });
       } else {
@@ -87,14 +103,15 @@ class _QuestionState extends State<Question> {
           'questionNo': nextQuestion,
           'answered': answered,
           'wrong': wrong,
-          'questionsRemaining': questionsRemaining
+          'questionsRemaining': questionsRemaining,
+          'maxQuestions': maxQuestions
         });
       }
     }
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Spanish-Flutter'),
+        title: const Text('Spanish-Book-Flutter'),
         centerTitle: true,
         backgroundColor: Colors.brown[800],
       ),
@@ -103,7 +120,7 @@ class _QuestionState extends State<Question> {
         color: Colors.brown[900],
         child: tests.isNotEmpty ? Column(
           children: [
-            Text('${testData[questionNo - 1][whichToShow]}', style: TextStyle(
+            Text('${testData[questionNo][whichToShow]}', style: TextStyle(
               color: Colors.brown[200],
               fontSize: 24
             )),

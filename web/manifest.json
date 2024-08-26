@@ -1,6 +1,6 @@
 {
-    "name": "spanish_app",
-    "short_name": "spanish_app",
+    "name": "spanish_book_app",
+    "short_name": "spanish_book_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
