@@ -1,78 +1,74 @@
-restaurant|el restaurante
-fish (out of water)|el pescado
-soup|la sopa
-how?|¿cómo?
-where?|¿dónde?
-who?|¿quién?
-here|aquí
-there|allí
-happy (merry)|alegre
-angry|enojado
-pretty|bonito
-happy|feliz
-good|bueno
-beautiful, handsome|guapo
-tired|cansado
-beautiful, handsome|hermoso
-happy (contented)|contento
-pretty|lindo
-delicious|delicioso
-delicious|rico
-sick|enfermo
+el restaurante|restaurant
+el pescado|fish (out of water)
+la sopa|soup
+¿cómo?|how?
+¿dónde?|where?
+¿quién?|who?
+aquí|here
+allí|there
+alegre|happy (merry)
+enojado|angry
+bonito|pretty
+feliz|happy
+bueno|good
+guapo|beautiful, handsome
+cansado|tired
+hermoso|beautiful, handsome
+contento|happy (contented)
+lindo|pretty
+delicioso|delicious
+sabroso|delicious
+enfermo|sick
 
-architect|el arquitecto
-teacher|el maestro
-lawyer|el abogado
-engineer|el ingeniero
-the United States|los Estados Unidos
-Catholic|católico
-wood|la madera
-plastic|el plástico
-leather|el cuero
-glass|el vidrio
-stone|la piedra
-doll|la muñeca
-party|la fiesta
-concert|el concierto
-protest|la protesta
-club|el club
-capital|la capital
+el arquitecto|architect
+el maestro|teacher
+el abogado|lawyer
+el ingeniero|engineer
+los Estados Unidos|the United States
+católico|Catholic
+la madera|wood
+el plástico|plastic
+el cuero|leather
+el vidrio|glass
+la piedra|stone
+la muñeca|doll
+la fiesta|party
+el concierto|concert
+la protesta|protest
+el club|club
+la capital|capital
 
-Nouns:
-the bedroom|el dormitorio / la habitación
-the cabinet|el gabinete
-the rug|la alfombra
-the oven|el horno
-the pencil|el lápiz
-the kitchen|la cocina
-the wood|la madera
-the collection|la colección
-the refrigerator|el refrigerador
-the dining room|el comedor
-the wall|la pared
-the curtain|la cortina
-the yard|el patio
-the notebook|el cuaderno
-the living room|la sala
-the mirror|el espejo
-the study|el estudio
-the stove|la estufa
-the video|el video
+el dormitorio / la habitación|the bedroom
+el gabinete|the cabinet
+la alfombra|the rug
+el horno|the oven
+el lápiz|the pencil
+la cocina|the kitchen
+la madera|the wood
+la colección|the collection
+el refrigerador|the refrigerator
+el comedor|the dining room
+la pared|the wall
+la cortina|the curtain
+el patio|the yard
+el cuaderno|the notebook
+la sala|the living room
+el espejo|the mirror
+el estudio|the study
+la estufa|the stove
+el video|the video
 
-Adjectives:
-antique|antiguo
-navy blue|azul marino
-comfortable|cómodo
-fine/delicate|fino
-thick|grueso
-clean|limpio
-my (sing., pl.)|mi / mis
-private|privado
-simple|sencillo
-all|todo
+antiguo|antique
+azul marino|navy blue
+cómodo|comfortable
+fino|fine/delicate
+grueso|thick
+limpio|clean
+mi / mis|my (sing., pl.)
+privado|private
+sencillo|simple
+todo|all
 
-Adverbs:
-enough|bastante
-still|todavía
-
-question|la pregunta
+bastante|enough
+todavía|still
+la pregunta|question
