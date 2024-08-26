@@ -1,0 +1,91 @@
+los pantalones|the pants
+el capítulo|the chapter
+la parte|the part
+la razón|the reason
+la oficina|the office
+el trabajo|the work
+la fecha|the date (data)
+el nacimiento|the birth
+la hora|the hour
+
+la bebida|the drink
+un día de fiesta|a holiday
+el ambiente|the atmosphere
+lleno|full
+la carne|the meat
+el pollo|the chicken
+la papa|the potato
+la verdura|the vegetable(warzywo=jedzonko)
+el vegetal|the vegetable/plant(roślina)
+la ensalada|the salad
+el postre|the dessert
+
+el agua|the water
+el águila|the eagle
+el alma|the soul
+el arma|the weapon
+el hacha|the axe
+
+el desayuno|the breakfast
+el almuerzo|the lunch
+el impuesto|the tax
+el camarero|the waiter
+el mantel|the tablecloth
+la carta|the menu
+el menú|the menu
+la cena|the supper
+el mozo|the waiter
+el cheque|the check
+el plato|the plate
+la cocina|the kitchen
+la propina|the tip
+el comedor|the dining room
+la servilleta|the napkin
+la comida|the meal
+la tarjeta de crédito|the credit card
+la cuchara|the spoon
+el cuchillo|the knife
+el tenedor|the fork
+la cuenta|the check, the bill
+el vaso|the glass
+
+caliente|warm/hot
+picante|spicy
+delicioso|delicious
+sabroso|delicious
+fresco|fresh
+sano|healthy
+frío|cold
+seco|dry
+limpio|clean
+sucio|dirty
+lleno|full
+vacío|empty
+
+Es mediodía|It is midday. / It is noon.
+Es medianoche|It is midnight.
+Es temprano|It is early.
+Es tarde|It is late.
+
+una vez|one time/once
+doble|double
+dos veces|two times/twice
+triple|triple
+tres veces|three times
+la mitad|(a) half
+
+la almohada|the pillow
+la aspiradora|the vacuum cleaner
+un desorden|a mess
+la escoba|the broom
+la esponja|the sponge
+el helado|the ice cream
+el lavaplatos|the dishwasher
+la mancha|the stain
+el polvo|the dust
+la ropa|the clothes
+la sábana|the sheet
+
+al principio|at the beginning
+es otro cuento|it’s another story
+por lo menos|at least
