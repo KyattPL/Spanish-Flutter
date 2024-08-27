@@ -27,16 +27,15 @@ el arma|the weapon
 el hacha|the axe
 
 el desayuno|the breakfast
-el almuerzo|the lunch
+el almuerzo|the dinner
 el impuesto|the tax
 el camarero|the waiter
 el mantel|the tablecloth
 la carta|the menu
 el menú|the menu
 la cena|the supper
-el mozo|the waiter
 el cheque|the check
-el plato|the plate
+el plato|the plate/the dish
 la cocina|the kitchen
 la propina|the tip
 el comedor|the dining room
@@ -76,7 +75,7 @@ la mitad|(a) half
 
 la almohada|the pillow
 la aspiradora|the vacuum cleaner
-un desorden|a mess
+el desorden|a mess
 la escoba|the broom
 la esponja|the sponge
 el helado|the ice cream
