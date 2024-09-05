@@ -38,20 +38,15 @@ el cheque|the check
 el plato|the plate/the dish
 la cocina|the kitchen
 la propina|the tip
-el comedor|the dining room
 la servilleta|the napkin
 la comida|the meal
 la tarjeta de crédito|the credit card
 la cuchara|the spoon
 el cuchillo|the knife
 el tenedor|the fork
-la cuenta|the check, the bill
-el vaso|the glass
 
 caliente|warm/hot
 picante|spicy
-delicioso|delicious
-sabroso|delicious
 fresco|fresh
 sano|healthy
 frío|cold

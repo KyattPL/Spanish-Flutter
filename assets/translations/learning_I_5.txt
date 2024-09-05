@@ -1,0 +1,49 @@
+cantar|to sing
+bailar|to dance
+bajar|to go down/to descend
+caminar|to walk
+cocinar|to cook
+comprar|to buy
+contestar|to answer
+descansar|to rest
+entrar (en)|to enter (in)
+escuchar|to listen to
+estudiar|to study
+hablar|to speak
+limpiar|to clean
+llegar|to arrive
+mirar|to look at
+nadar|to swim
+practicar|to practice
+regresar|to return
+trabajar|to work
+viajar|to travel
+
+comer|to eat
+aprender|to learn
+beber|to drink
+comprender|to understand
+correr|to run
+leer|to read
+meter|to put in
+prender|to turn on
+romper|to break
+vender|to sell
+
+vivir|to live
+abrir|to open
+compartir|to share
+decidir|to decide
+describir|to describe
+discutir|to discuss
+escribir|to write
+recibir|to receive
+subir|to go up/to ascend
+sufrir|to suffer
+
+deber|should, ought to, must (plus infinitive), to owe
+ganar|to win, to earn
+llevar|to carry, to wear
+pasar|to pass (by), to happen, to spend (time)
+tocar|to touch, to play (an instrument)
+tomar|to take, to have (something to drink, breakfast, lunch, dinner)
