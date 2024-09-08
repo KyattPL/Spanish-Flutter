@@ -4,7 +4,7 @@ bajar|to go down/to descend
 caminar|to walk
 cocinar|to cook
 comprar|to buy
-contestar|to answer
+contestar/responder|to answer
 descansar|to rest
 entrar (en)|to enter (in)
 escuchar|to listen to
