@@ -45,7 +45,8 @@ la cuchara|the spoon
 el cuchillo|the knife
 el tenedor|the fork
 
-caliente|warm/hot
+caliente|hot
+cálido|warm
 picante|spicy
 fresco|fresh
 sano|healthy
