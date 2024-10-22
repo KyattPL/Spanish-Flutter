@@ -9,7 +9,7 @@ el día|the day
 la comida|the meal
 el niño|the little boy, the child
 el sistema|the system
-el carro|the car
+el coche|the car
 la persona|the person
 la casa|the house
 la amistad|the friendship

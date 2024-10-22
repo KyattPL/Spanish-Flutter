@@ -25,7 +25,7 @@ beber|to drink
 comprender|to understand
 correr|to run
 leer|to read
-meter|to put in
+meter|to put in (włożyć)
 prender|to turn on
 romper|to break
 vender|to sell

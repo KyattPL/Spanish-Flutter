@@ -8,13 +8,13 @@ jugar|to play, to play (a sport)
 
 entender|to understand
 perder|to lose
-querer|to want
+querer|to want, to love
 tener|to have
-devolver|to return (something), to give back
+devolver|to return (something), to give back (zwrócić)
 poder|to be able, can, may
 volver|to return
 hacer|to do, to make
-poner|to put
+poner|to put (położyć)
 saber|to know (a fact), to know how
 ver|to see
 
@@ -24,7 +24,7 @@ venir|to come
 pedir|to ask for, to request
 repetir|to repeat
 seguir|to follow, to continue
-servir|to server
+servir|to serve
 sonreír|to smile
 dormir|to sleep
 oír|to hear
@@ -43,6 +43,8 @@ la hora pico|the rush hour
 la muchedumbre|the crowd
 el sótano|the basement
 el teatro|the theater
+la cita|the appointment
+el pájaro|the bird
 
 cerca de mí|near me
 a mi lado|at my side

@@ -1,0 +1,51 @@
+el gimnasio|the gym
+el elefante|the elephant
+el ejercicio|the exercise
+el cine|the cinema
+
+aceptar|to accept
+cruzar|to cross
+apagar|to turn off, (zgasić)
+dibujar|to draw
+arreglar|to arrange, to fix
+disfrutar|to enjoy
+cambiar|to change, to exchange
+doblar|to turn, to fold, to bend
+celebrar|to celebrate
+explicar|to explain
+firmar|to sign (podpisać)
+pintar|to paint
+gozar|to enjoy
+preparar|to prepare
+llorar|to cry
+repasar|to review, to check
+manejar|to handle, to operate
+terminar|to finish, to end
+marcar|to dial, to mark
+tirar|to throw, to throw away
+necesitar|to need
+usar|to use, to wear
+parar|to stop, to block (ball)
+
+tener _ años|to be _ years old
+tener calor|to be hot
+tener celos|to be jealous
+tener cuidado|to be careful
+tener la culpa|to be at fault
+tener dolor de|to have a (head)ache, (stomach)ache, etc.
+tener envidia|to be envious
+tener éxito|to be successful, to have success
+tener frío|to be cold
+tener ganas de|to want, to desire
+tener hambre|to be hungry
+tener la palabra|to have the floor
+tener lugar|to take place
+tener miedo de|to be afraid of
+tener prisa|to be in a hurry
+tener que ver con|to have to do with
+tener rabia|to be in a rage, to be very angry
+tener razón|to be right
+tener sed|to be thirsty
+tener sueño|to be sleepy
+tener suerte|to be lucky, to have luck
+tener vergüenza|to be ashamed
