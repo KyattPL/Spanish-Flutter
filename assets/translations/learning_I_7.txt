@@ -49,3 +49,11 @@ tener sed|to be thirsty
 tener sueño|to be sleepy
 tener suerte|to be lucky, to have luck
 tener vergüenza|to be ashamed
+
+acabar de + infinitive|to have just (done something)
+dejar de + infinitive|to stop (doing something)
+tener que + infinitive|to have to (do something)
+tratar de + infinitive|to try to (do sth), to be about (sth)
+volver a + infinitive|to do (something) again
+gozar de + subject|to enjoy (something)
+aprender a + infinitive|to learn to (do something)
