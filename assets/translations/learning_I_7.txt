@@ -57,3 +57,63 @@ tratar de + infinitive|to try to (do sth), to be about (sth)
 volver a + infinitive|to do (something) again
 gozar de + subject|to enjoy (something)
 aprender a + infinitive|to learn to (do something)
+
+la articulación|the joint(staw)
+la mejilla|the cheek
+la barba|the beard
+la muñeca|the wrist
+la barbilla|the chin
+el muslo|the thigh
+la boca|the mouth
+las nalgas|the buttocks
+el brazo|the arm
+la nariz|the nose
+el cabello|the hair
+la cabeza|the head
+la cadera|the hip
+el ojo|the eye
+la cara|the face
+la oreja|the ear
+la ceja|the eyebrow
+el párpado|the eyelid
+la cintura|the waist
+el pecho|the chest
+el codo|the elbow
+el pelo|the hair
+la columna|the spine
+la pestaña|the eyelash
+el cuello|the neck
+el pie|the foot
+el dedo|the finger
+la piel|the skin
+el dedo del pie|the toe
+la pierna|the leg
+el diente|the tooth
+el pulgar|the thumb
+las encías|the gums
+la quijada|the jaw
+la espalda|the back
+la rodilla|the knee
+la frente|the forehead
+los senos|the breasts
+la garganta|the throat
+el talón|the heel
+el hombro|the shoulder
+el tobillo|the ankle
+la lengua|the tongue
+la uña|the nail
+la mano|the hand
+el cuerpo|the body
+
+el hueso|the bone
+el músculo|the muscle
+el cerebro|the brain
+el pulmón|the lung
+el corazón|the heart
+el riñón|the kidney
+las costillas|the ribs
+la sangre|the blood
+el estómago|the stomach
+el tendón|the tendon(ścięgno)
+el hígado|the liver
+las venas|the veins
