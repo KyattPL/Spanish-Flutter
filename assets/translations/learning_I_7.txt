@@ -82,6 +82,7 @@ el codo|the elbow
 el pelo|the hair
 la columna|the spine
 la pestaña|the eyelash
+
 el cuello|the neck
 el pie|the foot
 el dedo|the finger
