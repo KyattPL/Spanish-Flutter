@@ -68,7 +68,7 @@ la boca|the mouth
 las nalgas|the buttocks
 el brazo|the arm
 la nariz|the nose
-el cabello|the hair
+el cabello|the hair (on head)
 la cabeza|the head
 la cadera|the hip
 el ojo|the eye
@@ -118,3 +118,25 @@ el estómago|the stomach
 el tendón|the tendon(ścięgno)
 el hígado|the liver
 las venas|the veins
+
+el bisabuelo|the great-grandfather
+el abuelo|the grandfather
+el padre|the father
+la madre|the mother
+el pariente|the (male) relative
+el tío/a|the uncle, the aunt
+el esposo/a|the husband, the wife
+el hijo/a|the son, the daughter
+el hermano/a|the brother, the sister
+el nieto/a|the grandson, the granddaughter
+el primo/a|the (male) cousin, the (female) cousin
+el sobrino/a|the nephew, the niece
+el suegro/a|the father-in-law, the mother-in-law
+el yerno|the son-in-law
+la nuera|the daughter-in-law
+el cuñado/a|the brother-in-law, the sister-in-law
+el padrastro|the stepfather
+la madrastra|the stepmother
+el padrino|the godfather
+la madrina|the godmother
+el ahijado/a|the godson, the goddaughter
