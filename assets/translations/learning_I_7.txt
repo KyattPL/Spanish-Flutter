@@ -119,24 +119,24 @@ el tendón|the tendon(ścięgno)
 el hígado|the liver
 las venas|the veins
 
-el bisabuelo|the great-grandfather
-el abuelo|the grandfather
+bisabuelo/a|the great-grandfather, the great-grandmother
+abuelo/a|the grandfather, the grandmother
 el padre|the father
 la madre|the mother
-el pariente|the (male) relative
-el tío/a|the uncle, the aunt
-el esposo/a|the husband, the wife
-el hijo/a|the son, the daughter
-el hermano/a|the brother, the sister
-el nieto/a|the grandson, the granddaughter
-el primo/a|the (male) cousin, the (female) cousin
-el sobrino/a|the nephew, the niece
-el suegro/a|the father-in-law, the mother-in-law
+pariente|the relative
+tío/a|the uncle, the aunt
+esposo/a|the husband, the wife
+hijo/a|the son, the daughter
+hermano/a|the brother, the sister
+nieto/a|the grandson, the granddaughter
+primo/a|the (male) cousin, the (female) cousin
+sobrino/a|the nephew, the niece
+suegro/a|the father-in-law, the mother-in-law
 el yerno|the son-in-law
 la nuera|the daughter-in-law
-el cuñado/a|the brother-in-law, the sister-in-law
+cuñado/a|the brother-in-law, the sister-in-law
 el padrastro|the stepfather
 la madrastra|the stepmother
 el padrino|the godfather
 la madrina|the godmother
-el ahijado/a|the godson, the goddaughter
+ahijado/a|the godson, the goddaughter
