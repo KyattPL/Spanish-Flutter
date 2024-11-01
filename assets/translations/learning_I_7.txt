@@ -140,3 +140,45 @@ la madrastra|the stepmother
 el padrino|the godfather
 la madrina|the godmother
 ahijado/a|the godson, the goddaughter
+
+aparecer|to appear
+escoger|to choose
+caber|to fit
+lograr|to achieve, to succeed in (+ infinitive)
+confesar|to confess
+desaparecer|to disappear
+llenar|to fill
+emerger|to emerge
+al escuchar|upon listening, upon hearing
+dar consejos|to give advice
+estar inquieto|to be nervous, fidgety
+estar tranquilo|to be calm
+parece|it seems
+sigue así|it continues in this way
+
+el apellido|the last name, the surname
+la cita|the appointment
+el consultorio|the doctor’s office
+el horario|the schedule
+la llamada|the phone call
+la mayoría|the majority
+la moda|the style, the fashion
+el nombre|the name
+el paciente|the patient
+el personaje|the character
+el reloj|the watch
+el rincón|the corner
+la sala de espera|the waiting room
+la secretaria|the secretary
+los seguros médicos|medical insurance
+común|common
+roto|broken
+solo|alone
+a menudo|frequently
+al final|at the end
+antes de 1 infinitive|before (doing something)
+como cualquier otra|like any (whatever) other
+en seguida|right away
+mientras tanto|meanwhile
+por fin|at last
+por un rato|for a little while
