@@ -155,10 +155,11 @@ estar inquieto|to be nervous, fidgety
 estar tranquilo|to be calm
 parece|it seems
 sigue así|it continues in this way
+común|common
+roto|broken
+solo|alone
 
 el apellido|the last name, the surname
-la cita|the appointment
-el consultorio|the doctor’s office
 el horario|the schedule
 la llamada|the phone call
 la mayoría|the majority
@@ -170,13 +171,9 @@ el reloj|the watch
 el rincón|the corner
 la sala de espera|the waiting room
 la secretaria|the secretary
-los seguros médicos|medical insurance
-común|common
-roto|broken
-solo|alone
 a menudo|frequently
 al final|at the end
-antes de 1 infinitive|before (doing something)
+antes de + infinitive|before (doing something)
 como cualquier otra|like any (whatever) other
 en seguida|right away
 mientras tanto|meanwhile
