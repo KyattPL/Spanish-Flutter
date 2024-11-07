@@ -1,0 +1,108 @@
+mi, mis|my
+tu, tus|your (sing.)
+su, sus|Your, his, her, their
+nuestro/a, nuestros/as|our
+vuestro/a, vuestros/as|your (pl.)
+
+esto/e/a|this
+estos/as|these
+eso/e/a|that
+esos/as|those
+aquel, aquello/a|that (over there)
+aquellos/as|those (over there)
+
+Alemania|Germany
+Irlanda|Ireland
+Arabia Saudita|Saudi Arabia
+Israel|Israel
+la Argentina|Argentina
+Italia|Italy
+Austria|Austria
+Jamaica|Jamaica
+Bélgica|Belgium
+Japón|Japan
+Bolivia|Bolivia
+Marruecos|Morocco
+el Brasil|Brazil
+México|Mexico
+el Canadá|Canada
+Noruega|Norway
+China|China
+Corea|Korea
+el Panamá|Panama
+el Paraguay|Paraguay
+Cuba|Cuba
+el Perú|Peru
+Dinamarca|Denmark
+Polonia|Poland
+Portugal|Portugal
+Egipto|Egypt
+Escocia|Scotland
+el Ecuador|Ecuador
+España|Spain
+los Estados Unidos|United States
+Rusia|Russia
+Finlandia|Finland
+Francia|France
+Grecia|Greece
+Suecia|Sweden
+la Suiza|Switzerland
+Tailandia|Thailand
+Holanda|Netherlands
+Taiwán|Taiwan
+Turquía|Turkey
+Hungría|Hungary
+el Uruguay|Uruguay
+la India|India
+Inglaterra|England
+Vietnam|Vietnam
+Irak/Iraq|Iraq
+Irán|Iran
+
+alemán|German
+irlandés|Irish
+saudí/saudita|Saudi
+israelí|Israeli
+argentino|Argentine
+italiano|Italian
+austriaco|Austrian
+jamaiquino|Jamaican
+belga|Belgian
+japonés|Japanese
+boliviano|Bolivian
+marroquí|Moroccan
+brasileño|Brazilian
+mexicano|Mexican
+canadiense|Canadian
+noruego|Norwegian
+chino|Chinese
+coreano|Korean
+panameño|Panamanian
+paraguayo|Paraguayan
+cubano|Cuban
+peruano|Peruvian
+danés|Danish
+polaco|Polish
+
+portugués|Portuguese
+egipcio|Egyptian
+escocés|Scottish
+español|Spanish
+norteamericano/estadounidense|American
+ruso|Russian
+finlandés|Finnish
+francés|French
+griego|Greek
+sueco|Swedish
+suizo|Swiss
+tailandés|Thai
+holandés|Dutch
+taiwanés|Taiwanese
+turco|Turkish
+húngaro|Hungarian
+uruguayo|Uruguayan
+hindú|Indian
+inglés|English
+vietnamita|Vietnamese
+iraquí|Iraqi
+iraní|Iranian
