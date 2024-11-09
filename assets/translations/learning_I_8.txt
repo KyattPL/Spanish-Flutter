@@ -106,3 +106,40 @@ inglés|English
 vietnamita|Vietnamese
 iraquí|Iraqi
 iraní|Iranian
+
+bueno|good
+malo|bad
+mucho|a lot of, much, many
+poco|a little bit, a few, not much, not many
+bastante, suficiente|enough
+ambos|both
+cada|each
+varios|several
+alguno|some
+otro|other, another
+todo|all, every
+próximo|next
+único|only
+último|last, final
+antiguo|former(precede), ancient(follow)
+cierto|certain(precede), sure(follow)
+grande|great(precede), big(follow)
+pobre|unfortunate(precede), poor(follow)
+mismo|same(precede), (it/her/him etc.)self(follow)
+viejo|longtime(precede), old(follow)
+
+más + adjetivo + que|more + adjective + than
+menos + adjetivo + que|less + adjective + than
+tan + adjetivo + como|as + adjective + as
+el (la) más + adjetivo + de|(the) most + adjective + of
+el (la) menos + adjetivo + de|(the) least + adjective + of
+bueno, mejor|good, better
+malo, peor|bad, worse
+joven, menor|young, younger (ppl)
+viejo, mayor|old, older (ppl)
+más + nombre + que|more + noun + than
+menos + nombre + que|less + noun + than
+tanto + nombre + como|as much/many + noun + as
+más que|more than (verbs)
+menos que|less than (verbs)
+tanto como|as much as (verbs)
