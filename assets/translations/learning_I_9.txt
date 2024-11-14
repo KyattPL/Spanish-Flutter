@@ -1,0 +1,31 @@
+nada|nothing
+nadie|no one
+nunca|never
+jamás|never
+ninguno|not one
+algo|something
+alguien|someone
+a veces, algunas veces|sometimes
+siempre|always
+alguno|some
+
+tímido|shy
+el azúcar|the sugar
+
+no... ni... ni...|neither...nor...
+no más que|not more than (with numbers)
+más de|more than (with numbers)
+tampoco|neither, either
+ni... tampoco|not... either
+sino|but rather
+de nada, por nada|you’re welcome, think nothing of it
+no hay de que|you’re welcome, don’t mention it
+ya no|no longer
+ahora no|not now
+todavía no|not yet
+ni siquiera|not even
+sin + infinitive + nada|without + gerund + anything
+no es para tanto|it’s not such a big deal
+casi nunca|almost never, hardly ever
+más que nada|more than anything
+nada más|nothing more, that’s all
