@@ -1,7 +1,6 @@
 nada|nothing
 nadie|no one
-nunca|never
-jamás|never
+nunca/jamás|never
 ninguno|not one
 algo|something
 alguien|someone
@@ -24,7 +23,7 @@ ya no|no longer
 ahora no|not now
 todavía no|not yet
 ni siquiera|not even
-sin + infinitive + nada|without + gerund + anything
+sin + infinitivo + nada|without + gerund + anything
 no es para tanto|it’s not such a big deal
 casi nunca|almost never, hardly ever
 más que nada|more than anything
