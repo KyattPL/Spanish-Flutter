@@ -46,11 +46,10 @@ según|according to
 durante|during
 sobre|above, on top of, about (a theme or topic)
 entre|between, among
-excepto|except
+excepto/salvo|except
 hasta|until
 hacia|toward
 desde|since; from (a point of departure in place or time)
-salvo|except
 
 al lado de|next to
 alrededor de|around
