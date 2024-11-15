@@ -28,3 +28,53 @@ no es para tanto|it’s not such a big deal
 casi nunca|almost never, hardly ever
 más que nada|more than anything
 nada más|nothing more, that’s all
+
+a|at, to
+en|in, on
+con|with
+para|for, in order to
+de|of, from, about
+sin|without
+antes de|before
+después de|after
+en vez de|instead of
+además de|in addition to
+a pesar de|in spite of
+
+contra|against
+según|according to
+durante|during
+sobre|above, on top of, about (a theme or topic)
+entre|between, among
+excepto|except
+hasta|until
+hacia|toward
+desde|since; from (a point of departure in place or time)
+salvo|except
+
+al lado de|next to
+alrededor de|around
+cerca de|near
+debajo de|underneath
+bajo|under (more figurative than debajo de)
+delante de|before, in front of (physical location)
+ante|before, in front of, in the presence of
+dentro de|inside of
+detrás de|behind
+tras|after (in a set of expressions)
+encima de|on top of
+enfrente de, frente a|in front of, opposite, facing, across from
+fuera de|outside of
+junto a, pegado a|close to, right next to
+lejos de|far from
+
+entre tú y yo|between you and me
+menos tú y yo|except you and me
+excepto tú y yo|except you and me
+según tú|according to you
+incluso yo|including me
+salvo yo|except me
+
+conmigo|with me
+contigo|with you
+consigo|with yourself, with himself, with herself, with themselves
