@@ -83,7 +83,7 @@ class _TestsState extends State<Tests> {
       ..sort();
   }
 
-  void _handleTestSelection(BuildContext context, String testName, Map arguments) {
+  void _handleTestSelection(BuildContext context, String testName, Map arguments) async {
     List<int> learningQuestionIndices = [];
 
     for (int i = 0; i < tests[testName]['data'].length; i++) {

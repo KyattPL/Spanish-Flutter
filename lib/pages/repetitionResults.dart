@@ -1,17 +1,16 @@
 import 'package:flutter/material.dart';
 
-class Results extends StatefulWidget {
-  const Results({Key? key}) : super(key: key);
+class RepetitionResults extends StatefulWidget {
+  const RepetitionResults({Key? key}) : super(key: key);
 
   @override
-  State<Results> createState() => _ResultsState();
+  State<RepetitionResults> createState() => _RepetitionResultsState();
 }
 
-class _ResultsState extends State<Results> {
+class _RepetitionResultsState extends State<RepetitionResults> {
   @override
   Widget build(BuildContext context) {
     Map arguments = ModalRoute.of(context)?.settings.arguments as Map;
-    String testName = arguments['testName'];
     int score = arguments['score'];
     int maxScore = arguments['maxScore'];
     List wrong = arguments['wrong'];
@@ -30,30 +29,18 @@ class _ResultsState extends State<Results> {
             Expanded(
               child: Column(
                 children: [
-                  Text(testName, style: TextStyle(
-                    color: Colors.brown[200],
-                    fontSize: 32
-                  )),
                   Text('Your score was: $score / $maxScore', style: TextStyle(
-                    color: Colors.brown[200],
-                    fontSize: 16
+                      color: Colors.brown[200],
+                      fontSize: 16
                   )),
                   TextButton(
                       onPressed: () {
-                        if (arguments['isRepetition'] == true) {
-                          Navigator.pushNamedAndRemoveUntil(
-                              context,
-                              '/repetition',
-                                  (Route<dynamic> route) => false
-                          );
-                        } else {
-                          Navigator.pop(context);
-                        }
+                        Navigator.popUntil(context, ModalRoute.withName("/"));
                       },
                       style: TextButton.styleFrom(
-                        foregroundColor: Colors.brown[200],
-                        backgroundColor: Colors.brown[400],
-                        textStyle: const TextStyle(fontSize: 16)
+                          foregroundColor: Colors.brown[200],
+                          backgroundColor: Colors.brown[400],
+                          textStyle: const TextStyle(fontSize: 16)
                       ),
                       child: const Text('Continue')
                   ),

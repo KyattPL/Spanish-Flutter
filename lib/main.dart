@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:spanish_book_app/pages/browser.dart';
 import 'package:spanish_book_app/pages/home.dart';
 import 'package:spanish_book_app/pages/learning.dart';
+import 'package:spanish_book_app/pages/repetition.dart';
+import 'package:spanish_book_app/pages/repetitionQuestion.dart';
+import 'package:spanish_book_app/pages/repetitionResults.dart';
 import 'package:spanish_book_app/pages/results.dart';
 import 'package:spanish_book_app/pages/tests.dart';
 import 'package:spanish_book_app/pages/question.dart';
@@ -14,7 +17,10 @@ void main() {
       '/question': (context) => const Question(),
       '/results': (context) => const Results(),
       '/browser': (context) => const Browser(),
-      '/learning': (context) => const Learning()
+      '/learning': (context) => const Learning(),
+      '/repetition': (context) => const Repetition(),
+      '/repetitionQuestion': (context) => const RepetitionQuestion(),
+      '/repetitionResults': (context) => const RepetitionResults()
     },
   ));
 }

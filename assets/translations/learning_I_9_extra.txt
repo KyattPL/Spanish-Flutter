@@ -1,0 +1,77 @@
+aunque|although
+el circo|the circus
+el colega|the colleague
+el colmo|the limit
+soltera|single
+la gira|the tour
+indicar|to indicate
+de todos modos|anyway
+el interés|the interest
+la caja|the box
+las noticias|the news
+el correo|the post office
+la parada|the bus stop
+los derechos humanos|the human rights
+el/la testigo|the witness
+el/la juez|the judge
+el vecino|the neighbor
+la ley|the law
+
+el alba (f.)|the dawn
+el mar|the sea
+las montañas|the mountains
+la colina/el monte|the hill
+el desierto|the desert
+la nieve|the snow
+las nubes|the clouds
+la inundación|the flood
+el ocaso|the sunset
+el lago|the lake
+el océano|the ocean
+la lluvia|the rain
+la puesta del sol|the sunset
+la luna|the moon
+el relámpago|the lightning
+la madrugada|the dawn, early morning
+el río|the river
+el sol|the sun
+el temblor|the tremor
+la tormenta/la tempestad|the storm
+el trueno|the thunder
+el terremoto|the earthquake
+el viento|the wind
+la tierra|the earth
+
+¿Qué tiempo hace?|What’s the weather like?
+Hace buen tiempo|The weather is good
+Hace mal tiempo|The weather is bad
+Hace calor.|It’s hot
+Hay estrellas|The stars are out
+Hace frío|It’s cold
+Hay luna|The moon is out
+Hace fresco|It’s cool
+Hay neblina|It’s foggy
+Hace sol|It’s sunny
+Hay nubes|It’s cloudy
+Hace viento|It’s windy
+Hay polvo|It’s dusty
+
+buscar|to look for
+conversar|to converse
+mandar|to send
+saludar|to greet
+fingir|to pretend
+funcionar|to function, to work
+impresionante|impressive
+oscuro|dark
+
+el cambio|the change
+el correo electrónico|e-mail
+la computadora|the computer
+el empleado|the worker
+el esfuerzo|the effort
+el mundo|the world
+el espacio|the space
+la impresora|the printer
+la voz|the voice
+el jefe|the boss

@@ -68,8 +68,7 @@ junto a, pegado a|close to, right next to
 lejos de|far from
 
 entre tú y yo|between you and me
-menos tú y yo|except you and me
-excepto tú y yo|except you and me
+excepto/menos tú y yo|except you and me
 según tú|according to you
 incluso yo|including me
 salvo yo|except me
@@ -77,3 +76,21 @@ salvo yo|except me
 conmigo|with me
 contigo|with you
 consigo|with yourself, with himself, with herself, with themselves
+
+por acá, por aquí|around here
+por allá, por allí|around there
+por ahora|for now
+por casualidad|by chance
+por costumbre, lo común|usually
+por ejemplo|for example
+por eso|therefore, for this reason
+por favor|please
+por fin|finally
+por lo menos|at least
+por poco|almost
+por primera vez|for the first time
+por supuesto|of course
+por todas partes|everywhere
+por la mañana|in the morning (imprecise time)
+por la tarde|in the afternoon
+por la noche|in the evening

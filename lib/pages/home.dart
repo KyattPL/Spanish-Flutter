@@ -17,12 +17,10 @@ class _HomeState extends State<Home> {
     final filePath = '${directory.path}/tests_json.json';
     final file = File(filePath);
 
-    // Delete the existing file
     if (await file.exists()) {
       await file.delete();
     }
 
-    // Copy the original JSON from assets
     String assetData = await rootBundle.loadString('assets/tests_json.json');
     await file.writeAsString(assetData);
 
@@ -33,8 +31,35 @@ class _HomeState extends State<Home> {
     }
   }
 
+  Widget _buildButton({
+    required VoidCallback onPressed,
+    required Widget content,
+    required double height,
+    Color? color,
+  }) {
+    return Container(
+      height: height,
+      margin: const EdgeInsets.only(bottom: 8),
+      child: RawMaterialButton(
+        onPressed: onPressed,
+        fillColor: color ?? Colors.brown[700],
+        child: content,
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
+    final screenHeight = MediaQuery.of(context).size.height;
+    final availableHeight = screenHeight -
+        MediaQuery.of(context).padding.top -
+        AppBar().preferredSize.height -
+        16; // Total padding
+
+    final largeButtonHeight = availableHeight * 0.25; // 25% of available height
+    final smallButtonHeight = availableHeight * 0.2;  // 20% of available height
+    final resetButtonHeight = 36.0;
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Spanish-Book-Flutter'),
@@ -42,119 +67,103 @@ class _HomeState extends State<Home> {
         backgroundColor: Colors.brown[800],
       ),
       body: Container(
-        padding: const EdgeInsets.all(20.0),
+        padding: const EdgeInsets.all(8.0),
         color: Colors.brown[900],
-        child: Column(
+        child: ListView(
           children: [
-            Expanded(
-              child: Row(
+            _buildButton(
+              height: largeButtonHeight,
+              onPressed: () {
+                Navigator.pushNamed(context, '/tests', arguments: {'option': 1});
+              },
+              content: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Expanded(
-                    child: RawMaterialButton(
-                      onPressed: () { Navigator.pushNamed(context, '/tests', arguments: { 'option': 1 }); },
-                      fillColor: Colors.brown[700],
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
-                            child: Row(
-                              children: [
-                                Expanded(child: Image.asset('assets/english.png')),
-                                const Expanded(child: Icon(Icons.arrow_right, size: 72,)),
-                                Expanded(child: Image.asset('assets/spanish.png'))
-                              ],
-                            ),
-                          ),
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceAround,
-                            children: [
-                              Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
-                              Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
-                            ],
-                          )
-                        ],
-                      ),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 32),
+                    child: Row(
+                      children: [
+                        Expanded(child: Image.asset('assets/english.png')),
+                        const Expanded(child: Icon(Icons.arrow_right, size: 64)),
+                        Expanded(child: Image.asset('assets/spanish.png'))
+                      ],
                     ),
                   ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 20,),
-            Expanded(
-              child: Row(
-                children: [
-                  Expanded(
-                    child: RawMaterialButton(
-                      onPressed: () { Navigator.pushNamed(context, '/tests', arguments: { 'option': 2 }); },
-                      fillColor: Colors.brown[700],
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
-                            child: Row(
-                              children: [
-                                Expanded(child: Image.asset('assets/spanish.png')),
-                                const Expanded(child: Icon(Icons.arrow_right, size: 72,)),
-                                Expanded(child: Image.asset('assets/english.png'))
-                              ],
-                            ),
-                          ),
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceAround,
-                            children: [
-                              Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
-                              Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
-                            ],
-                          )
-                        ],
-                      ),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 20,),
-            Expanded(
-              child: Row(
-                children: [
-                  Expanded(
-                    child: RawMaterialButton(
-                      onPressed: () { Navigator.pushNamed(context, '/browser'); },
-                      fillColor: Colors.brown[700],
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
-                            child: Row(
-                              children: const [
-                                Expanded(child: Icon(Icons.book, size: 72,)),
-                              ],
-                            ),
-                          ),
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Text('Learn', style: TextStyle(color: Colors.brown[200], fontSize: 64)),
-                            ],
-                          )
-                        ],
-                      ),
-                    ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+                      Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                      Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                    ],
                   )
                 ],
               ),
             ),
-            ElevatedButton(
-              onPressed: () async {
-                await _resetJsonFile(context);
+            _buildButton(
+              height: largeButtonHeight,
+              onPressed: () {
+                Navigator.pushNamed(context, '/tests', arguments: {'option': 2});
               },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.red, // Button color
+              content: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 32),
+                    child: Row(
+                      children: [
+                        Expanded(child: Image.asset('assets/spanish.png')),
+                        const Expanded(child: Icon(Icons.arrow_right, size: 64)),
+                        Expanded(child: Image.asset('assets/english.png'))
+                      ],
+                    ),
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+                      Text('ESP', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                      Text('ENG', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                    ],
+                  )
+                ],
               ),
-              child: const Text('Reset Data'),
+            ),
+            _buildButton(
+              height: smallButtonHeight,
+              onPressed: () {
+                Navigator.pushNamed(context, '/browser');
+              },
+              content: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const Icon(Icons.book, size: 64),
+                  Text('Learn', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                ],
+              ),
+            ),
+            _buildButton(
+              height: smallButtonHeight,
+              onPressed: () {
+                Navigator.pushNamed(context, '/repetition');
+              },
+              content: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const Icon(Icons.repeat, size: 64),
+                  Text('Repetition', style: TextStyle(color: Colors.brown[200], fontSize: 42)),
+                ],
+              ),
+            ),
+            SizedBox(
+              height: resetButtonHeight,
+              child: ElevatedButton(
+                onPressed: () async {
+                  await _resetJsonFile(context);
+                },
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.red,
+                ),
+                child: const Text('Reset Data'),
+              ),
             ),
           ],
         ),

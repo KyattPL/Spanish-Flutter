@@ -6,59 +6,41 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 
-class Question extends StatefulWidget {
-  const Question({Key? key}) : super(key: key);
+class RepetitionQuestion extends StatefulWidget {
+  const RepetitionQuestion({Key? key}) : super(key: key);
 
   @override
-  State<Question> createState() => _QuestionState();
+  State<RepetitionQuestion> createState() => _RepetitionQuestionState();
 }
 
-class _QuestionState extends State<Question> {
+class _RepetitionQuestionState extends State<RepetitionQuestion> {
 
-  Map tests = {};
+  // Map tests = {};
   TextEditingController inputController = TextEditingController();
 
-  Future<void> _loadOrCopyJson() async {
-    final directory = await getApplicationDocumentsDirectory();
-    final filePath = '${directory.path}/tests_json.json';
-    final file = File(filePath);
+  // Future<void> _loadOrCopyJson() async {
+  //   final directory = await getApplicationDocumentsDirectory();
+  //   final filePath = '${directory.path}/tests_json.json';
+  //   final file = File(filePath);
+  //
+  //   if (await file.exists()) {
+  //     // Load the JSON file if it exists
+  //     String jsonData = await file.readAsString();
+  //     setState(() {
+  //       tests = json.decode(jsonData);
+  //     });
+  //   } else {
+  //     // Copy the JSON from assets to the writable directory if it doesn't exist
+  //     String assetData = await rootBundle.loadString('assets/tests_json.json');
+  //     await file.writeAsString(assetData);
+  //     setState(() {
+  //       tests = json.decode(assetData);
+  //     });
+  //   }
+  // }
 
-    if (await file.exists()) {
-      // Load the JSON file if it exists
-      String jsonData = await file.readAsString();
-      setState(() {
-        tests = json.decode(jsonData);
-      });
-    } else {
-      // Copy the JSON from assets to the writable directory if it doesn't exist
-      String assetData = await rootBundle.loadString('assets/tests_json.json');
-      await file.writeAsString(assetData);
-      setState(() {
-        tests = json.decode(assetData);
-      });
-    }
-  }
-
-  Future<void> _updateRepetitionItems(Map questionObj, bool isCorrect, int questionNo) async {
-    if (!isCorrect) {
-      final directory = await getApplicationDocumentsDirectory();
-      final file = File('${directory.path}/repetition_items.json');
-      List<Map<dynamic, dynamic>> reps = [];
-
-      if (await file.exists()) {
-        final String contents = await file.readAsString();
-        reps = List<Map<String, dynamic>>.from(json.decode(contents));
-      }
-
-      // Check if item already exists
-      bool exists = reps.any((item) =>
-      item['eng'] == questionObj['eng'] && item['esp'] == questionObj['esp']);
-
-      if (!exists) {
-        reps.add(questionObj);
-        await file.writeAsString(json.encode(reps));
-      }
-    } else {
+  Future<void> _updateRepetitionItems(bool isCorrect, int questionNo) async {
+    if (isCorrect) {
       // Remove correctly answered item from repetition list
       final directory = await getApplicationDocumentsDirectory();
       final file = File('${directory.path}/repetition_items.json');
@@ -71,7 +53,7 @@ class _QuestionState extends State<Question> {
   @override
   void initState() {
     super.initState();
-    _loadOrCopyJson();
+    // _loadOrCopyJson();
   }
 
   @override
@@ -95,7 +77,6 @@ class _QuestionState extends State<Question> {
   @override
   Widget build(BuildContext context) {
     Map arguments = ModalRoute.of(context)?.settings.arguments as Map;
-    String testName = arguments['testName'];
     String whichToShow = arguments['option'] == 1 ? 'eng' : 'esp';
     int questionNo = arguments['questionNo'];
     int score = arguments['score'];
@@ -104,20 +85,20 @@ class _QuestionState extends State<Question> {
     List questionsRemaining = arguments['questionsRemaining'];
     int maxQuestions = arguments['maxQuestions'];
 
-    List testData = tests.isNotEmpty ? tests[testName]["data"] : [];
+    List tests = arguments['repetitionItems'];
+    List testData = tests.isNotEmpty ? tests : [];
 
     void submitAnswer() {
       bool isCorrect = isCorrectAnswer(testData[questionNo], whichToShow);
       isCorrect ? null : wrong.add(testData[questionNo]);
 
-      _updateRepetitionItems(testData[questionNo], isCorrect, questionNo);
+      _updateRepetitionItems(isCorrect, questionNo);
 
       int scoreIncrement = isCorrect ? 1 : 0;
       answered += 1;
 
       if (answered == maxQuestions) {
-        Navigator.pushReplacementNamed(context, '/results', arguments: {
-          'testName': testName,
+        Navigator.pushReplacementNamed(context, '/repetitionResults', arguments: {
           'score': score + scoreIncrement,
           'maxScore': maxQuestions,
           'wrong': wrong
@@ -127,9 +108,9 @@ class _QuestionState extends State<Question> {
         int nextQuestion = questionsRemaining[randQuestion];
         questionsRemaining.removeAt(randQuestion);
 
-        Navigator.pushReplacementNamed(context, '/question', arguments: {
+        Navigator.pushReplacementNamed(context, '/repetitionQuestion', arguments: {
           'option': arguments['option'],
-          'testName': testName,
+          'repetitionItems': arguments['repetitionItems'],
           'score': score + scoreIncrement,
           'questionNo': nextQuestion,
           'answered': answered,
@@ -152,16 +133,16 @@ class _QuestionState extends State<Question> {
         child: tests.isNotEmpty ? Column(
           children: [
             Text('${testData[questionNo][whichToShow]}', style: TextStyle(
-              color: Colors.brown[200],
-              fontSize: 24
+                color: Colors.brown[200],
+                fontSize: 24
             )),
             TextField(
               autofocus: true,
               controller: inputController,
               cursorColor: Colors.brown[400],
               decoration: InputDecoration(
-                enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[500] as Color)),
-                focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[400] as Color))
+                  enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[500] as Color)),
+                  focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: Colors.brown[400] as Color))
               ),
               textInputAction: TextInputAction.go,
               onSubmitted: (String _) => submitAnswer(),
@@ -171,10 +152,10 @@ class _QuestionState extends State<Question> {
               margin: const EdgeInsets.symmetric(vertical: 20.0),
               child: TextButton(onPressed: submitAnswer,
                   style: TextButton.styleFrom(
-                    minimumSize: const Size(160, 40),
-                    foregroundColor: Colors.brown[200],
-                    backgroundColor: Colors.brown[400],
-                    textStyle: const TextStyle(fontSize: 24)
+                      minimumSize: const Size(160, 40),
+                      foregroundColor: Colors.brown[200],
+                      backgroundColor: Colors.brown[400],
+                      textStyle: const TextStyle(fontSize: 24)
                   ), child: const Text('Next')),
             )
           ],
