@@ -27,7 +27,8 @@ el arma|the weapon
 el hacha|the axe
 
 el desayuno|the breakfast
-el almuerzo|the dinner
+la comida|the dinner
+el almuerzo|the lunch
 el impuesto|the tax
 el camarero|the waiter
 el mantel|the tablecloth
