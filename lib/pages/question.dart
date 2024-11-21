@@ -59,12 +59,20 @@ class _QuestionState extends State<Question> {
         await file.writeAsString(json.encode(reps));
       }
     } else {
-      // Remove correctly answered item from repetition list
-      final directory = await getApplicationDocumentsDirectory();
-      final file = File('${directory.path}/repetition_items.json');
-      List<Map<String, dynamic>> repItems = List<Map<String, dynamic>>.from(json.decode(await file.readAsString()));
-      repItems.removeAt(questionNo);
-      await file.writeAsString(json.encode(repItems));
+        // Remove correctly answered item from repetition list
+        final directory = await getApplicationDocumentsDirectory();
+        final file = File('${directory.path}/repetition_items.json');
+        List<Map<String, dynamic>> repItems = [];
+        
+        if (await file.exists()) {
+          repItems = List<Map<String, dynamic>>.from(json.decode(await file.readAsString()));
+        }
+        
+        // Find and remove the specific item
+        repItems.removeWhere((item) => 
+          item['eng'] == questionObj['eng'] && item['esp'] == questionObj['esp']);
+        
+        await file.writeAsString(json.encode(repItems));
     }
   }
 
