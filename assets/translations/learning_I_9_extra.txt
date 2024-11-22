@@ -19,6 +19,7 @@ la ley|the law
 
 el alba (f.)|świt (bardziej poetyckie)
 el amanecer|the sunrise
+el atardecer|the sunset
 el mar|the sea
 las montañas|the mountains
 la colina/el monte|the hill
@@ -26,11 +27,11 @@ el desierto|the desert
 la nieve|the snow
 las nubes|the clouds
 la inundación|the flood
-el ocaso|the sunset
+el ocaso|zachód słońca (poetyckie)
 el lago|the lake
 el océano|the ocean
 la lluvia|the rain
-la puesta del sol|the sunset
+la puesta del sol|the twilight (zmierzch)
 la luna|the moon
 el relámpago|the lightning
 la madrugada|early hours (12-6 AM)
