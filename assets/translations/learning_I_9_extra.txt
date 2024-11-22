@@ -17,7 +17,8 @@ el/la juez|the judge
 el vecino|the neighbor
 la ley|the law
 
-el alba (f.)|the dawn
+el alba (f.)|świt (bardziej poetyckie)
+el amanecer|the sunrise
 el mar|the sea
 las montañas|the mountains
 la colina/el monte|the hill
@@ -32,11 +33,12 @@ la lluvia|the rain
 la puesta del sol|the sunset
 la luna|the moon
 el relámpago|the lightning
-la madrugada|the dawn, early morning
+la madrugada|early hours (12-6 AM)
 el río|the river
 el sol|the sun
 el temblor|the tremor
-la tormenta/la tempestad|the storm
+la tormenta|the storm
+la tempestad|the tempest (violent storm)
 el trueno|the thunder
 el terremoto|the earthquake
 el viento|the wind
