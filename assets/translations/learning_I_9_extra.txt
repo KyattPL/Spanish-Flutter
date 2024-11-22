@@ -48,7 +48,7 @@ la tierra|the earth
 ¿Qué tiempo hace?|What’s the weather like?
 Hace buen tiempo|The weather is good
 Hace mal tiempo|The weather is bad
-Hace calor.|It’s hot
+Hace calor|It’s hot
 Hay estrellas|The stars are out
 Hace frío|It’s cold
 Hay luna|The moon is out
@@ -58,6 +58,7 @@ Hace sol|It’s sunny
 Hay nubes|It’s cloudy
 Hace viento|It’s windy
 Hay polvo|It’s dusty
+Hay lodo|It's muddy
 
 buscar|to look for
 conversar|to converse
