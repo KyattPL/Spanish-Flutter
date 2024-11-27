@@ -1,0 +1,25 @@
+cargar|to load
+la granja|the farm
+organizar|to organize
+el nivel|the level
+principiante|novice, beginner
+los fondos|the funds
+el beneficio|the profit
+la calavera|the skull
+la camiseta|the t-shirt
+el/la granjero|the farmer
+el inventario|the inventory
+la opción|the option
+la colección|the collection
+la habilidad|the ability, skill
+la fabricación|the production, manufacture
+
+la azada|the hoe
+la regadera|the watering can
+el pico|the pickaxe
+la guadaña|the scythe
+la agricultura|the agriculture, farming
+la minería|the mining
+la recolección|the gathering
+la pesca|the fishing
+el combate|the combat, fight
