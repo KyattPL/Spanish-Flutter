@@ -1,0 +1,27 @@
+gustar|to be pleasing to (coś podoba się x)
+agradar|to be pleasing to (close to gustar - coś podoba się x)
+convenir|to suit someone, to be convenient for (odpowiada x coś)
+doler|to be painful, to hurt (boli x coś)
+encantar|to be enchanting to, to like very much (urzeka x coś)
+faltar|to be lacking sth, to be missing sth (brakuje x czegoś)
+fascinar|to fascinate, to be fascinating to (fascynuje x coś)
+hacer falta|to need sth (x czegoś potrzeba)
+importar|to be important to, to matter (coś jest ważne dla x)
+interesar|to be interesting to (interesuje x coś)
+molestar|to bother, to annoy (przeszkadza x coś)
+parecer|to seem, to appear to be (coś wydaje się x)
+quedar|to be left over, to remain (zostało x coś)
+quedar por + infinitivo|to remain to (zostało x do <zrobienia czegoś>)
+sobrar|to have more than enough of sth (wystarczy x czegoś)
+
+cobrar|to charge (money)
+contar|to relate, to tell a story, to count
+contar con|to count on, to rely on 
+contestar|to answer
+dar|to give 
+decir|to say, to tell
+enseñar|to teach 
+enviar|to send
+preguntar|to ask (a question)
+prestar|to lend 
+traer|to bring
