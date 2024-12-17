@@ -1,27 +1,53 @@
-gustar|to be pleasing to (coś podoba się x)
-agradar|to be pleasing to (close to gustar - coś podoba się x)
-convenir|to suit someone, to be convenient for (odpowiada x coś)
-doler|to be painful, to hurt (boli x coś)
-encantar|to be enchanting to, to like very much (urzeka x coś)
-faltar|to be lacking sth, to be missing sth (brakuje x czegoś)
-fascinar|to fascinate, to be fascinating to (fascynuje x coś)
-hacer falta|to need sth (x czegoś potrzeba)
-importar|to be important to, to matter (coś jest ważne dla x)
-interesar|to be interesting to (interesuje x coś)
-molestar|to bother, to annoy (przeszkadza x coś)
-parecer|to seem, to appear to be (coś wydaje się x)
-quedar|to be left over, to remain (zostało x coś)
-quedar por + infinitivo|to remain to (zostało x do <zrobienia czegoś>)
-sobrar|to have more than enough of sth (wystarczy x czegoś)
+gustar|to be pleasing to (podoba się)
+agradar|to be pleasing to (close to gustar - podoba się)
+convenir|to suit someone, to be convenient for (odpowiada)
+doler|to be painful, to hurt (sprawia ból)
+encantar|to be enchanting to, to like very much (sprawia zachwyt)
+faltar|to be lacking sth, to be missing sth (brakuje)
+fascinar|to fascinate, to be fascinating to (sprawia fascynację)
+hacer falta|to need sth (potrzeba)
+importar|to be important to, to matter (jest istotne <komu>)
+interesar|to be interesting to (sprawia zainteresowanie)
+molestar|to bother, to annoy (przeszkadza)
+parecer|to seem, to appear to be (wydaje się)
+quedar|to be left over, to remain (zostało)
+quedar por + infinitivo|to remain to (zostało do <infinitive>)
+sobrar|to have more than enough of sth (wystarczy)
 
-cobrar|to charge (money)
-contar|to relate, to tell a story, to count
-contar con|to count on, to rely on 
-contestar|to answer
-dar|to give 
-decir|to say, to tell
-enseñar|to teach 
-enviar|to send
-preguntar|to ask (a question)
-prestar|to lend 
-traer|to bring
+cobrar|to charge for, to get paid (płacić)
+contar|to tell a story, to count (opowiedzieć, liczyć)
+contar con|to count on, to rely on (ufać [dosłownie: liczyć na])
+contestar|to answer (odpowiedzieć)
+dar|to give (dać)
+decir|to say, to tell (powiedzieć)
+enseñar|to teach (wpajać wiedzę [uczyć])
+enviar|to send (wysłać)
+preguntar|to ask a question (zadać pytanie)
+prestar|to lend (pożyczać)
+traer|to bring (przynieść)
+
+ir de compras|to go shopping
+las afueras|the outskirts, suburbs
+probar|to taste, to try (próbować)
+el área (f.)|the area
+en qué puedo servirles|how can I serve (help) you
+recomendar|to recommend
+los mariscos|the seafood
+la langosta|the lobster
+el cangrejo|the crab
+el ajo|the garlic
+los camarones|the shrimp
+
+andar|to walk (synonim caminar)
+arreglar la maleta|to pack the suitcase
+cargar|to carry 
+cenar|to dine 
+tardar|to delay
+dar una vuelta|to take a walk
+el asiento|the seat
+los audífonos|the headphones
+la azafata|the stewardess, flight attendant
+la imagen|the image
+el pasillo|the aisle
+la ventanilla|the window in a car, boat, or airplane
+el vuelo|the flight
