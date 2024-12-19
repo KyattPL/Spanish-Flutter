@@ -32,11 +32,11 @@ probar|to taste, to try (próbować)
 el área (f.)|the area
 en qué puedo servirles|how can I serve (help) you
 recomendar|to recommend
-los mariscos|the seafood
+el marisco|the seafood
 la langosta|the lobster
 el cangrejo|the crab
 el ajo|the garlic
-los camarones|the shrimp
+el camaron|the shrimp
 
 andar|to walk (synonim caminar)
 arreglar la maleta|to pack the suitcase
